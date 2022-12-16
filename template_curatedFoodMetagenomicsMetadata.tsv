@@ -1,0 +1,26 @@
+col_name	uniqueness	requiredness	multiplevalues	allowedvalues	description
+dataset_name	non-unique	required	FALSE	[a-zA-Z-]+_[0-9]{4}[a-zA-Z_]*	Dataset name.
+sample_id	unique	required	FALSE	[0-9a-zA-Z]\S+	Sample identifier.
+macrocategory	non-unique	required	FALSE	Food	Categorical variable describing sample - highest order.
+category	non-unique	required	FALSE	alcohol|dairy|fermented_beverages|fermented_fish|fermented_fruits_and_vegetables|fermented_grains|fermented_legumes|fermented_meat|fermented_seeds|fermented_tubers_and_roots|fish|fruits_and_vegetables|meat|other|probiotics	Categorical variable describing sample - high order.
+type	non-unique	required	FALSE	[a-zA-Z]\S+	Categorical variable describing sample - low order.
+subtype	non-unique	optional	FALSE	[a-zA-Z]\S+	Categorical variable describing sample - lowest order.
+commercial_name	non-unique	optional	FALSE	[a-zA-Z]\S+	Commercial name of the sample - if available on the market.
+country	non-unique	optional	FALSE	ALA|AUS|AUT|BEL|BEN|BFA|BGR|CAN|CHE|CHN|COL|DEU|DNK|ECU|ESP|EST|ETH|FIN|FRA|GBR|GHA|GRC|HKG|HRV|IDN|IND|IRL|ISL|ISR|ITA|JPN|KEN|KOR|MEX|MNG|MYS|NGA|NOR|NZL|PHL|PRT|RUS|SAU|SGP|SWE|TUN|TUR|TWN|USA|ZAF	Country of acquisition using ISO3 code from http://www.fao.org/countryprofiles/iso3list/en/.
+sample_accession	non-unique	optional	FALSE	[0-9a-zA-Z]\S+	Database code describing the biological sample.
+run_accession	non-unique	optional	TRUE	[0-9a-zA-Z]\S+	Database code describing the sequencing run.
+experiment_accession	non-unique	optional	TRUE	[0-9a-zA-Z]\S+	Database code describing the experiment.
+study_accession	non-unique	optional	FALSE	[0-9a-zA-Z]\S+	Database code describing the study.
+project_accession	non-unique	optional	FALSE	[0-9a-zA-Z]\S+	Database code describing the project.
+database_origin	non-unique	optional	FALSE	GSA|MG-RAST|NCBI	Database origin of the raw data.
+library_layout	non-unique	optional	FALSE	SINGLE|PAIRED	Whether to expect SINGLE or PAIRED end reads.
+sequencing_platform	non-unique	required	FALSE	HiSeq_X_Ten|Illumina_Genome_Analyzer_II|Illumina_HiSeq_1500|Illumina_HiSeq_2000|Illumina_HiSeq_2500|Illumina_HiSeq_4000|Illumina_MiSeq|Illumina_NovaSeq_6000|Ion_Torrent_PGM|NextSeq_500|NextSeq_550|Sequel	Sequencing platform - could be modified as new sequencing platforms are added to the database.
+DNA_extraction_kit	non-unique	optional	FALSE	CTAB|DNeasy_Blood_and_Tissue_Kit|DNeasy_Mastitis_Mini|Fast_DNA_SPIN_Kit|GeneJET|MasterPure|Metagenome_DNA_Isolation_Kit_for_Water|PowerFood|PowerLyzer_PowerSoil_DNA|PowerMax|PowerSoil|PowerWater|Promega_Wizard|QIAquick|Qiagen_TissueLyser/GeneAll_Exgene|UltraClean_GelSpin|Wizard_Plus_Miniprep|ZymoBIOMICS_DNA/RNA_Mini_Kit|genomic_DNA_extraction_kit_(Tiangen)|other	DNA extraction kit.
+collection_date	non-unique	optional	FALSE	[0-9]{4}+-?[0-9]{2}+-?[0-9]{2}	Date of sample collection (YYYY-MM-DD).
+n_of_bases	non-unique	required	FALSE	[0-9]+	Total number of bases sequenced in the sample - calculated from raw data.
+n_of_reads	non-unique	required	FALSE	[0-9]+	Number of final reads - calculated from raw data.
+min_read_len	non-unique	required	FALSE	[0-9]+	Minimum read length - calculated from raw data.
+median_read_len	non-unique	required	FALSE	[0-9]+	Median read length - calculated from raw data.
+mean_read_len	non-unique	required	FALSE	[0-9]+	Mean read length - calculated from raw data.
+max_read_len	non-unique	required	FALSE	[0-9]+	Maximum read length - calculated from raw data.
+curator	non-unique	required	FALSE	Niccolò_Carlino|Edoardo_Pasoll	Curator name.
