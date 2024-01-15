@@ -104,7 +104,7 @@ Description of the columns included in the shared files:
   - Human: # of MAGs in the bin retrieved from human samples
   - Animal: # of MAGs in the bin retrieved from animal samples
   - Other_categories: # of MAGs in the bin retrieved from samples of various origin ( soil, environmental, etc...)
-  - NA: # of mags in the bin for which metadata about the original samples are not available
+  - NA: # of MAGs in the bin for which metadata about the original samples are not available
 
 ## Publications: 
 
