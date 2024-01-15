@@ -7,7 +7,7 @@ All the tables report the taxonomic analysis at the Specie-level Genome Bins (SG
 
 A scientific publication with the main results about cFMD is currently under submission by a peer-review scientific journal.
 
-If you're interested in human microbiome data, please have a look at curatedMetagenomicData (https://github.com/waldronlab/curatedMetagenomicDataCuration/wiki#tutorial) and at the powerful unlocked analysis (https://github.com/waldronlab/curatedMetagenomicDataAnalyses)
+If you're interested in human microbiome data, please have a look at curatedMetagenomicData (*cMD*, https://github.com/waldronlab/curatedMetagenomicDataCuration/wiki#tutorial) and at the powerful unlocked analysis (https://github.com/waldronlab/curatedMetagenomicDataAnalyses)
 
 ## Files:
 In the main folder you can find 6 different files:
