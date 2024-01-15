@@ -1,11 +1,11 @@
 dataset	#food samples filtered	source database	accession number	title	link
-AlvarezOrdonezA_xxxx	173	newly sequenced	newly sequenced	newly sequenced	newly sequenced
+AlvarezOrdonezA_xxxx	173	newly sequenced	PRJNA997800;PRJNA997801	newly sequenced	newly sequenced
 ArikanM_2020	12	NCBI	PRJEB22200	Microbial composition of Kombucha determined using amplicon sequencing and shotgun metagenomics	https://onlinelibrary.wiley.com/doi/full/10.1111/1750-3841.14992
 BertuzziAS_2018	42	NCBI	PRJEB15423	Omics-based insights into flavor development and microbial succession within surface-ripened cheese	https://msystems.asm.org/content/3/1/e00211-17
 ChaconVargasK_2020	5	NCBI	PRJNA603591	Genomic profiling of bacterial and fungal communities and their predictive functionality during pulque fermentation by whole-genome shotgun sequencing	https://www.nature.com/articles/s41598-020-71864-4
-CM_INJERA	2	NCBI	newly sequenced		
-CrovadoreJ_2017	5	NCBI	PRJNA360674	Deeper Insight in Beehives: Metagenomes of Royal Jelly, Pollen, and Honey from Lavender, Chestnut, and Fir Honeydew and Epiphytic and Endophytic Microbiota of Lavender and Rose Flowers	https://mra.asm.org/content/ga/5/22/e00425-17.full.pdf
-DeFilippisF_xxxx	119	newly sequenced	newly sequenced	newly sequenced	newly sequenced
+CM_INJERA	2	NCBI	PRJNA504891		
+CrovadoreJ_2017	5	NCBI	PRJNA358537;PRJNA358558;PRJNA362533;PRJNA360674;PRJNA360677	Deeper Insight in Beehives: Metagenomes of Royal Jelly, Pollen, and Honey from Lavender, Chestnut, and Fir Honeydew and Epiphytic and Endophytic Microbiota of Lavender and Rose Flowers	https://mra.asm.org/content/ga/5/22/e00425-17.full.pdf
+DeFilippisF_xxxx	119	newly sequenced	PRJ	newly sequenced	newly sequenced
 DeRoosJ_2020	6	NCBI	PRJEB28363	Temporal Shotgun Metagenomics Revealed the Potential Metabolic Capabilities of Specific Microorganisms During Lambic Beer Production	https://www.frontiersin.org/articles/10.3389/fmicb.2020.01692/full
 DuR_2020	3	NCBI	PRJDB9193	Chinese Liquor Fermentation: Identification of Key Flavor-Producing Lactobacillus spp. by Quantitative Profiling with Indigenous Internal Standards	https://aem.asm.org/content/86/12/e00456-20
 DuruIC_2018	6	NCBI	PRJEB23938	Metagenomic and metatranscriptomic analysis of the microbial community in Swiss-type Maasdam cheese during ripening	https://www.sciencedirect.com/science/article/pii/S0168160518302769?via%3Dihub
@@ -19,23 +19,23 @@ KawaiT_2012	2	NCBI	PRJDA53873	Identification of Kudoa septempunctata as the Caus
 KumarJ_2019	4	NCBI	PRJNA529966	Metagenomic Insights Into the Taxonomic and Functional Features of Kinema, a Traditional Fermented Soybean Product of Sikkim Himalaya	https://www.frontiersin.org/articles/10.3389/fmicb.2019.01744/full
 LandisEA_2021	40	NCBI	PRJNA589612	The diversity and function of sourdough starter microbiomes	https://elifesciences.org/articles/61644#content
 LeechJ_2020	58	NCBI	PRJEB35321	Fermented-Food Metagenomics Reveals Substrate-Associated Differences in Taxonomy and Health-Associated and Antibiotic Resistance Determinants	https://msystems.asm.org/content/5/6/e00522-20
-LeechJ_xxxx	91	newly sequenced	newly sequenced	newly sequenced	newly sequenced
+LeechJ_xxxx	91	newly sequenced	PRJ	newly sequenced	newly sequenced
 LeonardSR_2016	12	NCBI	PRJNA340876	Strain-Level Discrimination of Shiga Toxin-Producing Escherichia coli in Spinach Using Metagenomic Sequencing	https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167870
 LiZ_2018	6	NCBI	PRJNA433075	Revealing the influence of microbiota on the quality of Pu-erh tea during fermentation process by shotgun metagenomic and metabolomic analysis	https://www.sciencedirect.com/science/article/pii/S0740002018301588
 LiZ_2019	8	NCBI	PRJNA473190	Metagenomic insights into the changes in microbial community and antimicrobial resistance genes associated with different salt content of red pepper (Capsicum annuum L.) sauce	https://www.sciencedirect.com/science/article/abs/pii/S0740002019302989?via%3Dihub
 LordanR_2019	5	NCBI	PRJEB30083	The effect of ovine milk fermentation on the antithrombotic properties of polar lipids	https://www.sciencedirect.com/science/article/pii/S1756464619300295
-MASTER_WP4_CSIC_1	113	newly sequenced	newly sequenced	newly sequenced	newly sequenced
-MASTER_WP4_CSIC_2	164	newly sequenced	newly sequenced	newly sequenced	newly sequenced
-MASTER_WP4_FFoQSI_1	73	newly sequenced	newly sequenced	newly sequenced	newly sequenced
-MASTER_WP4_FFoQSI_2	100	newly sequenced	newly sequenced	newly sequenced	newly sequenced
-MASTER_WP4_FFoQSI_3	63	newly sequenced	newly sequenced	newly sequenced	newly sequenced
-MASTER_WP4_MATIS_1	12	newly sequenced	newly sequenced	newly sequenced	newly sequenced
-MASTER_WP4_TEAGASC_1	156	newly sequenced	newly sequenced	newly sequenced	newly sequenced
-MASTER_WP4_UNINA_1	95	newly sequenced	newly sequenced	newly sequenced	newly sequenced
-MASTER_WP4_UNINA_2	150	newly sequenced	newly sequenced	newly sequenced	newly sequenced
+MASTER_WP4_CSIC_1	113	newly sequenced	PRJNA997801	newly sequenced	newly sequenced
+MASTER_WP4_CSIC_2	164	newly sequenced	PRJNA997801	newly sequenced	newly sequenced
+MASTER_WP4_FFoQSI_1	73	newly sequenced	PRJNA997801	newly sequenced	newly sequenced
+MASTER_WP4_FFoQSI_2	100	newly sequenced	PRJNA997801	newly sequenced	newly sequenced
+MASTER_WP4_FFoQSI_3	63	newly sequenced	PRJNA997801	newly sequenced	newly sequenced
+MASTER_WP4_MATIS_1	12	newly sequenced	PRJEB62794	newly sequenced	newly sequenced
+MASTER_WP4_TEAGASC_1	156	newly sequenced	PRGEB63604	newly sequenced	newly sequenced
+MASTER_WP4_UNINA_1	95	newly sequenced	PRJ	newly sequenced	newly sequenced
+MASTER_WP4_UNINA_2	150	newly sequenced	PRJNA897099;PRJNA997801	newly sequenced	newly sequenced
 McHughAJ_2020	16	NCBI	PRJEB31110	Tracking the Dairy Microbiota from Farm Bulk Tank to Skimmed Milk Powder	https://msystems.asm.org/content/5/2/e00226-20#sec-12
 MilaniC_2019	4	NCBI	PRJNA482503	Colonization of the human gut by bovine bacteria present in Parmesan cheese	https://www.nature.com/articles/s41467-019-09303-w
-MortensenS_xxxx	375	newly sequenced	newly sequenced	newly sequenced	newly sequenced
+MortensenS_xxxx	375	newly sequenced	PRJNA977472;PRJNA1023503	newly sequenced	newly sequenced
 PasolliE_2020	16	NCBI	PRJNA603575	Large-scale genome-wide analysis links lactic acid bacteria from food with the gut microbiome	https://www.nature.com/articles/s41467-020-16438-8
 PatroJN_2016	10	NCBI	PRJNA291686	Culture-independent metagenomic surveillance of commercially available probiotics with high-throughput next-generation sequencing	 https://journals.asm.org/doi/full/10.1128/mSphere.00057-16?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org
 PfeferT_xxxx	36	NCBI	PRJNA430402	Evaluation of Enriched Background Microflora of Raw Milk Cheese Spiked with E. coli O157:H7 and E. coli O103 using Next-Generation Sequencing Technology	https://iafp.confex.com/iafp/2016/webprogram/Paper11249.html
@@ -51,7 +51,7 @@ VerceM_2019	4	NCBI	PRJEB21603	Shotgun Metagenomics of a Water Kefir Fermentation
 WalshAM_2016	18	NCBI	PRJEB15432	Microbial Succession and Flavor Production in the Fermented Dairy Beverage Kefir	https://msystems.asm.org/content/1/5/e00052-16
 WalshAM_2017	10	NCBI	PRJEB20873	Strain-Level Metagenomic Analysis of the Fermented Dairy Beverage Nunu Highlights Potential Food Safety Risks	https://aem.asm.org/content/83/16/e01144-17
 WalshAM_2020	77	NCBI	PRJEB32768	Meta-analysis of cheese microbiomes highlights contributions to multiple aspects of quality	https://www.nature.com/articles/s43016-020-0129-3
-WalshL_xxxx	266	newly sequenced	newly sequenced	newly sequenced	newly sequenced
+WalshL_xxxx	266	newly sequenced	PRJEB65292	newly sequenced	newly sequenced
 WolfeBE_2014	24	MG-RAST	mgp3362	Cheese rind communities provide tractable systems for in situ and in vitro studies of microbial diversity	https://www.cell.com/fulltext/S0092-8674(14)00745-4
 XieM_2019	1	GSA	CRA001049	An integrated metagenomic/metaproteomic investigation of microbiota in dajiang-meju, a traditional fermented soybean product in Northeast China	https://www.sciencedirect.com/science/article/pii/S0963996918308688
 YaoG_2017	30	NCBI	PRJNA340315	A Perspective Study of Koumiss Microbiome by Metagenomics Analysis Based on Single-Cell Amplification Technique	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5293792/
