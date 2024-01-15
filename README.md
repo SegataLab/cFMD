@@ -2,25 +2,19 @@
 
 curatedFoodMetagenomicData (cFMD) is a database that comprehends curated metadata, taxonomic profiles, as well as reconstructed genomes from **food (shotgun) metagenomes** both publicly available and within EU H2020 MASTER (https://www.master-h2020.eu/index.html) generated. The first version of cFMD consists in a total of 2,533 metagenomes associated with 59 datasets: 45 datasets and 583 samples are coming from publicly available studies, and the remaining 14 datasets and 1,950 samples are produced by EU H2020 MASTER partners.
 
-## Foreword: 
-All the tables report the taxonomic analysis at the Specie-level Genome Bins (SGB) precision. SGBs redefine the species concept through re-clustering of both isolates and reconstructed genomes according to their genomic distances. It is a consolidated method to include MAGs in genome references, recognize species sub-clades and characterize microbial dark matter. If you’re not familiar with the concept of SGB  and want to learn more please look at *"Extensive Unexplored Human Microbiome Diversity Revealed by Over 150,000 Genomes from Metagenomes Spanning Age, Geography, and Lifestyle"* by Edoardo Pasolli and colleagues (*Cell*, 2019) https://pubmed.ncbi.nlm.nih.gov/30661755
-
-A scientific publication with the main results about cFMD is currently under submission by a peer-review scientific journal.
-
-If you're interested in human microbiome data, please have a look at curatedMetagenomicData (*cMD*, https://github.com/waldronlab/curatedMetagenomicDataCuration/wiki#tutorial) and at the powerful unlocked analysis (https://github.com/waldronlab/curatedMetagenomicDataAnalyses)
-
 ## Files:
-In the main folder you can find 6 different files:
+
+In this GitHub respository you can find 6 files:
 - **cFMD_summary_datasets:** summary of the datasets included with reference to the publication (if public)
 
-- **cFMD_sample_metadata_w_mags:** the file contains metadata information in addition to statistics about mags reconstruction at the sample level. Table has samples as row indices and type of information as column headers. These includes:
+- **cFMD_sample_metadata_w_mags:** the file contains metadata information in addition to statistics about MAGs reconstruction at the sample level. Table has samples as row indices and type of information as column headers. These includes:
   - categorization of the samples,
   - accession codes to retrieve public metagenomes,
   - technical information (e.g. dna extraction kit, sequencer, …), and 
-  - basic statistics (number of basis, reads, contigs, mags..).
+  - basic statistics (number of basis, reads, contigs, MAGs..).
 The unique key for querying the database is represented by the dataset_name and sample_id. Food samples were classified according to their composition and production using three levels of detail (category, type and subtype) using https://link.springer.com/article/10.1007/s00253-022-11909-y as reference to help subdivide fermented foods.
 
-- **cFMD_mags:** all the mags reconstructed (generated with pipeline also presented here  https://pubmed.ncbi.nlm.nih.gov/30661755/)  with information of:
+- **cFMD_mags:** all the MAGs reconstructed (generated with pipeline also presented here  https://pubmed.ncbi.nlm.nih.gov/30661755/)  with information of:
   - the sample of origin,
   - the taxonomy of SGB to which has been assigned according to the pipeline of MetaRefSGB,
   - the known/unknown status of the specie, and 
@@ -36,7 +30,9 @@ The unique key for querying the database is represented by the dataset_name and 
 - **cFMD_sample_metadata_template**: metadata column description of the sintactic rules or dictionary used
  
 ## Detailed description and FAQs
-Description of the columns included in the shared files one by one
+All the tables report the taxonomic analysis at the Specie-level Genome Bins (SGB) precision. SGBs redefine the species concept through re-clustering of both isolates and reconstructed genomes according to their genomic distances. It is a consolidated method to include MAGs in genome references, recognize species sub-clades and characterize microbial dark matter. If you’re not familiar with the concept of SGB  and want to learn more please look at *"Extensive Unexplored Human Microbiome Diversity Revealed by Over 150,000 Genomes from Metagenomes Spanning Age, Geography, and Lifestyle"* by Edoardo Pasolli and colleagues (*Cell*, 2019) https://pubmed.ncbi.nlm.nih.gov/30661755. If you're interested in human microbiome data, please have a look at curatedMetagenomicData (*cMD*, https://github.com/waldronlab/curatedMetagenomicDataCuration/wiki#tutorial) and at the powerful unlocked analysis (https://github.com/waldronlab/curatedMetagenomicDataAnalyses)
+
+Description of the columns included in the shared files:
 - **cFMD_sample_metadata_w_mags** (unique key= dataset_name+sample_id)
   - dataset_name: name of dataset. It is formed as i) “first author surname + initial letter of first author name(s) + _ + year of publication”  for public datasets ii) “first author surname + initial letter of first author name(s) + _ + “xxxx” for not already public datasets (among those there are also MASTER partners datasets) iii) “MASTER + WPn + sampling partner + increasing number” for datasets produced inside  MASTER 
   - sample_id: name of the sample
@@ -104,8 +100,12 @@ Description of the columns included in the shared files one by one
   - MAG: #of reconstructed genomes that are contained in the SGB
   - reference_genome: #of reference genomes in the bin
   - filtered: number of reconstructed genomes discarded by MetaRefSGB (for being too similar to another included MAG) that would be assigned to the SGB
-  - Food: # of mags in the bin retrieved from food samples
-  - Human: # of mags in the bin retrieved from human samples
-  - Animal: # of mags in the bin retrieved from animal samples
-  - Other_categories: # of mags in the bin retrieved from samples of various origin ( soil, environmental, etc...)
+  - Food: # of MAGs in the bin retrieved from food samples
+  - Human: # of MAGs in the bin retrieved from human samples
+  - Animal: # of MAGs in the bin retrieved from animal samples
+  - Other_categories: # of MAGs in the bin retrieved from samples of various origin ( soil, environmental, etc...)
   - NA: # of mags in the bin for which metadata about the original samples are not available
+
+## Publications: 
+
+The scientific publication with the main results about cFMD is currently under review.
