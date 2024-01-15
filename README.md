@@ -1,12 +1,16 @@
 # cFMD
 
-curatedFoodMetagenomicData (cFMD) is a database collecting both publicly available and within EU H2020 MASTER generated food (shotgun) metagenomes that comprehends curated metadata, taxonomic profiles, as well as reconstructed genomes. The first version of cFMD consists in a total of 2,533 metagenomes associated with 59 datasets: 45 datasets and 583 samples are coming from publicly available studies, and the remaining 14 datasets and 1,950 samples are produced by EU H2020 MASTER partners.
+curatedFoodMetagenomicData (cFMD) is a database that comprehends curated metadata, taxonomic profiles, as well as reconstructed genomes from **food (shotgun) metagenomes** both publicly available and within EU H2020 MASTER (https://www.master-h2020.eu/index.html) generated. The first version of cFMD consists in a total of 2,533 metagenomes associated with 59 datasets: 45 datasets and 583 samples are coming from publicly available studies, and the remaining 14 datasets and 1,950 samples are produced by EU H2020 MASTER partners.
 
 ## Foreword: 
-All the tables report the taxonomic analysis at the Specie-level Genome Bins (SGB) precision. SGBs redefine the species concept through re-clustering of both isolates and reconstructed genomes according to their genomic distances. It is a consolidated method to include MAGs in genome references, recognize species sub-clades and characterize microbial dark matter. If you’re not familiar with the concept of SGB  and want to learn more here is the reference https://pubmed.ncbi.nlm.nih.gov/30661755
+All the tables report the taxonomic analysis at the Specie-level Genome Bins (SGB) precision. SGBs redefine the species concept through re-clustering of both isolates and reconstructed genomes according to their genomic distances. It is a consolidated method to include MAGs in genome references, recognize species sub-clades and characterize microbial dark matter. If you’re not familiar with the concept of SGB  and want to learn more please look at *"Extensive Unexplored Human Microbiome Diversity Revealed by Over 150,000 Genomes from Metagenomes Spanning Age, Geography, and Lifestyle"* by Edoardo Pasolli and colleagues (*Cell*, 2019) https://pubmed.ncbi.nlm.nih.gov/30661755
+
+A scientific publication with the main results about cFMD is currently under submission by a peer-review scientific journal.
+
+If you're interested in human microbiome data, please have a look at curatedMetagenomicData (https://github.com/waldronlab/curatedMetagenomicDataCuration/wiki#tutorial) and at the powerful unlocked analysis (https://github.com/waldronlab/curatedMetagenomicDataAnalyses)
 
 ## Files:
-In the main folder you can find 5 different files:
+In the main folder you can find 6 different files:
 - **cFMD_summary_datasets:** summary of the datasets included with reference to the publication (if public)
 
 - **cFMD_sample_metadata_w_mags:** the file contains metadata information in addition to statistics about mags reconstruction at the sample level. Table has samples as row indices and type of information as column headers. These includes:
