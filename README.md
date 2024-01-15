@@ -2,7 +2,7 @@
 
 curatedFoodMetagenomicData (cFMD) is a database that comprehends curated metadata, taxonomic profiles, as well as reconstructed genomes from **food (shotgun) metagenomes** both publicly available and within EU H2020 MASTER (https://www.master-h2020.eu/index.html) generated. The first version of cFMD consists in a total of 2,533 metagenomes associated with 59 datasets: 45 datasets and 583 samples are coming from publicly available studies, and the remaining 14 datasets and 1,950 samples are produced by EU H2020 MASTER partners.
 
-## Files:
+## Files
 
 In this GitHub respository you can find 6 files:
 - **cFMD_summary_datasets:** summary of the datasets included with reference to the publication (if public)
@@ -106,6 +106,6 @@ Description of the columns included in the shared files:
   - Other_categories: # of MAGs in the bin retrieved from samples of various origin ( soil, environmental, etc...)
   - NA: # of MAGs in the bin for which metadata about the original samples are not available
 
-## Publications: 
+## Publications
 
 The scientific publication with the main results about cFMD is currently under review.
