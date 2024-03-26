@@ -6,6 +6,7 @@ category	non-unique	required	FALSE	alcohol|dairy|fermented_beverages|fermented_f
 type	non-unique	required	FALSE	[a-zA-Z]\S+	Categorical variable describing sample - low order.
 subtype	non-unique	optional	FALSE	[a-zA-Z]\S+	Categorical variable describing sample - lowest order.
 commercial_name	non-unique	optional	FALSE	[a-zA-Z]\S+	Commercial name of the sample - if available on the market.
+fermented/non-fermented	non-unique	required	FALSE	F|NF	Dichotomous variable indicating Fermented or Non-Fermented food sample
 country	non-unique	optional	FALSE	ALA|AUS|AUT|BEL|BEN|BFA|BGR|CAN|CHE|CHN|COL|DEU|DNK|ECU|ESP|EST|ETH|FIN|FRA|GBR|GHA|GRC|HKG|HRV|IDN|IND|IRL|ISL|ISR|ITA|JPN|KEN|KOR|MEX|MNG|MYS|NGA|NOR|NZL|PHL|PRT|RUS|SAU|SGP|SWE|TUN|TUR|TWN|USA|ZAF	Country of acquisition using ISO3 code from http://www.fao.org/countryprofiles/iso3list/en/.
 sample_accession	non-unique	optional	FALSE	[0-9a-zA-Z]\S+	Database code describing the biological sample.
 run_accession	non-unique	optional	TRUE	[0-9a-zA-Z]\S+	Database code describing the sequencing run.
