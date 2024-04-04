@@ -25,8 +25,9 @@ median_read_len	non-unique	required	FALSE	[0-9]+	Median read length - calculated
 mean_read_len	non-unique	required	FALSE	[0-9]+	Mean read length - calculated from raw data.
 max_read_len	non-unique	required	FALSE	[0-9]+	Maximum read length - calculated from raw data.
 curator	non-unique	required	FALSE	Niccolò_Carlino|Edoardo_Pasoll	Curator name.
-n_MAGs_all	non-unique	required	FALSE	[0-9]+	# of MAGs resulting from the binning of the contigs
-n_MAGs_(HQ+MQ)	non-unique	required	FALSE	[0-9]+	# of MAGs passing the quality thresholds according to CheckM
-n_MAGs_MQ	non-unique	required	FALSE	[0-9]+	# of MAGs with 50%<=completeness<90% and contamination <5% according to CheckM
-n_MAGs_HQ	non-unique	required	FALSE	[0-9]+	# of MAGs with completeness >90% and contamination <5% according to CheckM
+n_contigs	non-unique	required	FALSE	[0-9]+	# of contigs with length > 1000 bp assembled from the reads of the sample
+n_MAGs_MQ_prok	non-unique	required	FALSE	[0-9]+	# of prokaryotic MAGs with 50%<=completeness<90% and contamination <5% according to CheckM
+n_MAGs_HQ_prok	non-unique	required	FALSE	[0-9]+	# of prokaryotic MAGs with completeness >=90% and contamination <5% according to CheckM
+n_MAGs_MQ_euk	non-unique	required	FALSE	[0-9]+	# of eukaryotic MAGs with 50%<=completeness<90% and contamination <5% according to BUSCO
+n_MAGs_HQ_euk	non-unique	required	FALSE	[0-9]+	# of eukaryotic MAGs with completeness >=90% and contamination <5% according to BUSCO
 filtered	non-unique	required	FALSE	no|yes	Food samples excluded from following analysis (e.g. with less than 1e08 basis)

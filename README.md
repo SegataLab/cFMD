@@ -43,6 +43,7 @@ Description of the columns included in the shared files:
   - type: third highest-level description of the sample type 
   - subtype: lowest level of description of the sample type (can be blank if not necessary/available)
   - commercial_name: name of the commercialized product
+  - fermented/non-fermented: Dichotomous variable indicating Fermented or Non-Fermented food sample
   - country: country of origin of the sample as defined by ISO3 international convention
   - sample_accession: code identificative of the sample if present in public databases
   - run_accession: code identificative of the sequencing run if present in public databases
@@ -60,11 +61,11 @@ Description of the columns included in the shared files:
   - median_read_len: median number of basis among the reads of the sample
   - mean_read_len: mean number of basis among the reads of the sample
   - max_read_len: max number of basis among the reads of the sample
-  - n_contigs: # of contigs assembled from the reads of the sample
-  - n_MAGs_all: # of MAGs resulting from the binning of the contigs
-  - n_MAGs_(HQ+MQ): # of MAGs passing the quality thresholds according to CheckM
-  - n_MAGs_MQ: # of MAGs with 50%<=completeness<90% and contamination <5% according to CheckM
-  - n_MAGs_HQ: # of MAGs with completeness >90% and contamination <5% according to CheckM
+  - n_contigs: # of contigs with length > 1000 bp assembled from the reads of the sample
+  - n_MAGs_MQ_prok:	# of prokaryotic MAGs with 50%<=completeness<90% and contamination <5% according to CheckM
+  - n_MAGs_HQ_prok:	# of prokaryotic MAGs with completeness >=90% and contamination <5% according to CheckM
+  - n_MAGs_MQ_euk:	# of eukaryotic MAGs with 50%<=completeness<90% and contamination <5% according to BUSCO
+  - n_MAGs_HQ_euk:	# of eukaryotic MAGs with completeness >=90% and contamination <5% according to BUSCO
   - filtered: food samples with less than 1e08 basis excluded from following analysis
  
 - **cFMD_mags**  (unique key= mag)
