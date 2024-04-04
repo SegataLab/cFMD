@@ -43,7 +43,7 @@ Description of the columns included in the shared files:
   - type: third highest-level description of the sample type 
   - subtype: lowest level of description of the sample type (can be blank if not necessary/available)
   - commercial_name: name of the commercialized product
-  - fermented/non-fermented: Dichotomous variable indicating Fermented or Non-Fermented food sample
+  - fermented/non-fermented: categorizing samples across and within categories based on fermentation presence
   - country: country of origin of the sample as defined by ISO3 international convention
   - sample_accession: code identificative of the sample if present in public databases
   - run_accession: code identificative of the sequencing run if present in public databases
