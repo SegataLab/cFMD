@@ -58,8 +58,8 @@ More description about the fields for some of the files presented above:
   - sequencing_platform: sequencer used to read DNA basis
   - DNA_extraction_kit: extraction kit used to isolate DNA in the sample
   - collection_date: day (DD/MM/YYYY) or month (MM-YYYY) or year (YYYY) of sample collection
-  - n_bases: # of nucleaotides forming the reads of the sample after pre-processing
-  - n_reads: # of reads of the sample after pre-processing
+  - n_of_bases: # of nucleaotides forming the reads of the sample after pre-processing
+  - n_of_reads: # of reads of the sample after pre-processing
   - min_read_len: minimum number of basis among the reads of the sample
   - median_read_len: median number of basis among the reads of the sample
   - mean_read_len: mean number of basis among the reads of the sample
@@ -70,6 +70,7 @@ More description about the fields for some of the files presented above:
   - n_MAGs_MQ_euk:	# of eukaryotic MAGs with 50%<=completeness<90% and contamination <5% according to BUSCO
   - n_MAGs_HQ_euk:	# of eukaryotic MAGs with completeness >=90% and contamination <5% according to BUSCO
   - filtered: food samples with less than 1e08 basis excluded from following analysis
+  - curator: name of the curator
  
 - **cFMD_mags_list**  (unique key= mag)
   - mag: name of the MAG formed by “${dataset_name}_${sample_id}_bin.${bin_number}”
