@@ -6,32 +6,34 @@ Current release: [![DOI](https://zenodo.org/badge/579006339.svg)](https://zenodo
 
 ## Data
 
-In this GitHub respository you can accesso to seven files (more details are provided in the section "Detailed description of data" below):
-- **cFMD_datasets:** summary of the datasets included in the current release, with reference to the publication (if available)
+From this GitHub repository you can access to these files (more details are provided in the section "Detailed description of data" below):
+- [https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv]**cFMD_datasets:** summary of the datasets included in the current release, with reference to the publication (if available)
 
-- **cFMD_metadata:** metadata information, in addition to statistics about reconstructed MAGs at sample level. The table has samples as row indices and type of information as column headers. These includes:
+- []**cFMD_metadata:** metadata information, in addition to statistics about reconstructed MAGs at sample level. The table has samples as row indices and type of information as column headers. These includes:
   - categorization of the samples,
   - accession codes to retrieve public metagenomes,
   - technical information (e.g. dna extraction kit, sequencer, etc.),
   - basic statistics (number of reads, number of bases, number of MAGs, etc.).
 The unique key for querying the database is represented by the dataset_name and sample_id. Food samples were classified according to their composition and production using three levels of detail (category, type and subtype).
 
-- **cFMD_metadata_dictionary**: description of the syntactic rules to define the metadata fields of the above file "cFMD_metadata"
+- []**cFMD_metadata_dictionary**: description of the syntactic rules to define the metadata fields of the above file "cFMD_metadata"
 
-- **cFMD_mags:** the list of the reconstructed MAGs with information in terms of:
+- []**cFMD_mags:** the reconstructed MAGs, in fasta format [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10891047.svg)](https://doi.org/10.5281/zenodo.10891047)
+
+- []**cFMD_mags_list:** the list of the reconstructed MAGs with information in terms of:
   - sample origin,
   - assigned taxonomy at species-level genome bin (SGB) level,
   - known/unknown status of the SGB,
   - basic statistics (number of contigs, N50, completeness, contamination, etc.).
 
-- **cFMD_sgbs_prokaryotic:** for each prokaryotic food SGB (i.e., having at least one MAG reconstructed from food) information in terms of:
+- []**cFMD_sgbs_prokaryotic:** for each prokaryotic food SGB (i.e., having at least one MAG reconstructed from food) information in terms of:
   - taxonomy, known/unknown status of the SGB,
   - level of the assigned taxonomy,
   - SGB statistics (number of included MAGs, number of included reference genomes, etc.).
  
-- **cFMD_sgbs_eukaryotic:** as the file "cFMD_sgbs_prokaryotic", but referred to eukaryotic SGBs.
+- []**cFMD_sgbs_eukaryotic:** as the file "cFMD_sgbs_prokaryotic", but referred to eukaryotic SGBs.
 
-- **cFMD_taxonomic_profiles**: taxonomic profiles with samples as row indices, basic metadata are column headers, and values are espressed in relative abundances (%).
+- []**cFMD_taxonomic_profiles**: taxonomic profiles with samples as row indices, basic metadata are column headers, and values are espressed in relative abundances (%).
  
 ## Detailed description of data
 All the tables report the taxonomic analysis at the Specie-level Genome Bins (SGB) precision. SGBs redefine the species concept through re-clustering of both isolates and reconstructed genomes according to their genomic distances. It is a consolidated method to include MAGs in genome references, recognize species sub-clades and characterize microbial dark matter. If you’re not familiar with the concept of SGB  and want to learn more please look at *"Extensive Unexplored Human Microbiome Diversity Revealed by Over 150,000 Genomes from Metagenomes Spanning Age, Geography, and Lifestyle"* by Edoardo Pasolli and colleagues (*Cell*, 2019) https://pubmed.ncbi.nlm.nih.gov/30661755. If you're interested in human microbiome data, please have a look at curatedMetagenomicData (*cMD*, https://github.com/waldronlab/curatedMetagenomicDataCuration/wiki#tutorial) and at the powerful unlocked analysis (https://github.com/waldronlab/curatedMetagenomicDataAnalyses)
