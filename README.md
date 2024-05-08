@@ -18,7 +18,7 @@ The unique key for querying the database is represented by the dataset_name and 
 
 - [**cFMD_metadata_dictionary**](https://github.com/SegataLab/cFMD/blob/main/cFMD_metadata_dictionary.tsv): description of the syntactic rules to define the metadata fields of the above file "cFMD_metadata"
 
-- **cFMD_mags**: the reconstructed MAGs, in fasta format [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10944576.svg)](https://doi.org/10.5281/zenodo.10944576)
+- [**cFMD_mags**](https://doi.org/10.5281/zenodo.10944576): the reconstructed MAGs in fasta format (hosted externally due to large size)
 
 - [**cFMD_mags_list**](https://github.com/SegataLab/cFMD/blob/main/cFMD_mags_list.tsv): the list of the reconstructed MAGs with information in terms of:
   - sample origin,
