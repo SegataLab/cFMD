@@ -36,10 +36,9 @@ The unique key for querying the database is represented by the dataset_name and 
 - [**cFMD_taxonomic_profiles**](https://github.com/SegataLab/cFMD/blob/main/cFMD_taxonomic_profiles.tsv): taxonomic profiles with samples as row indices, basic metadata are column headers, and values are espressed in relative abundances (%).
  
 ## Detailed description of data
-All the tables report the taxonomic analysis at the Specie-level Genome Bins (SGB) precision. SGBs redefine the species concept through re-clustering of both isolates and reconstructed genomes according to their genomic distances. It is a consolidated method to include MAGs in genome references, recognize species sub-clades and characterize microbial dark matter. If you’re not familiar with the concept of SGB  and want to learn more please look at *"Extensive Unexplored Human Microbiome Diversity Revealed by Over 150,000 Genomes from Metagenomes Spanning Age, Geography, and Lifestyle"* by Edoardo Pasolli and colleagues (*Cell*, 2019) https://pubmed.ncbi.nlm.nih.gov/30661755. If you're interested in human microbiome data, please have a look at curatedMetagenomicData (*cMD*, https://github.com/waldronlab/curatedMetagenomicDataCuration/wiki#tutorial) and at the powerful unlocked analysis (https://github.com/waldronlab/curatedMetagenomicDataAnalyses)
 
-Description of the columns included in the shared files:
-- **cFMD_sample_metadata_w_mags** (unique key= dataset_name+sample_id)
+More description about the fields for some of the files presented above:
+- **cFMD_metadata** (unique key= dataset_name+sample_id)
   - dataset_name: name of dataset. It is formed as i) “first author surname + initial letter of first author name(s) + _ + year of publication”  for public datasets ii) “first author surname + initial letter of first author name(s) + _ + “xxxx” for not already public datasets (among those there are also MASTER partners datasets) iii) “MASTER + WPn + sampling partner + increasing number” for datasets produced inside  MASTER 
   - sample_id: name of the sample
   - macrocategory: highest-level description of the sample type (food, controls, food processing, environment, or animal)
@@ -72,7 +71,7 @@ Description of the columns included in the shared files:
   - n_MAGs_HQ_euk:	# of eukaryotic MAGs with completeness >=90% and contamination <5% according to BUSCO
   - filtered: food samples with less than 1e08 basis excluded from following analysis
  
-- **cFMD_mags**  (unique key= mag)
+- **cFMD_mags_list**  (unique key= mag)
   - mag: name of the MAG formed by “${dataset_name}_${sample_id}_bin.${bin_number}”
   - dataset_name: name of the dataset from which the MAG has been reconstructed
   - sample_id: name of the sample from which the MAG has been reconstructed
@@ -93,7 +92,7 @@ Description of the columns included in the shared files:
   - GC: percentage of G+C nucleotides with respect to genome length  (CheckM)
   - strain_heterogeneity: estimated strain heterogeneity as determined from the number of multi-copy marker pairs which exceed a specified amino acid identity threshold (default = 90%)  (CheckM)
  
-- **cFMD_MetaRefSGB_Mar22_sgbs_w_food_MAGs**  (unique key= sgb_id)
+- **cFMD_sgbs_prokaryotic** and **cFMD_sgbs_eukaryotic** (unique key= sgb_id)
   - sgb_id: identification number of the SGB in MetaRefSGB
   - Unknown: can have three values, kSGB (short for knownSGB, i.e. a cluster containing at least one isolate genome) uSGB (unknownSGB, cluster containing only reconstructed genomes),  or ufSGB (unknownfoodSGB, cluster containing only reconstructed genomes from food samples and hence newly introduced)
   - Level of assigned taxonomy: species if containing at least one reference genome, otherwise lowest taxonomic rank assignable
@@ -113,8 +112,6 @@ Description of the columns included in the shared files:
   - Other_categories: # of MAGs in the bin retrieved from samples of various origin ( soil, environmental, etc...)
   - NA: # of MAGs in the bin for which metadata about the original samples are not available
 
-## Publications
+## Publication
 
-The scientific publication with the main results about cFMD is currently under review.
-
-Currently cFMD release DOI:10.5281/zenodo.10567319
+Carlino et al., "Analysis of 2,500 food metagenomes reveals unexplored microbial diversity and links with the human microbiome", under review.
