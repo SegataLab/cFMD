@@ -116,7 +116,7 @@ More description about the fields for some of the files presented above:
 ## Data generation
 
 The data here provided were mainly generated through the following tools:
-  - Pre-processing of raw-reads: validated pipeline available [here]([https://github.com/SegataLab/cFMD/blob/main/cFMD_sgbs_eukaryotic.tsv](https://github.com/SegataLab/preprocessing)
+  - Pre-processing of raw-reads: validated pipeline available [here](https://github.com/SegataLab/cFMD/blob/main/cFMD_sgbs_eukaryotic.tsv](https://github.com/SegataLab/preprocessing)
   - Reconstruction and taxonomic assignment of MAGs: assembly-based pipeline available [here](https://github.com/SegataLab/MASTER-WP5-pipelines/tree/master/05-Assembly_pipeline)
   - Taxonomic profiling: MetaPhlAn4-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/metaphlan4)
   - Strain-level profiling: StrainPhlAn-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/strainphlan4)
