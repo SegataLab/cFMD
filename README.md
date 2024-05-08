@@ -31,9 +31,9 @@ The unique key for querying the database is represented by the dataset_name and 
   - level of the assigned taxonomy,
   - SGB statistics (number of included MAGs, number of included reference genomes, etc.).
  
-- [**cFMD_sgbs_eukaryotic**](https://github.com/SegataLab/cFMD/blob/main/cFMD_sgbs_eukaryotic.tsv): as the file "cFMD_sgbs_prokaryotic", but referred to eukaryotic SGBs.
+- [**cFMD_sgbs_eukaryotic**](https://github.com/SegataLab/cFMD/blob/main/cFMD_sgbs_eukaryotic.tsv): as the file "cFMD_sgbs_prokaryotic" but referred to eukaryotic SGBs.
 
-- [**cFMD_taxonomic_profiles**](https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv): taxonomic profiles with samples as row indices, basic metadata are column headers, and values are espressed in relative abundances (%).
+- [**cFMD_taxonomic_profiles**](https://github.com/SegataLab/cFMD/blob/main/cFMD_taxonomic_profiles.tsv): taxonomic profiles with samples as row indices, basic metadata are column headers, and values are espressed in relative abundances (%).
  
 ## Detailed description of data
 All the tables report the taxonomic analysis at the Specie-level Genome Bins (SGB) precision. SGBs redefine the species concept through re-clustering of both isolates and reconstructed genomes according to their genomic distances. It is a consolidated method to include MAGs in genome references, recognize species sub-clades and characterize microbial dark matter. If you’re not familiar with the concept of SGB  and want to learn more please look at *"Extensive Unexplored Human Microbiome Diversity Revealed by Over 150,000 Genomes from Metagenomes Spanning Age, Geography, and Lifestyle"* by Edoardo Pasolli and colleagues (*Cell*, 2019) https://pubmed.ncbi.nlm.nih.gov/30661755. If you're interested in human microbiome data, please have a look at curatedMetagenomicData (*cMD*, https://github.com/waldronlab/curatedMetagenomicDataCuration/wiki#tutorial) and at the powerful unlocked analysis (https://github.com/waldronlab/curatedMetagenomicDataAnalyses)
