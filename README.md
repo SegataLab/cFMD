@@ -73,12 +73,12 @@ More description about the fields for some of the files presented above:
   - curator: name of the curator
  
 - **cFMD_mags_list**  (unique key= mag)
-  - mag: name of the MAG formed by “${dataset_name}_${sample_id}_bin.${bin_number}”
-  - dataset_name: name of the dataset from which the MAG has been reconstructed
+  - MAG_id: name of the MAG formed by “${dataset_name}_${sample_id}_bin.${bin_number}”
+  - dataset_id: name of the dataset from which the MAG has been reconstructed
   - sample_id: name of the sample from which the MAG has been reconstructed
-  - sgb_id:  identification number of the SGB in MetaRefSGB to which the MAG has been assigned
-  - Unknown: can have three values, kSGB (short for knownSGB, i.e. a cluster containing at least one isolate genome) uSGB (unknownSGB, cluster containing only reconstructed genomes),  or ufSGB (unknownfoodSGB, cluster containing only reconstructed genomes from food samples and hence newly introduced)
-  - Level of assigned taxonomy: species if containing at least one reference genome, otherwise lowest taxonomic rank assignable
+  - SGB_id:  identification number of the SGB in MetaRefSGB to which the MAG has been assigned
+  - unknown: can have three values, kSGB (short for knownSGB, i.e. a cluster containing at least one isolate genome) uSGB (unknownSGB, cluster containing only reconstructed genomes),  or ufSGB (unknownfoodSGB, cluster containing only reconstructed genomes from food samples and hence newly introduced)
+  - assigned_taxonomy_level: species if containing at least one reference genome, otherwise lowest taxonomic rank assignable
   - superkingdom: superkingdom of the assigned taxonomy
   - phylum: phylum of the assigned taxonomy
   - class: class of the assigned taxonomy
@@ -86,12 +86,11 @@ More description about the fields for some of the files presented above:
   - genus: genus of the assigned taxonomy
   - species: species of the assigned taxonomy
   - genome_size: # of nucleotides (including unknowns specified by N's) in the genome (ChekM)
-  - #contigs: number of contigs within the genome as determined by splitting scaffolds at any position consisting of more than 10 consecutive ambiguous bases (CheckM)
-  - N50 (contigs): N50 statistics as calculated over all contigs (CheckM)
+  - n_contigs: number of contigs within the genome as determined by splitting scaffolds at any position consisting of more than 10 consecutive ambiguous bases (CheckM)
+  - N50: N50 statistics as calculated over all contigs (CheckM)
   - completeness: percentage value of the estimated completeness of the  genome as determined from the presence/absence of marker genes and the expected colocalization of these genes (CheckM)
   - contamination: percentage value of the estimated contamination of genome as determined by the presence of multi-copy marker genes and the expected colocalization of these genes  (CheckM)
-  - GC: percentage of G+C nucleotides with respect to genome length  (CheckM)
-  - strain_heterogeneity: estimated strain heterogeneity as determined from the number of multi-copy marker pairs which exceed a specified amino acid identity threshold (default = 90%)  (CheckM)
+  - GC_content: percentage of G+C nucleotides with respect to genome length
  
 - **cFMD_sgbs_prokaryotic** and **cFMD_sgbs_eukaryotic** (unique key= sgb_id)
   - sgb_id: identification number of the SGB in MetaRefSGB
