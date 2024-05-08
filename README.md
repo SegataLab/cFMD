@@ -103,14 +103,15 @@ More description about the fields for some of the files presented above:
   - family: family of the assigned taxonomy
   - genus: genus of the assigned taxonomy
   - species: species of the assigned taxonomy
-  - MAG: #of reconstructed genomes that are contained in the SGB
-  - reference_genome: #of reference genomes in the bin
-  - filtered: number of reconstructed genomes discarded by MetaRefSGB (for being too similar to another included MAG) that would be assigned to the SGB
+  - MAGs: #of reconstructed genomes that are contained in the SGB
+  - isolates: #of reference genomes in the bin
+  - MAGs_filtered: number of reconstructed genomes discarded by MetaRefSGB (for being too similar to another included MAG) that would be assigned to the SGB
   - Food: # of MAGs in the bin retrieved from food samples
   - Human: # of MAGs in the bin retrieved from human samples
   - Animal: # of MAGs in the bin retrieved from animal samples
   - Other_categories: # of MAGs in the bin retrieved from samples of various origin ( soil, environmental, etc...)
   - NA: # of MAGs in the bin for which metadata about the original samples are not available
+  - # of MAGs for each food category are also reported
 
 ## Publication
 
