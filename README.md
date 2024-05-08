@@ -111,7 +111,7 @@ More description about the fields for some of the files presented above:
   - Animal: # of MAGs in the bin retrieved from animal samples
   - Other_categories: # of MAGs in the bin retrieved from samples of various origin ( soil, environmental, etc...)
   - NA: # of MAGs in the bin for which metadata about the original samples are not available
-  - # of MAGs for each food category are also reported
+  - The number of MAGs for each food category is also reported
 
 ## Publication
 
