@@ -113,6 +113,16 @@ More description about the fields for some of the files presented above:
   - NA: # of MAGs in the bin for which metadata about the original samples are not available
   - The number of MAGs for each food category is also reported
 
+## Data generation
+
+The data here provided were mainly generated through the following tools:
+  - Pre-processing of raw-reads: validated pipeline available [here]([https://github.com/SegataLab/cFMD/blob/main/cFMD_sgbs_eukaryotic.tsv](https://github.com/SegataLab/preprocessing)
+  - Reconstruction and taxonomic assignment of MAGs: assembly-based pipeline available [here](https://github.com/SegataLab/MASTER-WP5-pipelines/tree/master/05-Assembly_pipeline)
+  - Taxonomic profiling: MetaPhlAn4-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/metaphlan4)
+  - Strain-level profiling: StrainPhlAn-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/strainphlan4)
+
+Further information and requests should be directed to Niccolò Carlino (niccolo.carlino@unitn.it), Nicola Segata (nicola.segata@unitn.it), Edoardo Pasolli (edoardo.pasolli@unina.it)
+
 ## Publication
 
 Carlino et al., "Analysis of 2,500 food metagenomes reveals unexplored microbial diversity and links with the human microbiome", under review.
