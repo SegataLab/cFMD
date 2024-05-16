@@ -16,7 +16,7 @@ From this GitHub repository you can access to these files (more details are prov
   - basic statistics (number of reads, number of bases, number of MAGs, etc.).
 The unique key for querying the database is represented by the dataset_name and sample_id. Food samples were classified according to their composition and production using three levels of detail (category, type and subtype).
 
-- [**cFMD_metadata_dictionary**](https://github.com/SegataLab/cFMD/blob/main/cFMD_metadata_dictionary.tsv): description of the syntactic rules to define the metadata fields of the above file "cFMD_metadata"
+- [**cFMD_metadata_rules**](https://github.com/SegataLab/cFMD/blob/main/cFMD_metadata_rules.tsv): description of the syntactic rules to define the metadata fields of the above file "cFMD_metadata"
 
 - [**cFMD_mags**](https://doi.org/10.5281/zenodo.10944576): the reconstructed MAGs in fasta format (hosted externally due to large size)
 
