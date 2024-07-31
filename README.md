@@ -126,3 +126,7 @@ Further information and requests should be directed to Niccolò Carlino (niccolo
 ## Publication
 
 Carlino et al., "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", in press.
+
+### Acknowledgements
+
+The MASTER EU Consortium was funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No 818368. This resource was also partially supported by the European Union’s Horizon Europe programme (project DOMINO-101060218).
