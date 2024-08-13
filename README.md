@@ -33,7 +33,9 @@ The unique key for querying the database is represented by the dataset_name and 
  
 - [**cFMD_sgbs_eukaryotic**](https://github.com/SegataLab/cFMD/blob/main/cFMD_sgbs_eukaryotic.tsv): as the file "cFMD_sgbs_prokaryotic" but referred to eukaryotic SGBs.
 
-- [**cFMD_taxonomic_profiles**](https://github.com/SegataLab/cFMD/blob/main/cFMD_taxonomic_profiles.tsv): taxonomic profiles with samples as row indices, basic metadata are column headers, and values are espressed in relative abundances (%).
+- [**cFMD_taxonomic_profiles**](https://github.com/SegataLab/cFMD/blob/main/cFMD_taxonomic_profiles.tsv): taxonomic profiles with samples as row indices, basic metadata are column headers, and values are expressed in relative abundances (%).
+
+- [**cFMD_functional_profiles**](https://doi.org/10.5281/zenodo.13285428): functional profiles (normalized UniRef90 gene families, pathway abundances, and pathway coverages) with samples as column headers and row indices as functions
  
 ## Detailed description of data
 
@@ -120,6 +122,7 @@ The data here provided were mainly generated through the following tools:
   - Reconstruction and taxonomic assignment of MAGs: assembly-based pipeline available [here](https://github.com/SegataLab/MASTER-WP5-pipelines/tree/master/05-Assembly_pipeline)
   - Taxonomic profiling: MetaPhlAn4-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/metaphlan4)
   - Strain-level profiling: StrainPhlAn-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/strainphlan4)
+  - Functional profiling: HUMAnN3-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/humann3)
 
 Further information and requests should be directed to Niccolò Carlino (niccolo.carlino@unitn.it), Nicola Segata (nicola.segata@unitn.it), Edoardo Pasolli (edoardo.pasolli@unina.it)
 
