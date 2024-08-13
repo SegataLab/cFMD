@@ -125,7 +125,7 @@ Further information and requests should be directed to Niccolò Carlino (niccolo
 
 ## Publication
 
-Carlino et al., "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", Cell, in press (https://doi.org/10.1016/j.cell.2024.07.039).
+Carlino et al., "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", Cell, 2024 (https://doi.org/10.1016/j.cell.2024.07.039).
 
 ### Acknowledgements
 
