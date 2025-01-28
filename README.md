@@ -1,6 +1,6 @@
 # cFMD
 
-curatedFoodMetagenomicData (cFMD) is a resource that comprehends curated metadata, taxonomic profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. The first version of cFMD consists in a total of 2,533 metagenomes associated with 59 datasets: 45 datasets and 583 samples are coming from publicly available studies, and the remaining 14 datasets and 1,950 samples are produced within the EU H2020 MASTER project (https://www.master-h2020.eu/index.html).
+curatedFoodMetagenomicData (cFMD) is a resource that comprehends curated metadata, taxonomic profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. cFMD now comprises of new 835 food metagenomes associated from 26 datasets of recent publicly available studies, along with previuous 2,533 metagenomes from public studies and EU 2020 MASTER project (https://www.master-h2020.eu/index.html), totalling 3,368 food metagenomes associated with 85 datasets. 
 
 Current release: [![DOI](https://zenodo.org/badge/579006339.svg)](https://zenodo.org/doi/10.5281/zenodo.10567318)
 
