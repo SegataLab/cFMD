@@ -2,14 +2,16 @@
 
 curatedFoodMetagenomicData (cFMD) is a resource that comprehends curated metadata, taxonomic profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. cFMD now comprises of new 835 food metagenomes associated from 26 datasets of recent publicly available studies, along with previuous 2,533 metagenomes from public studies and EU 2020 MASTER project (https://www.master-h2020.eu/index.html), totalling 3,368 food metagenomes associated with 85 datasets. 
 
+**Note: The profiling of the new metaegenomes is done using previous cFMD release databases to remain consistent with the outcomes of old and new metagenomes**
+
 Current release: [![DOI](https://zenodo.org/badge/579006339.svg)](https://zenodo.org/doi/10.5281/zenodo.10567318)
 
 ## Data
 
 From this GitHub repository you can access to these files (more details are provided in the section "Detailed description of data" below):
-- [**cFMD_datasets**](https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv): summary of the datasets included in the current release, with reference to the publication (if available)
+- [**cFMD_datasets**]( ): summary of the datasets included in the current release, with reference to the publication (if available)
 
-- [**cFMD_metadata**](https://github.com/SegataLab/cFMD/blob/main/cFMD_metadata.tsv): metadata information, in addition to statistics about reconstructed MAGs at sample level. The table has samples as row indices and type of information as column headers. These includes:
+- [**cFMD_metadata**]( ): metadata information, in addition to statistics about reconstructed MAGs at sample level. The table has samples as row indices and type of information as column headers. These includes:
   - categorization of the samples,
   - accession codes to retrieve public metagenomes,
   - technical information (e.g. dna extraction kit, sequencer, etc.),
@@ -18,13 +20,15 @@ The unique key for querying the database is represented by the dataset_name and 
 
 - [**cFMD_metadata_rules**](https://github.com/SegataLab/cFMD/blob/main/cFMD_metadata_rules.tsv): description of the syntactic rules to define the metadata fields of the above file "cFMD_metadata"
 
-- [**cFMD_mags**](https://doi.org/10.5281/zenodo.10944576): the reconstructed MAGs in fasta format (hosted externally due to large size)
+- [**cFMD_mags**]( ): the reconstructed MAGs in fasta format (hosted externally due to large size)
 
-- [**cFMD_mags_list**](https://github.com/SegataLab/cFMD/blob/main/cFMD_mags_list.tsv): the list of the reconstructed MAGs with information in terms of:
+- [**cFMD_mags_list**]( ): the list of the reconstructed MAGs with information in terms of:
   - sample origin,
   - assigned taxonomy at species-level genome bin (SGB) level,
   - known/unknown status of the SGB,
   - basic statistics (number of contigs, N50, completeness, contamination, etc.).
+  - assigned taxonomic rank of the eukaryotic mags by BUSCO.
+    [Note: The SGB assignment of the new food MAGs is done using older] 
 
 - [**cFMD_sgbs_prokaryotic**](https://github.com/SegataLab/cFMD/blob/main/cFMD_sgbs_prokaryotic.tsv): for each prokaryotic food SGB (i.e., having at least one MAG reconstructed from food) information in terms of:
   - taxonomy, known/unknown status of the SGB,
@@ -75,7 +79,7 @@ More description about the fields for some of the files presented above:
   - curator: name of the curator
  
 - **cFMD_mags_list**  (unique key= mag)
-  - MAG_id: name of the MAG formed by “${dataset_name}_${sample_id}_bin.${bin_number}”
+  - MAG_id: name of the MAG formed by “${dataset_name}__${sample_id}__bin.${bin_number}”
   - dataset_id: name of the dataset from which the MAG has been reconstructed
   - sample_id: name of the sample from which the MAG has been reconstructed
   - SGB_id:  identification number of the SGB in MetaRefSGB to which the MAG has been assigned
@@ -87,12 +91,13 @@ More description about the fields for some of the files presented above:
   - family: family of the assigned taxonomy
   - genus: genus of the assigned taxonomy
   - species: species of the assigned taxonomy
-  - genome_size: # of nucleotides (including unknowns specified by N's) in the genome (ChekM)
+  - genome_size: # of nucleotides (including unknowns specified by N's) in the genome (CheckM)
   - n_contigs: number of contigs within the genome as determined by splitting scaffolds at any position consisting of more than 10 consecutive ambiguous bases (CheckM)
   - N50: N50 statistics as calculated over all contigs (CheckM)
   - completeness: percentage value of the estimated completeness of the  genome as determined from the presence/absence of marker genes and the expected colocalization of these genes (CheckM)
   - contamination: percentage value of the estimated contamination of genome as determined by the presence of multi-copy marker genes and the expected colocalization of these genes  (CheckM)
   - GC_content: percentage of G+C nucleotides with respect to genome length
+  - BUSCO_taxonomy: Assingable taxonomic rank for eukaryotic MAGs by BUSCO.
  
 - **cFMD_sgbs_prokaryotic** and **cFMD_sgbs_eukaryotic** (unique key= sgb_id)
   - sgb_id: identification number of the SGB in MetaRefSGB
