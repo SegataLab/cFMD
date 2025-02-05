@@ -28,7 +28,6 @@ The unique key for querying the database is represented by the dataset_name and 
   - known/unknown status of the SGB,
   - basic statistics (number of contigs, N50, completeness, contamination, etc.).
   - assigned taxonomic rank of the eukaryotic mags by BUSCO.
-    [Note: The SGB assignment of the new food MAGs is done using older] 
 
 - [**cFMD_sgbs_prokaryotic**](https://github.com/SegataLab/cFMD/blob/main/cFMD_sgbs_prokaryotic.tsv): for each prokaryotic food SGB (i.e., having at least one MAG reconstructed from food) information in terms of:
   - taxonomy, known/unknown status of the SGB,
