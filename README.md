@@ -128,7 +128,7 @@ The data here provided were mainly generated through the following tools:
   - Strain-level profiling: StrainPhlAn-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/strainphlan4)
   - Functional profiling: HUMAnN3-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/humann3)
 
-Further information and requests should be directed to Niccolò Carlino (niccolo.carlino@unitn.it), Nicola Segata (nicola.segata@unitn.it), Edoardo Pasolli (edoardo.pasolli@unina.it)
+Further information and requests should be directed to Niccolò Carlino (niccolo.carlino@unitn.it), Nicola Segata (nicola.segata@unitn.it), Edoardo Pasolli (edoardo.pasolli@unina.it), Hrituraj Dey(hrituraj.dey@unitn.it), Vitor Heidrich (vitor.heidrich@unitn.it)
 
 ## Publication
 
