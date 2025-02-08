@@ -24,7 +24,7 @@ min_read_len	non-unique	required	FALSE	[0-9]+	Minimum read length - calculated f
 median_read_len	non-unique	required	FALSE	[0-9]+	Median read length - calculated from raw data.
 mean_read_len	non-unique	required	FALSE	[0-9]+	Mean read length - calculated from raw data.
 max_read_len	non-unique	required	FALSE	[0-9]+	Maximum read length - calculated from raw data.
-curator	non-unique	required	FALSE	Niccolò_Carlino|Edoardo_Pasoll	Curator name.
+curator	non-unique	required	FALSE	Niccolò_Carlino|Edoardo_Pasoll|Hrituraj Dey|Liam Walsh	Curator name.
 n_contigs	non-unique	required	FALSE	[0-9]+	# of contigs with length > 1000 bp assembled from the reads of the sample
 n_MAGs_MQ_prok	non-unique	required	FALSE	[0-9]+	# of prokaryotic MAGs with 50%<=completeness<90% and contamination <5% according to CheckM
 n_MAGs_HQ_prok	non-unique	required	FALSE	[0-9]+	# of prokaryotic MAGs with completeness >=90% and contamination <5% according to CheckM
