@@ -1,0 +1,5 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+DeRoosJ_2020__B13M__bin.2	DeRoosJ_2020	B13M	EUK10000003	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_bruxellensis	9341963	1999	5659	65.9	0.2	0.3888
+DeRoosJ_2020__B24M__bin.2	DeRoosJ_2020	B24M	EUK10000004	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_custersianus	9591006	542	26959	91.1	0.1	0.3968
+DeRoosJ_2020__B3D__bin.2	DeRoosJ_2020	B3D	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	10227970	1706	7788	85.5	1.3	0.3816
+DeRoosJ_2020__B3W__bin.1	DeRoosJ_2020	B3W	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	9491590	1522	7605	78.5	1.5	0.381

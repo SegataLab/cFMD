@@ -1,0 +1,2 @@
+MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
+GonzalezOrozcoB_2023__SRR19505782__bin.8	GonzalezOrozcoB_2023	SRR19505782	saccharomycetes_odb10	94.6	1.2684989429175475	11403509	471	35427	0.32

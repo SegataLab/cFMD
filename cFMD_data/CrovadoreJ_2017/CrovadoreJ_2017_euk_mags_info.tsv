@@ -1,0 +1,2 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+CrovadoreJ_2017__SRS1919172__bin.5	CrovadoreJ_2017	SRS1919172	EUK10000044	uSGB	Genus	Eukaryota	Chytridiomycota	Neocallimastigomycetes	Neocallimastigales	Neocallimastigaceae	Neocallimastix	unknown	115225403	25352	5631	61.7	0.0	0.2631

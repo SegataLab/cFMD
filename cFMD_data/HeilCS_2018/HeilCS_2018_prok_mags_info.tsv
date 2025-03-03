@@ -1,0 +1,4 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+HeilCS_2018__Old_Warehouse_metagenome__bin.8	HeilCS_2018	Old_Warehouse_metagenome	SGB7196	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Levilactobacillus	Levilactobacillus_brevis	1805201	424	4890	76.0002762	0.01953125	0.46249919
+HeilCS_2018__Old_Warehouse_metagenome__bin.1	HeilCS_2018	Old_Warehouse_metagenome	SGB7176	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Pediococcus	Pediococcus_damnosus	1587882	101	24294	68.98148148	0.0	0.383514644
+HeilCS_2018__Old_Warehouse_metagenome__bin.12	HeilCS_2018	Old_Warehouse_metagenome	SGB1194	kSGB	Species	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter	Acetobacter_pomorum	1307313	28	68569	58.59011395	0.0	0.539954089
