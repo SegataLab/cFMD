@@ -1,0 +1,5 @@
+MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
+AlmeidaO_2020__SRR8742576__bin.4	AlmeidaO_2020	SRR8742576	saccharomycetes_odb10	76.8	0.390625	8422690	825	15851	0.35
+AlmeidaO_2020__SRR8742577__bin.3	AlmeidaO_2020	SRR8742577	saccharomycetes_odb10	77.19999999999999	0.1295336787564767	8243429	933	12145	0.35
+AlmeidaO_2020__SRR8742578__bin.2	AlmeidaO_2020	SRR8742578	saccharomycetes_odb10	73.6	0.4076086956521739	7944767	1288	8441	0.35
+AlmeidaO_2020__SRR8742582__bin.4	AlmeidaO_2020	SRR8742582	saccharomycetes_odb10	71.5	0.1398601398601398	7764835	1577	6245	0.36
