@@ -1,0 +1,4 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+MASTER_WP4_FFoQSI_3__VB04-30__bin.12	MASTER_WP4_FFoQSI_3	VB04-30	EUK10000074	kSGB	Species	Eukaryota	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scopulariopsis	Scopulariopsis_brevicaulis	30693265	306	154420	89.8	0.6	0.5802
+MASTER_WP4_FFoQSI_3__VB09-30__bin.51	MASTER_WP4_FFoQSI_3	VB09-30	EUK10000060	kSGB	Species	Eukaryota	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium_domesticum	27270958	1566	24761	93.4	0.1	0.5002
+MASTER_WP4_FFoQSI_3__VB15-29__bin.18	MASTER_WP4_FFoQSI_3	VB15-29	EUK10000074	kSGB	Species	Eukaryota	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scopulariopsis	Scopulariopsis_brevicaulis	28489490	2184	16855	83.0	0.4	0.5811

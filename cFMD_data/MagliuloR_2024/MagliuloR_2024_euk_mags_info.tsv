@@ -1,0 +1,2 @@
+MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
+MagliuloR_2024__SRR28235377__bin.2	MagliuloR_2024	SRR28235377	saccharomycetes_odb10	63.8	0.0	7863298	1926	4780	0.4

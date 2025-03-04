@@ -1,0 +1,13 @@
+sample	LordanR_2019__ERS2955447	LordanR_2019__ERS2955446	LordanR_2019__ERS2955445	LordanR_2019__ERS2955444	LordanR_2019__ERS2955443
+macrocategory	food	food	food	food	food
+category	dairy	dairy	dairy	dairy	dairy
+type	yogurt	yogurt	yogurt	yogurt	yogurt
+subtype	ovine_pastorized-milk_yogurt	ovine_pastorized-milk_yogurt	ovine_pastorized-milk_yogurt	ovine_pastorized-milk_yogurt	ovine_pastorized-milk_yogurt
+country	IRL	IRL	IRL	IRL	IRL
+source	public	public	public	public	public
+k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_animalis|t__SGB17278	0	0.06843	3.14363	0.545	0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Enterococcus|s__Enterococcus_durans|t__SGB7966	0.95412	0	0.04738	0	0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lacticaseibacillus|s__Lacticaseibacillus_paracasei|t__SGB7142_group	0.16227	0.0	0.0	0.0	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_acidophilus|t__SGB7044	1.21119	3.68377	4.98989	4.66303	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_delbrueckii|t__SGB7020_group	0.06708	0.09537	1.04041	6.21864	21.59925
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_thermophilus|t__SGB8002	97.60534	96.15244	90.77869	88.57332	78.40075

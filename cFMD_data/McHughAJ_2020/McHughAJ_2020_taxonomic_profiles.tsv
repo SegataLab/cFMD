@@ -1,0 +1,15 @@
+sample	McHughAJ_2020__ERS3128658	McHughAJ_2020__ERS3128657	McHughAJ_2020__ERS3128656	McHughAJ_2020__ERS3128655	McHughAJ_2020__ERS3128654	McHughAJ_2020__ERS3128653	McHughAJ_2020__ERS3128652	McHughAJ_2020__ERS3128651	McHughAJ_2020__ERS3128650	McHughAJ_2020__ERS3128649	McHughAJ_2020__ERS3128648	McHughAJ_2020__ERS3128645	McHughAJ_2020__ERS3128644
+macrocategory	food	food	food	food	food	food	food	food	food	food	food	food	food
+category	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy
+type	milk	milk	milk	milk	milk	milk	milk	milk	milk	milk	milk	milk	milk
+subtype	skimmed_milk_powder	skimmed_milk_powder	skimmed_milk_powder	skimmed_milk	skimmed_milk	whole_milk	whole_milk		skimmed_milk_powder	skimmed_milk_powder	skimmed_milk_powder	whole_milk	whole_milk
+country	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL
+source	public	public	public	public	public	public	public	public	public	public	public	public	public
+k__Bacteria|p__Deinococcus_Thermus|c__Deinococci|o__Thermales|f__Thermaceae|g__Thermus|s__Thermus_thermophilus|t__SGB17566	0	0	0	0	0	0	0	0	0	0	30.47619	0	0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Bacillaceae|g__Geobacillus|s__Geobacillus_stearothermophilus|t__SGB8344	0	0	0	0	0	0	0	0	100	100	69.52381	0	0
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_albensis|t__SGB10396	11.45552	0	0	0	0	99.53802	100	100	0	0	0	63.11889	63.80985
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_guillouiae|t__SGB10380	0.0	0	0	0	0	0.0	0	0	0	0	0	17.58723	21.4844
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_fluorescens|t__SGB12127	0.0	0	0	0	0	0.46198	0	0	0	0	0	0.0	0.0
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_fragi|t__SGB12106	88.54448	100	100	0	0	0.0	0	0	0	0	0	0.0	0.0
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_lundensis|t__SGB12101	0	0	0	0	0	0	0	0	0	0	0	19.29388	14.70574
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_proteolytica|t__SGB12165	0	0	0	100	100	0	0	0	0	0	0	0.0	0.0
