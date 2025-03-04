@@ -1,0 +1,4 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+YasirM_2020__ERS4361129__bin.1	YasirM_2020	ERS4361129	SGB8002	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_thermophilus	1005770	27	75493	64.44687045	0.145560408	0.397357249
+YasirM_2020__ERS4361128__bin.2	YasirM_2020	ERS4361128	SGB8022	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_equinus	1430054	331	5223	79.25361156	1.186017478	0.380971628
+YasirM_2020__ERS4361129__bin.2	YasirM_2020	ERS4361129	SGB7044	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_acidophilus	1355409	344	4487	67.06896552	3.448275862	0.349217838

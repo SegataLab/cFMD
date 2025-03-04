@@ -1,0 +1,2 @@
+MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
+ShangpliangH_2023_b__SRR22851058__bin.30	ShangpliangH_2023_b	SRR22851058	saccharomycetes_odb10	75.8	0.2638522427440633	8851443	1171	9338	0.38

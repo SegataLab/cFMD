@@ -1,0 +1,16 @@
+sample	VerceM_2019__ERS1807709	VerceM_2019__ERS1807708	VerceM_2019__ERS1807707	VerceM_2019__ERS1807706
+macrocategory	food	food	food	food
+category	fermented_beverages	fermented_beverages	fermented_beverages	fermented_beverages
+type	water_kefir	water_kefir	water_kefir	water_kefir
+subtype	water_kefir_figs	water_kefir_figs	water_kefir_figs	water_kefir_figs
+country	BEL	BEL	BEL	BEL
+source	public	public	public	public
+k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_aquikefiri|t__SGB17230	48.00306	26.28157	38.53988	24.85965
+k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Micrococcales|f__Promicromonosporaceae|g__Cellulosimicrobium|s__Cellulosimicrobium_cellulans|t__SGB16053	0	0	2.30451	0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lacticaseibacillus|s__Lacticaseibacillus_paracasei|t__SGB7142_group	11.89111	14.22691	11.8465	14.04615
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lentilactobacillus|s__Lentilactobacillus_hilgardii|t__SGB7216	4.69847	1.94708	8.32869	1.84529
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Liquorilactobacillus|s__Liquorilactobacillus_SGB69410|t__SGB69410	3.79298	6.08598	4.48951	5.08355
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Liquorilactobacillus|s__Liquorilactobacillus_nagelii|t__SGB7063	3.57731	5.64111	3.84354	4.57637
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Oenococcus|s__Oenococcus_sicerae|t__SGB27673	22.9176	39.87188	22.62695	42.89966
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Schleiferilactobacillus|s__Schleiferilactobacillus_harbinensis|t__SGB7136	0.63618	2.22165	0.55963	1.16738
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Saccharomyces|s__Saccharomyces_cerevisiae|t__EUK4932	4.48329	3.72383	7.4608	5.52194

@@ -1,0 +1,4 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+WolfeBE_2014__491_Bayley__bin.10	WolfeBE_2014	491_Bayley	EUK10000015	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	unknown	Diutina	Diutina_catenulata	7345251	1018	8843	51.9	0.0	0.562
+WolfeBE_2014__581_Moses_Sleeper__bin.4	WolfeBE_2014	581_Moses_Sleeper	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32893362	788	78518	95.8	0.2	0.4843
+WolfeBE_2014__623_Maggies_Round__bin.3	WolfeBE_2014	623_Maggies_Round	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	33442081	1436	43772	93.8	0.2	0.484

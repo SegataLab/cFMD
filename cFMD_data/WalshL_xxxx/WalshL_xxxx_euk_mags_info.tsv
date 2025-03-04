@@ -1,0 +1,2 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+WalshL_xxxx__T2__bin.4	WalshL_xxxx	T2	EUK10000038	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	Kazachstania_unispora	7129751	2337	3284	55.3	0.7	0.3349

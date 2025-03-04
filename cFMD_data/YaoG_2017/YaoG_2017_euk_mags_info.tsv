@@ -1,0 +1,10 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+YaoG_2017__NM17-1__bin.3	YaoG_2017	NM17-1	EUK10000002	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_anomalus	7267901	470	21613	55.6	0.0	0.3905
+YaoG_2017__NM18-1__bin.1	YaoG_2017	NM18-1	EUK10000002	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_anomalus	9157315	594	21236	72.0	0.0	0.388
+YaoG_2017__NM18-2__bin.10	YaoG_2017	NM18-2	EUK10000002	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_anomalus	9805875	682	21284	75.5	0.0	0.3899
+YaoG_2017__NM20-1__bin.5	YaoG_2017	NM20-1	EUK10000002	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_anomalus	8461498	495	25349	67.0	0.0	0.3953
+YaoG_2017__NM20-2__bin.8	YaoG_2017	NM20-2	EUK10000002	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_anomalus	9240517	571	26721	74.4	0.0	0.39
+YaoG_2017__NM20-3__bin.4	YaoG_2017	NM20-3	EUK10000002	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_anomalus	8886610	532	23659	71.2	0.0	0.3946
+YaoG_2017__NM21-1__bin.6	YaoG_2017	NM21-1	EUK10000002	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_anomalus	7917080	443	30270	63.1	0.2	0.3918
+YaoG_2017__NM21-2__bin.5	YaoG_2017	NM21-2	EUK10000002	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_anomalus	6587589	452	22289	54.1	0.0	0.3857
+YaoG_2017__NM21-3__bin.10	YaoG_2017	NM21-3	EUK10000002	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Brettanomyces	Brettanomyces_anomalus	7956867	457	25750	63.4	0.0	0.3904
