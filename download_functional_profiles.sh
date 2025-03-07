@@ -46,7 +46,6 @@ for d in "$@"; do
     file="${d}_functional_profiles.tar.gz"
     wget "https://zenodo.org/records/$zen_doi/files/${d}_functional_profiles.tar.gz?download=1" -O "$file"
 
-
     mkdir -p "${d}_functional_profiles" && tar -xzf "$file" -C "${d}_functional_profiles"
     rm "$file"
 
