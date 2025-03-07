@@ -42,7 +42,9 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
 
   Users can download the mags for dataset(s) using the following script:
 
-  ``` download_mags.sh {dataset_1} {dataset_2} ```
+  ```
+  download_mags.sh {dataset_1} {dataset_2}
+  ```
 
 
 
