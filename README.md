@@ -40,7 +40,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
 
 - **cFMD_mags**: the reconstructed MAGs in fasta format (hosted externally due to large size; a download script is provided).
 
-  Users can download the mags for dataset(s) using the following script:
+  Users can download mags for the dataset(s) using the following script:
 
   ```
   download_mags.sh {dataset_name}
@@ -49,7 +49,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
 
 - **cFMD_functional_profiles**: functional profiles (normalized UniRef90 gene families, pathway abundances, and pathway coverages) with samples as column headers and row indices as functions (hosted externally due to large size; a download script is provided).
   
-  Users can download the mags for dataset(s) using the following script:
+  Users can download functional profiles for the dataset(s) using the following script:
 
   ```
   download_functional_profiles.sh {dataset_name}
