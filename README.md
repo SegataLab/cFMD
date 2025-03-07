@@ -45,7 +45,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
   ```
   download_mags.sh {dataset_name}
   ```
-  
+  <br/>
 
 - **cFMD_taxonomic_profiles**: taxonomic profiles with samples as row indices and taxa as column headers, with values expressed as taxa relative abundances (%).
 
