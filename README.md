@@ -47,9 +47,16 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
   ```
   <br/>
 
-- **cFMD_taxonomic_profiles**: taxonomic profiles with samples as row indices and taxa as column headers, with values expressed as taxa relative abundances (%).
-
 - **cFMD_functional_profiles**: functional profiles (normalized UniRef90 gene families, pathway abundances, and pathway coverages) with samples as column headers and row indices as functions (hosted externally due to large size; a download script is provided).
+  
+  Users can download the mags for dataset(s) using the following script:
+
+  ```
+  download_functional_profiles.sh {dataset_name}
+  ```
+  <br/>
+
+- **cFMD_taxonomic_profiles**: taxonomic profiles with samples as row indices and taxa as column headers, with values expressed as taxa relative abundances (%).
 
 Each dataset folder also includes dataset-specific files for the metadata and list of reconstructed MAGs.
  
