@@ -50,5 +50,6 @@ for d in "$@"; do
     wget "https://zenodo.org/records/$zen_doi/files/${d}_mags.tar.gz?download=1" -O "$file"
 
     mkdir -p "${d}_mags" && tar -xzf "$file" -C "${d}_mags"
+    rm "$file"
 
 done
