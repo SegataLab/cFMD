@@ -48,5 +48,6 @@ for d in "$@"; do
 
 
     mkdir -p "${d}_functional_profiles" && tar -xzf "$file" -C "${d}_functional_profiles"
+    rm "$file"
 
 done
