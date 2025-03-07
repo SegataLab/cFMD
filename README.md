@@ -38,25 +38,26 @@ The unique key for querying the database is represented by the dataset_name and 
 
 Alongside the cFMD-level files mentioned above, we also provide dataset-specific folders with the following dataset-specific files that can be accessed from the **cFMD_data** folder:
 
+- **${DATASET}_taxonomic_profiles**: taxonomic profiles with samples as column headers and taxa as row indices, with values expressed as taxa relative abundances (%).
+- 
+
 - **cFMD_mags**: the reconstructed MAGs in fasta format (hosted externally due to large size; a download script is provided).
 
-  Users can download mags for the dataset(s) using the following script:
+  Users can download mags for the dataset(s) using the following script (where `LiZ_2019` and `YuY_2022` are used as examples):
 
   ```
-  download_mags.sh {dataset_name}
+  download_mags.sh LiZ_2019 YuY_2022
   ```
   <br/>
 
 - **cFMD_functional_profiles**: functional profiles (normalized UniRef90 gene families, pathway abundances, and pathway coverages) with samples as column headers and row indices as functions (hosted externally due to large size; a download script is provided).
   
-  Users can download functional profiles for the dataset(s) using the following script:
+  Users can download functional profiles for the dataset(s) using the following script (where `LiZ_2019` and `YuY_2022` are used as examples):
 
   ```
-  download_functional_profiles.sh {dataset_name}
+  download_functional_profiles.sh LiZ_2019 YuY_2022
   ```
   <br/>
-
-- **cFMD_taxonomic_profiles**: taxonomic profiles with samples as row indices and taxa as column headers, with values expressed as taxa relative abundances (%).
 
 Each dataset folder also includes dataset-specific files for the metadata and list of reconstructed MAGs.
  
