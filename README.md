@@ -36,36 +36,39 @@ The unique key for querying the database is represented by the dataset_name and 
  
 <!---- [**cFMD_sgbs_eukaryotic**](https://github.com/SegataLab/cFMD/blob/main/cFMD_sgbs_eukaryotic.tsv): as the file "cFMD_sgbs_prokaryotic" but referred to eukaryotic SGBs.---> <!---SAME AS ABOVE--->
 
-Alongside the cFMD-level files mentioned above, we also provide dataset-specific folders with the following dataset-specific files that can be accessed from the **cFMD_data** folder:
+Alongside the cFMD-level files mentioned above, we also provide dataset-specific folders with the following dataset-specific files that can be accessed from the **cFMD_data** folder: 
+
+- **${DATASET}_prok_mags_info**: metadata of the reconstructed prokaryotic MAGs.
+
+- **${DATASET}_euk_mags_info**: metadata of the reconstructed eukaryotic MAGs.
+
+- **${DATASET}_metadata**: sample-level metadata information for the dataset.
 
 - **${DATASET}_taxonomic_profiles**: taxonomic profiles with samples as column headers and taxa as row indices, with values expressed as taxa relative abundances (%).
-- 
 
-- **cFMD_mags**: the reconstructed MAGs in fasta format (hosted externally due to large size; a download script is provided).
+- **${DATASET}_mags**: the reconstructed MAGs in fasta format (hosted externally due to large size; a download script is provided).
 
   Users can download mags for the dataset(s) by downloading the provided script `download_mags.sh` and running it as below (where `LiZ_2019` and `YuY_2022` are used as examples):
 
   ```
   download_mags.sh LiZ_2019 YuY_2022
   ```
-  <br/>
 
-- **cFMD_functional_profiles**: functional profiles (normalized UniRef90 gene families, pathway abundances, and pathway coverages) with samples as column headers and row indices as functions (hosted externally due to large size; a download script is provided).
+- **${DATASET}_functional_profiles**: functional profiles (normalized UniRef90 gene families, pathway abundances, and pathway coverages) with samples as column headers and row indices as functions (hosted externally due to 
+  large size; a download script is provided).
   
   Users can download functional profiles for the dataset(s) by downloading the provided script `download_functional_profiles.sh` and running it as below (where `LiZ_2019` and `YuY_2022` are used as examples):
 
   ```
   download_functional_profiles.sh LiZ_2019 YuY_2022
   ```
-  <br/>
 
-Each dataset folder also includes dataset-specific files for the metadata and list of reconstructed MAGs.
- 
-## Detailed description of data
+  ## Detailed description of data
 
-More description about the fields for some of the files presented above:
-- **cFMD_metadata** (unique key= dataset_name+sample_id)
-  - dataset_name: name of dataset. It is formed as i) “first author surname + initial letter of first author name(s) + _ + year of publication”  for public datasets ii) “first author surname + initial letter of first author name(s) + _ + “xxxx” for not already public datasets (among those there are also MASTER partners datasets) iii) “MASTER + WPn + sampling partner + increasing number” for datasets produced inside  MASTER 
+  More description about the fields for some of the files presented above:
+  - **cFMD_metadata** (unique key= dataset_name+sample_id)
+  - dataset_name: name of dataset. It is formed as i) “first author surname + initial letter of first author name(s) + _ + year of publication”  for public datasets ii) “first author surname + initial letter of first author 
+    name(s) + _ + “xxxx” for not already public datasets (among those there are also MASTER partners datasets) iii) “MASTER + WPn + sampling partner + increasing number” for datasets produced inside  MASTER 
   - sample_id: name of the sample
   - macrocategory: highest-level description of the sample type (food, controls, food processing, environment, or animal)
   - category: second highest-level description of the sample type 
@@ -103,7 +106,8 @@ More description about the fields for some of the files presented above:
   - dataset_id: name of the dataset from which the MAG has been reconstructed
   - sample_id: name of the sample from which the MAG has been reconstructed
   - SGB_id:  identification number of the SGB in MetaRefSGB to which the MAG has been assigned
-  - unknown: can have three values, kSGB (short for knownSGB, i.e. a cluster containing at least one isolate genome) uSGB (unknownSGB, cluster containing only reconstructed genomes),  or ufSGB (unknownfoodSGB, cluster containing only reconstructed genomes from food samples and hence newly introduced)
+  - unknown: can have three values, kSGB (short for knownSGB, i.e. a cluster containing at least one isolate genome) uSGB (unknownSGB, cluster containing only reconstructed genomes),  or ufSGB (unknownfoodSGB, cluster 
+    containing only reconstructed genomes from food samples and hence newly introduced)
   - assigned_taxonomy_level: species if containing at least one reference genome, otherwise lowest taxonomic rank assignable
   - superkingdom: superkingdom of the assigned taxonomy
   - phylum: phylum of the assigned taxonomy
@@ -121,7 +125,8 @@ More description about the fields for some of the files presented above:
  
 <!---- **cFMD_sgbs_prokaryotic** and **cFMD_sgbs_eukaryotic** (unique key= sgb_id)
   - sgb_id: identification number of the SGB in MetaRefSGB
-  - Unknown: can have three values, kSGB (short for knownSGB, i.e. a cluster containing at least one isolate genome) uSGB (unknownSGB, cluster containing only reconstructed genomes),  or ufSGB (unknownfoodSGB, cluster containing only reconstructed genomes from food samples and hence newly introduced)
+  - Unknown: can have three values, kSGB (short for knownSGB, i.e. a cluster containing at least one isolate genome) uSGB (unknownSGB, cluster containing only reconstructed genomes),  or ufSGB (unknownfoodSGB, cluster 
+   containing only reconstructed genomes from food samples and hence newly introduced)
   - Level of assigned taxonomy: species if containing at least one reference genome, otherwise lowest taxonomic rank assignable
   - Assigned taxonomy: taxonomy assigned to the bin according to the prevalent taxonomy of the reference genomes inside it. Each level is separated by a pipe character “|”
   - superkingdom: superkingdom of the assigned taxonomy
