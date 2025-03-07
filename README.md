@@ -39,8 +39,10 @@ The unique key for querying the database is represented by the dataset_name and 
 Alongside the cFMD-level files mentioned above, we also provide dataset-specific folders with the following dataset-specific files that can be accessed from the **cFMD_data** folder:
 
 - **cFMD_mags**: the reconstructed MAGs in fasta format (hosted externally due to large size; a download script is provided).
-    Users can download the mags for dataset(s) using the following script:
-    ```download_mags.sh {dataset_1} {dataset_2}```
+
+  Users can download the mags for dataset(s) using the following script:
+
+  ```download_mags.sh {dataset_1} {dataset_2}```
 
 - **cFMD_taxonomic_profiles**: taxonomic profiles with samples as row indices and taxa as column headers, with values expressed as taxa relative abundances (%).
 
