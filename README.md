@@ -51,7 +51,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
   Users can download mags for the dataset(s) by downloading the provided script `download_mags.sh` and running it as below (where `LiZ_2019` and `YuY_2022` are used as examples):
 
   ```
-  download_mags.sh LiZ_2019 YuY_2022
+  bash download_mags.sh LiZ_2019 YuY_2022
   ```
 
 - **${DATASET}_functional_profiles**: functional profiles (normalized UniRef90 gene families, pathway abundances, and pathway coverages) with samples as column headers and row indices as functions (hosted externally due to 
@@ -60,7 +60,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
   Users can download functional profiles for the dataset(s) by downloading the provided script `download_functional_profiles.sh` and running it as below (where `LiZ_2019` and `YuY_2022` are used as examples):
 
   ```
-  download_functional_profiles.sh LiZ_2019 YuY_2022
+  bash download_functional_profiles.sh LiZ_2019 YuY_2022
   ```
 
   ## Detailed description of data
