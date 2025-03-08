@@ -48,19 +48,21 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
 
 - **${DATASET}_mags**: the reconstructed MAGs in fasta format (hosted externally due to large size; a download script is provided).
 
-  Users can download mags for the dataset(s) by downloading the provided script `download_mags.sh` and running it as below (where `LiZ_2019` and `YuY_2022` are used as examples):
+  Users can download mags for the dataset(s) by downloading the provided script `download_mags.sh` and running it by passing the name(s) of the dataset(s) one wishes to download, as below (where `LiZ_2019` and `YuY_2022` are used as examples):
 
   ```
-  bash download_mags.sh LiZ_2019 YuY_2022
+  wget "https://raw.githubusercontent.com/SegataLab/cFMD/refs/heads/main/download_mags.sh" && chmod +777 download_mags.sh
+  ./download_mags.sh LiZ_2019 YuY_2022
   ```
-
+  
 - **${DATASET}_functional_profiles**: functional profiles (normalized UniRef90 gene families, pathway abundances, and pathway coverages) with samples as column headers and row indices as functions (hosted externally due to 
   large size; a download script is provided).
   
-  Users can download functional profiles for the dataset(s) by downloading the provided script `download_functional_profiles.sh` and running it as below (where `LiZ_2019` and `YuY_2022` are used as examples):
+  Users can download functional profiles for the dataset(s) by downloading the provided script `download_functional_profiles.sh` and running it by passing the name(s) of the dataset(s) one wishes to download, as below (where `LiZ_2019` and `YuY_2022` are used as examples):
 
   ```
-  bash download_functional_profiles.sh LiZ_2019 YuY_2022
+  wget "https://raw.githubusercontent.com/SegataLab/cFMD/refs/heads/main/download_functional_profiles.sh" && chmod +777 download_functional_profiles.sh
+  ./download_functional_profiles.sh LiZ_2019 YuY_2022
   ```
 
   ## Detailed description of data
