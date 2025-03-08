@@ -73,7 +73,7 @@ for d in "$@"; do
     if [[ -z "$zen_doi" ]]; then
         echo "Dataset '$d' is not available in cFMD"
         echo "For the list of available datasets please visit https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv"
-	    echo "Exiting..."
+	echo "Exiting..."
         continue
     fi
 
