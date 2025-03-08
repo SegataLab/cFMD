@@ -1,6 +1,38 @@
 #!/bin/bash
 
-#download_cfmd_functional_profiles
+Help()
+{
+   # Display usage
+   echo "Script to download functional profiles of cFMD dataset(s)."
+   echo "Available datasets are listed at https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv"
+   echo
+   echo "Syntax: ./download_functional_profiles.sh {dataset_name_1} {dataset_name_2} ..."
+   echo
+   echo "optional arguments:"
+   echo "-h     Print help and exit."
+   echo
+}
+
+############################################################
+# Process the input options.                               #
+############################################################
+# Get the options
+while getopts ":h" option; do
+    case $option in
+        h) # Display help
+             Help
+             exit;;
+        \?) # Invalid option
+             echo "Error: Invalid option"
+             exit;;
+    esac
+done
+
+if [ "$#" -eq 0 ]
+then
+    Help >&2
+    exit 1
+fi
 
 d=$1
 
@@ -40,6 +72,8 @@ for d in "$@"; do
 
     if [[ -z "$zen_doi" ]]; then
         echo "Dataset '$d' is not available in cFMD"
+        echo "For the list of available datasets please visit https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv"
+	    echo "Exiting..."
         continue
     fi
 
