@@ -11,9 +11,9 @@ Go to [cFMD v1.1.0](https://github.com/SegataLab/cFMD/releases/tag/v1.1.0) for t
 ## Data
 
 From this GitHub repository you can access to these cFMD-level files (more details are provided in the section "Detailed description of data" below):
-- [**cFMD_datasets**]( ): summary of the datasets included in the current release, with reference to the publication (if available) <!--TO ADD THE LINK WHEN WE HAVE IT-->
+- [**cFMD_datasets**](https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv): summary of the datasets included in the current release, with reference to the publication (if available) <!--TO ADD THE LINK WHEN WE HAVE IT-->
 
-- [**cFMD_metadata**]( ): metadata information, in addition to statistics about reconstructed MAGs at sample level. The table has samples as row indices and type of information as column headers. This includes: <!--TO ADD THE LINK WHEN WE HAVE IT-->
+- [**cFMD_metadata**](https://github.com/SegataLab/cFMD/blob/main/cFMD_metadata.tsv): metadata information, in addition to statistics about reconstructed MAGs at sample level. The table has samples as row indices and type of information as column headers. This includes: <!--TO ADD THE LINK WHEN WE HAVE IT-->
   - categorization of the samples,
   - accession codes to retrieve public metagenomes,
   - technical information (e.g. dna extraction kit, sequencer, etc.),
@@ -22,7 +22,7 @@ The unique key for querying the database is represented by the dataset_name and 
 
 - [**cFMD_metadata_rules**](https://github.com/SegataLab/cFMD/blob/main/cFMD_metadata_rules.tsv): description of the syntactic rules to define the metadata fields of the above file "cFMD_metadata"
 
-- [**cFMD_mags_list**]( ): the list of the reconstructed MAGs with information in terms of: <!--TO ADD THE LINK WHEN WE HAVE IT-->
+- [**cFMD_mags_list**](https://github.com/SegataLab/cFMD/blob/main/cFMD_mags_list.tsv): the list of the reconstructed MAGs with information in terms of: <!--TO ADD THE LINK WHEN WE HAVE IT-->
   - sample origin,
   - assigned taxonomy at species-level genome bin (SGB) level,
   - known/unknown status of the SGB,
