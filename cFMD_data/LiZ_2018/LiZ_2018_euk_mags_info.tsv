@@ -1,0 +1,16 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+LiZ_2018__SRS2920550__bin.14	LiZ_2018	SRS2920550	EUK746128	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus_fumigatus	22190556	4059	6395	68.2	0.3	0.5034
+LiZ_2018__SRS2920550__bin.12	LiZ_2018	SRS2920550	EUK10000048	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Rasamsonia	Rasamsonia_emersonii	31803629	3098	16334	90.3	1.0	0.5058
+LiZ_2018__SRS2920550__bin.19	LiZ_2018	SRS2920550	EUK10000058	kSGB	Species	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Rhizomucor	Rhizomucor_pusillus	23525078	1633	20857	92.9	0.4	0.4515
+LiZ_2018__SRS2920550__bin.20	LiZ_2018	SRS2920550	EUK10000049	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Blastobotrys	Blastobotrys_adeninivorans	11815656	200	93717	94.3	0.4	0.4832
+LiZ_2018__SRS2920551__bin.2	LiZ_2018	SRS2920551	EUK10000048	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Rasamsonia	Rasamsonia_emersonii	14408992	848	24155	52.4	0.6	0.5204
+LiZ_2018__SRS2920551__bin.4	LiZ_2018	SRS2920551	EUK10000058	kSGB	Species	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Rhizomucor	Rhizomucor_pusillus	23689805	1799	19665	92.8	0.4	0.4515
+LiZ_2018__SRS2920551__bin.8	LiZ_2018	SRS2920551	EUK10000049	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Blastobotrys	Blastobotrys_adeninivorans	11809239	239	77049	94.3	0.4	0.4834
+LiZ_2018__SRS2920552__bin.6	LiZ_2018	SRS2920552	EUK5068	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus_tubingensis	32799578	1956	33746	91.8	0.2	0.5032
+LiZ_2018__SRS2920552__bin.3	LiZ_2018	SRS2920552	EUK10000049	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Blastobotrys	Blastobotrys_adeninivorans	11982708	656	32097	91.0	0.3	0.483
+LiZ_2018__SRS2920553__bin.2	LiZ_2018	SRS2920553	EUK5068	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus_tubingensis	32865753	1736	35585	93.1	0.3	0.5035
+LiZ_2018__SRS2920553__bin.4	LiZ_2018	SRS2920553	EUK10000049	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Blastobotrys	Blastobotrys_adeninivorans	11674465	1403	11456	83.9	0.4	0.4828
+LiZ_2018__SRS2920554__bin.6	LiZ_2018	SRS2920554	EUK5068	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus_tubingensis	32896125	1905	34771	92.5	0.2	0.5031
+LiZ_2018__SRS2920554__bin.3	LiZ_2018	SRS2920554	EUK10000049	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Blastobotrys	Blastobotrys_adeninivorans	11949441	1187	15245	89.9	0.6	0.4828
+LiZ_2018__SRS2920555__bin.18	LiZ_2018	SRS2920555	EUK10000058	kSGB	Species	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Rhizomucor	Rhizomucor_pusillus	19697407	1774	16212	76.8	0.5	0.4517
+LiZ_2018__SRS2920555__bin.25	LiZ_2018	SRS2920555	EUK10000049	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Blastobotrys	Blastobotrys_adeninivorans	11836170	263	72586	94.6	0.4	0.4834

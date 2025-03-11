@@ -1,0 +1,3 @@
+MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
+YasirM_2022__SRR18334999__bin.2	YasirM_2022	YasirM_2022__SRR18334999	saccharomycetes_odb10	64.2	0.3115264797507788	8595176	2320	4206	0.41
+YasirM_2022__SRR18335012__bin.4	YasirM_2022	YasirM_2022__SRR18335012	saccharomycetes_odb10	85.2	0.5868544600938967	10529679	1220	12250	0.45

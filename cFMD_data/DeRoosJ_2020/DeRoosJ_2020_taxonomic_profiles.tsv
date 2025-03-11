@@ -1,0 +1,15 @@
+sample	DeRoosJ_2020__B9M	DeRoosJ_2020__B3W	DeRoosJ_2020__B3M	DeRoosJ_2020__B3D	DeRoosJ_2020__B24M	DeRoosJ_2020__B13M
+macrocategory	food	food	food	food	food	food
+category	alcohol	alcohol	alcohol	alcohol	alcohol	alcohol
+type	beer	beer	beer	beer	beer	beer
+subtype	lambic_beer	lambic_beer	lambic_beer	lambic_beer	lambic_beer	lambic_beer
+country	BEL	BEL	BEL	BEL	BEL	BEL
+source	public	public	public	public	public	public
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lentilactobacillus|s__Lentilactobacillus_buchneri|t__SGB7220	0.0	0	0	0	5.41661	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Pediococcus|s__Pediococcus_damnosus|t__SGB7176	55.82172	0	0	0	90.56927	21.81475
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Rhodospirillales|f__Acetobacteraceae|g__Acetobacter|s__Acetobacter_ascendens|t__SGB1195	11.79863	0	47.42226	0	1.49986	65.83489
+k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Rhodospirillales|f__Acetobacteraceae|g__Acetobacter|s__Acetobacter_lambici|t__SGB89217	8.73681	0	47.05842	0	2.51427	5.33568
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_grimontii|t__SGB10120	0	0.0	0	0.02083	0	0
+k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_variicola|t__SGB10114	0	0.48552	0	1.14247	0	0
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Pichiaceae|g__Pichia|s__Pichia_membranifaciens_group_1|t__EUK4926_1	4.6623	0.0	0.44587	0.0	0	2.59173
+k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Saccharomyces|s__Saccharomyces_cerevisiae|t__EUK4932	18.98053	99.51448	5.07345	98.8367	0	4.42295

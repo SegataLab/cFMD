@@ -1,0 +1,8 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+YaoG_2017__NM17-1__bin.7	YaoG_2017	NM17-1	SGB7985	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus_lactis	1434543	152	16074	61.91654448	1.893939394	0.352071705
+YaoG_2017__NM17-3__bin.1	YaoG_2017	NM17-3	SGB7985	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus_lactis	1190654	130	13417	62.85443723	0.820707071	0.353151293
+YaoG_2017__NM18-1__bin.4	YaoG_2017	NM18-1	SGB7048	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_helveticus	1256859	123	15999	70.05952381	2.467532468	0.362509239
+YaoG_2017__NM20-1__bin.4	YaoG_2017	NM20-1	SGB7048	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_helveticus	789872	75	17177	59.15310339	0.324675325	0.363296838
+YaoG_2017__NM21-2__bin.9	YaoG_2017	NM21-2	SGB7048	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_helveticus	1128521	78	24185	70.30844156	0.0	0.366186363
+YaoG_2017__NM18-2__bin.5	YaoG_2017	NM18-2	SGB8228	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus_parauberis	1231409	165	9774	56.03448276	3.448275862	0.35792251
+YaoG_2017__NM20-3__bin.3	YaoG_2017	NM20-3	SGB69402	uSGB	Genus	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus_SGB69402	424463	47	13091	51.72413793	0.0	0.365360467

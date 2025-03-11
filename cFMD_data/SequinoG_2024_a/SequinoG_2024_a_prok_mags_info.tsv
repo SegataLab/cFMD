@@ -1,0 +1,243 @@
+MAG_id	dataset_id	sample_id	SGB_assignment	avg_dist	SGB_id	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_Content
+SequinoG_2024_a__SRR26596524__bin.10	SequinoG_2024_a	SRR26596524	SGB_assigned	0.0308236235294117	SGB10329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_frigidimarina	2954802	533	6567	61.46	4.37	0.41
+SequinoG_2024_a__SRR26596524__bin.11	SequinoG_2024_a	SRR26596524	SGB_assigned	0.0144548415503875	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2120563	100	38801	81.71	2.81	0.37
+SequinoG_2024_a__SRR26596524__bin.16	SequinoG_2024_a	SRR26596524	SGB_assigned	0.0223620202702702	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	2359950	161	23064	73.56	0.5	0.4
+SequinoG_2024_a__SRR26596525__bin.11	SequinoG_2024_a	SRR26596525	Unassigned											821655	241	3751	80.41	1.8	0.25
+SequinoG_2024_a__SRR26596525__bin.12	SequinoG_2024_a	SRR26596525	SGB_assigned	0.0165679978378378	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3298484	401	14443	99.63	1.77	0.4
+SequinoG_2024_a__SRR26596525__bin.16	SequinoG_2024_a	SRR26596525	Unassigned											1267345	218	6798	61.92	2.8	0.42
+SequinoG_2024_a__SRR26596526__bin.11	SequinoG_2024_a	SRR26596526	Unassigned											1837085	535	3765	52.09	3.07	0.62
+SequinoG_2024_a__SRR26596526__bin.14	SequinoG_2024_a	SRR26596526	SGB_assigned	0.0204366222222222	SGB29863	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_salmoninarum	2608729	269	16025	90.3	2.07	0.38
+SequinoG_2024_a__SRR26596526__bin.25	SequinoG_2024_a	SRR26596526	SGB_assigned	0.01857602	SGB9959	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_molluscorum	3747368	299	17729	93.7	4.1	0.6
+SequinoG_2024_a__SRR26596526__bin.27	SequinoG_2024_a	SRR26596526	SGB_assigned	0.0303840083333333	SGB98507	Genus	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter_SGB98507	3369141	439	11465	82.9	1.28	0.61
+SequinoG_2024_a__SRR26596526__bin.5	SequinoG_2024_a	SRR26596526	SGB_assigned	0.0307663774193548	SGB9951	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_salmonicida	3577140	662	6821	80.93	3.02	0.6
+SequinoG_2024_a__SRR26596526__bin.7	SequinoG_2024_a	SRR26596526	SGB_assigned	0.0134597317054263	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2158960	159	18656	82.54	0.01	0.37
+SequinoG_2024_a__SRR26596527__bin.30	SequinoG_2024_a	SRR26596527	SGB_assigned	0.0359107	SGB49085	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_silagei	2246376	281	11579	83.95	4.46	0.35
+SequinoG_2024_a__SRR26596527__bin.31	SequinoG_2024_a	SRR26596527	SGB_assigned	0.0342338937499999	SGB7918	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_fluvialis	1884135	126	25421	76.21	1.44	0.32
+SequinoG_2024_a__SRR26596527__bin.32	SequinoG_2024_a	SRR26596527	Unassigned											7500913	3245	2252	52.04	2.98	0.24
+SequinoG_2024_a__SRR26596527__bin.36	SequinoG_2024_a	SRR26596527	Unassigned											2721599	487	6077	61.49	4.56	0.39
+SequinoG_2024_a__SRR26596527__bin.43	SequinoG_2024_a	SRR26596527	SGB_assigned	0.012003074496124	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2292394	113	27897	86.17	0.25	0.36
+SequinoG_2024_a__SRR26596527__bin.47	SequinoG_2024_a	SRR26596527	SGB_assigned	0.0275265	SGB30961	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_algidipiscicola	1981200	118	21127	51.68	0.28	0.48
+SequinoG_2024_a__SRR26596527__bin.48	SequinoG_2024_a	SRR26596527	Unassigned											2853984	321	11929	83.41	4.58	0.36
+SequinoG_2024_a__SRR26596527__bin.5	SequinoG_2024_a	SRR26596527	Unassigned											1885739	358	6418	65.92	4.02	0.28
+SequinoG_2024_a__SRR26596528__bin.13	SequinoG_2024_a	SRR26596528	SGB_assigned	0.0238833	SGB9828	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_toruni	2578625	241	15854	61.96	4.28	0.38
+SequinoG_2024_a__SRR26596528__bin.16	SequinoG_2024_a	SRR26596528	SGB_assigned	0.0291324905405405	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	2274784	221	16329	55.91	0.93	0.4
+SequinoG_2024_a__SRR26596528__bin.18	SequinoG_2024_a	SRR26596528	SGB_assigned	0.0125067624806201	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2361111	148	26043	92.31	0.36	0.36
+SequinoG_2024_a__SRR26596528__bin.7	SequinoG_2024_a	SRR26596528	Unassigned											2315017	529	5339	70.23	1.65	0.36
+SequinoG_2024_a__SRR26596528__bin.8	SequinoG_2024_a	SRR26596528	SGB_assigned	0.0311617604166666	SGB31329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_harbinensis	1642056	161	17084	56.54	0.21	0.41
+SequinoG_2024_a__SRR26596529__bin.13	SequinoG_2024_a	SRR26596529	Unassigned											1813041	250	12261	50.89	3.08	0.26
+SequinoG_2024_a__SRR26596529__bin.19	SequinoG_2024_a	SRR26596529	SGB_assigned	0.01093955	SGB30961	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_algidipiscicola	3700604	227	26845	90.67	2.99	0.47
+SequinoG_2024_a__SRR26596529__bin.22	SequinoG_2024_a	SRR26596529	Unassigned											2910629	154	32834	92.43	0.33	0.36
+SequinoG_2024_a__SRR26596529__bin.25	SequinoG_2024_a	SRR26596529	SGB_assigned	0.0407865277777777	SGB10449	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	Psychrobacter_celer	2299795	270	12189	80.55	1.59	0.48
+SequinoG_2024_a__SRR26596529__bin.26	SequinoG_2024_a	SRR26596529	SGB_assigned	0.0212999449612403	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	1851227	119	25857	68.17	0.5	0.36
+SequinoG_2024_a__SRR26596529__bin.27	SequinoG_2024_a	SRR26596529	Unassigned											2860262	678	4732	67.37	4.67	0.38
+SequinoG_2024_a__SRR26596529__bin.36	SequinoG_2024_a	SRR26596529	Unassigned											729884	84	13824	51.97	0.4	0.29
+SequinoG_2024_a__SRR26596529__bin.39	SequinoG_2024_a	SRR26596529	SGB_assigned	0.02576316875	SGB31329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_harbinensis	1701902	345	5853	62.02	1.98	0.42
+SequinoG_2024_a__SRR26596531__bin.3	SequinoG_2024_a	SRR26596531	Unassigned											1407337	252	6972	73.31	4.9	0.42
+SequinoG_2024_a__SRR26596531__bin.7	SequinoG_2024_a	SRR26596531	Unassigned											2130942	148	21156	73.23	3.21	0.39
+SequinoG_2024_a__SRR26596532__bin.10	SequinoG_2024_a	SRR26596532	SGB_assigned	0.0179497	SGB9959	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_molluscorum	3546059	305	17877	90.61	2.85	0.6
+SequinoG_2024_a__SRR26596532__bin.13	SequinoG_2024_a	SRR26596532	SGB_assigned	0.0194207791666666	SGB31329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_harbinensis	2472369	274	13988	91.73	0.35	0.42
+SequinoG_2024_a__SRR26596532__bin.14	SequinoG_2024_a	SRR26596532	SGB_assigned	0.0280824	SGB98500	Genus	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Paeniglutamicibacter	Paeniglutamicibacter_SGB98500	3060292	771	4421	68.44	3.53	0.63
+SequinoG_2024_a__SRR26596532__bin.17	SequinoG_2024_a	SRR26596532	SGB_assigned	0.0155595093243243	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3362304	300	18656	92.77	0.57	0.4
+SequinoG_2024_a__SRR26596532__bin.18	SequinoG_2024_a	SRR26596532	SGB_assigned	0.0290673083333333	SGB98507	Genus	Bacteria	Actinobacteria	Actinomycetia	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter_SGB98507	3323639	454	9886	83.69	1.49	0.61
+SequinoG_2024_a__SRR26596532__bin.22	SequinoG_2024_a	SRR26596532	SGB_assigned	0.0347188612903225	SGB9951	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_salmonicida	2926209	743	4526	65.4	2.06	0.6
+SequinoG_2024_a__SRR26596532__bin.32	SequinoG_2024_a	SRR26596532	SGB_assigned	0.0206865666666666	SGB29863	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_salmoninarum	2642859	272	15163	92.35	1.99	0.38
+SequinoG_2024_a__SRR26596532__bin.8	SequinoG_2024_a	SRR26596532	SGB_assigned	0.0128354663565891	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2355086	159	20270	94.9	0.11	0.36
+SequinoG_2024_a__SRR26596533__bin.14	SequinoG_2024_a	SRR26596533	Unassigned											2619958	260	14391	58.39	0.94	0.38
+SequinoG_2024_a__SRR26596533__bin.17	SequinoG_2024_a	SRR26596533	Unassigned											5626676	2541	2149	61.32	3.43	0.25
+SequinoG_2024_a__SRR26596533__bin.18	SequinoG_2024_a	SRR26596533	SGB_assigned	0.0115319	SGB30961	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_algidipiscicola	3735041	246	23067	86.83	3.2	0.47
+SequinoG_2024_a__SRR26596533__bin.3	SequinoG_2024_a	SRR26596533	SGB_assigned	0.0310942666666666	SGB10324	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_morhuae	2355569	446	5764	54.65	2.23	0.44
+SequinoG_2024_a__SRR26596533__bin.9	SequinoG_2024_a	SRR26596533	SGB_assigned	0.0168417864864864	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3261619	242	23530	89.61	0.38	0.4
+SequinoG_2024_a__SRR26596534__bin.21	SequinoG_2024_a	SRR26596534	SGB_assigned	0.03601036875	SGB31329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_harbinensis	1399928	129	15676	50.17	0.15	0.41
+SequinoG_2024_a__SRR26596534__bin.4	SequinoG_2024_a	SRR26596534	SGB_assigned	0.0160499185135135	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3356419	280	21099	90.36	0.67	0.4
+SequinoG_2024_a__SRR26596535__bin.18	SequinoG_2024_a	SRR26596535	SGB_assigned	0.0156461554054054	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3378591	259	23210	88.49	0.74	0.4
+SequinoG_2024_a__SRR26596535__bin.21	SequinoG_2024_a	SRR26596535	Unassigned											2548608	387	7979	70.4	1.33	0.37
+SequinoG_2024_a__SRR26596535__bin.30	SequinoG_2024_a	SRR26596535	SGB_assigned	0.01322065	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2358372	159	31407	84.61	3.81	0.36
+SequinoG_2024_a__SRR26596535__bin.33	SequinoG_2024_a	SRR26596535	SGB_assigned	0.01821826	SGB9959	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_molluscorum	3349702	436	10108	83.64	0.28	0.6
+SequinoG_2024_a__SRR26596536__bin.20	SequinoG_2024_a	SRR26596536	SGB_assigned	0.0475732416666666	SGB10449	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	Psychrobacter_celer	1568315	341	5057	57.92	1.44	0.48
+SequinoG_2024_a__SRR26596536__bin.21	SequinoG_2024_a	SRR26596536	SGB_assigned	0.00926973	SGB30961	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_algidipiscicola	3694372	200	30268	96.15	0.6	0.47
+SequinoG_2024_a__SRR26596536__bin.26	SequinoG_2024_a	SRR26596536	SGB_assigned	0.0219052351351351	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	2543767	545	5439	75.96	2.09	0.4
+SequinoG_2024_a__SRR26596536__bin.30	SequinoG_2024_a	SRR26596536	Unassigned											4199880	1161	4060	79.37	1.7	0.69
+SequinoG_2024_a__SRR26596536__bin.6	SequinoG_2024_a	SRR26596536	SGB_assigned	0.0030735566666666	SGB12757	Genus	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax_SGB12757	7476925	163	72311	100.0	2.61	0.68
+SequinoG_2024_a__SRR26596540__bin.8	SequinoG_2024_a	SRR26596540	SGB_assigned	0.045078256	SGB10320	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_baltica	2398474	874	2819	51.97	3.38	0.47
+SequinoG_2024_a__SRR26596541__bin.4	SequinoG_2024_a	SRR26596541	SGB_assigned	0.04130195	SGB9827	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_piscicola	3252314	717	5935	77.91	2.87	0.4
+SequinoG_2024_a__SRR26596542__bin.14	SequinoG_2024_a	SRR26596542	SGB_assigned	0.0190887558139534	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	1613351	76	38749	61.81	0.17	0.36
+SequinoG_2024_a__SRR26596542__bin.2	SequinoG_2024_a	SRR26596542	Unassigned											750117	110	7951	68.41	0.34	0.43
+SequinoG_2024_a__SRR26596543__bin.3	SequinoG_2024_a	SRR26596543	Unassigned											2706981	330	9962	78.66	2.08	0.3
+SequinoG_2024_a__SRR26596543__bin.9	SequinoG_2024_a	SRR26596543	SGB_assigned	0.0288607516129032	SGB36462	Other	Bacteria	Planctomycetes	CFGB7848	OFGB7848	FGB7848	GGB24608	GGB24608_SGB36462	1923297	610	3392	63.57	2.25	0.49
+SequinoG_2024_a__SRR26596546__bin.1	SequinoG_2024_a	SRR26596546	Unassigned											1901446	704	2821	55.25	1.32	0.61
+SequinoG_2024_a__SRR26596546__bin.10	SequinoG_2024_a	SRR26596546	Unassigned											5556079	441	19352	99.85	3.59	0.68
+SequinoG_2024_a__SRR26596546__bin.18	SequinoG_2024_a	SRR26596546	SGB_assigned	0.0027732166666666	SGB12757	Genus	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax_SGB12757	7443731	69	177688	99.99	2.15	0.67
+SequinoG_2024_a__SRR26596546__bin.7	SequinoG_2024_a	SRR26596546	Unassigned											2594552	800	3519	55.09	0.39	0.59
+SequinoG_2024_a__SRR26596546__bin.8	SequinoG_2024_a	SRR26596546	Unassigned											3020861	35	122099	61.86	0.03	0.66
+SequinoG_2024_a__SRR26596547__bin.4	SequinoG_2024_a	SRR26596547	SGB_assigned	0.0361211666666666	SGB9830	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_aquimaris	2666786	725	4259	63.94	3.07	0.4
+SequinoG_2024_a__SRR26596549__bin.3	SequinoG_2024_a	SRR26596549	Unassigned											682868	55	20618	91.52	0.78	0.25
+SequinoG_2024_a__SRR26596549__bin.9	SequinoG_2024_a	SRR26596549	SGB_assigned	0.048120684	SGB10320	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_baltica	2316870	861	2757	52.16	3.93	0.47
+SequinoG_2024_a__SRR26596550__bin.11	SequinoG_2024_a	SRR26596550	Unassigned											2697494	777	3842	63.3	3.61	0.37
+SequinoG_2024_a__SRR26596550__bin.12	SequinoG_2024_a	SRR26596550	SGB_assigned	0.0281447	SGB9837	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_sanguinicancri	3337771	505	7829	99.3	3.24	0.44
+SequinoG_2024_a__SRR26596550__bin.13	SequinoG_2024_a	SRR26596550	SGB_assigned	0.0212716	SGB96947	Other	Bacteria	Firmicutes	CFGB70169	OFGB70169	FGB70169	GGB71208	GGB71208_SGB96947	1864525	218	11536	79.02	2.2	0.37
+SequinoG_2024_a__SRR26596550__bin.19	SequinoG_2024_a	SRR26596550	SGB_assigned	0.02053785	SGB96945	Genus	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_SGB96945	2673144	231	20133	93.56	0.49	0.33
+SequinoG_2024_a__SRR26596550__bin.24	SequinoG_2024_a	SRR26596550	SGB_assigned	0.0201702	SGB7902	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	Carnobacterium_maltaromaticum	3368102	210	30112	97.61	1.76	0.34
+SequinoG_2024_a__SRR26596550__bin.25	SequinoG_2024_a	SRR26596550	SGB_assigned	0.0131921645736434	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2259750	125	29522	85.17	0.58	0.36
+SequinoG_2024_a__SRR26596550__bin.26	SequinoG_2024_a	SRR26596550	SGB_assigned	0.01836372	SGB9959	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_molluscorum	3561226	267	19156	89.79	3.62	0.6
+SequinoG_2024_a__SRR26596550__bin.31	SequinoG_2024_a	SRR26596550	SGB_assigned	0.0313943032258064	SGB9951	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_salmonicida	3259970	581	6628	76.67	4.42	0.6
+SequinoG_2024_a__SRR26596550__bin.32	SequinoG_2024_a	SRR26596550	SGB_assigned	0.0394791642857142	SGB10467	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	Psychrobacter_cryohalolentis	1689119	370	5281	56.31	0.31	0.42
+SequinoG_2024_a__SRR26596550__bin.5	SequinoG_2024_a	SRR26596550	Unassigned											3509611	320	20410	96.85	3.78	0.38
+SequinoG_2024_a__SRR26596550__bin.8	SequinoG_2024_a	SRR26596550	Unassigned											2726954	149	28052	89.94	0.54	0.36
+SequinoG_2024_a__SRR26596550__bin.9	SequinoG_2024_a	SRR26596550	SGB_assigned	0.0210994222222222	SGB29863	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_salmoninarum	2570921	250	16310	93.3	0.74	0.38
+SequinoG_2024_a__SRR26596551__bin.17	SequinoG_2024_a	SRR26596551	SGB_assigned	0.0157235405405405	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3230425	205	24888	86.7	2.04	0.4
+SequinoG_2024_a__SRR26596551__bin.2	SequinoG_2024_a	SRR26596551	Unassigned											953265	140	8875	87.64	3.57	0.34
+SequinoG_2024_a__SRR26596551__bin.27	SequinoG_2024_a	SRR26596551	Unassigned											2846733	161	27950	93.1	0.59	0.36
+SequinoG_2024_a__SRR26596551__bin.37	SequinoG_2024_a	SRR26596551	SGB_assigned	0.0484872333333333	SGB39270	Other	Bacteria	Fusobacteria	CFGB9139	OFGB9139	FGB9139	GGB27062	GGB27062_SGB39270	1430744	126	17986	55.85	1.52	0.28
+SequinoG_2024_a__SRR26596551__bin.7	SequinoG_2024_a	SRR26596551	Unassigned											1504461	117	23342	81.67	1.76	0.4
+SequinoG_2024_a__SRR26596552__bin.4	SequinoG_2024_a	SRR26596552	Unassigned											2831221	151	29658	90.41	3.39	0.39
+SequinoG_2024_a__SRR26596552__bin.7	SequinoG_2024_a	SRR26596552	SGB_assigned	0.0156042036486486	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3421332	256	22514	91.49	0.25	0.4
+SequinoG_2024_a__SRR26596553__bin.10	SequinoG_2024_a	SRR26596553	Unassigned											2110562	362	6683	62.03	2.15	0.39
+SequinoG_2024_a__SRR26596553__bin.20	SequinoG_2024_a	SRR26596553	Unassigned											1744798	134	18856	54.06	1.03	0.36
+SequinoG_2024_a__SRR26596553__bin.30	SequinoG_2024_a	SRR26596553	Unassigned											2794282	487	7067	67.3	3.45	0.37
+SequinoG_2024_a__SRR26596554__bin.7	SequinoG_2024_a	SRR26596554	SGB_assigned	0.0348219833333333	SGB9830	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_aquimaris	2789743	350	13244	63.12	1.46	0.39
+SequinoG_2024_a__SRR26596555__bin.4	SequinoG_2024_a	SRR26596555	Unassigned											3549463	20	370851	100.0	0.14	0.67
+SequinoG_2024_a__SRR26596556__bin.10	SequinoG_2024_a	SRR26596556	Unassigned											747595	62	20560	92.2	1.04	0.25
+SequinoG_2024_a__SRR26596556__bin.15	SequinoG_2024_a	SRR26596556	SGB_assigned	0.025807	SGB96945	Genus	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_SGB96945	2368001	180	22862	85.83	3.95	0.33
+SequinoG_2024_a__SRR26596556__bin.2	SequinoG_2024_a	SRR26596556	SGB_assigned	0.0215841666666666	SGB29863	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_salmoninarum	2496602	247	15301	94.81	0.42	0.38
+SequinoG_2024_a__SRR26596556__bin.3	SequinoG_2024_a	SRR26596556	SGB_assigned	0.0195473666666666	SGB7902	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	Carnobacterium_maltaromaticum	3183379	182	29877	93.34	1.4	0.35
+SequinoG_2024_a__SRR26596556__bin.31	SequinoG_2024_a	SRR26596556	SGB_assigned	0.0225280333333333	SGB94570	Genus	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	Carnobacterium_SGB94570	2577489	402	9028	87.88	4.73	0.35
+SequinoG_2024_a__SRR26596556__bin.32	SequinoG_2024_a	SRR26596556	SGB_assigned	0.0125598149612403	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2468492	138	27013	99.5	0.37	0.36
+SequinoG_2024_a__SRR26596556__bin.34	SequinoG_2024_a	SRR26596556	SGB_assigned	0.0169478	SGB96947	Other	Bacteria	Firmicutes	CFGB70169	OFGB70169	FGB70169	GGB71208	GGB71208_SGB96947	1228771	53	52448	51.91	0.61	0.37
+SequinoG_2024_a__SRR26596556__bin.39	SequinoG_2024_a	SRR26596556	SGB_assigned	0.0277331	SGB9828	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_toruni	2302611	187	16482	59.77	3.16	0.37
+SequinoG_2024_a__SRR26596556__bin.6	SequinoG_2024_a	SRR26596556	Unassigned											2912152	171	26440	92.03	1.02	0.36
+SequinoG_2024_a__SRR26596557__bin.3	SequinoG_2024_a	SRR26596557	Unassigned											2906693	153	29320	91.25	2.36	0.36
+SequinoG_2024_a__SRR26596557__bin.5	SequinoG_2024_a	SRR26596557	Unassigned											379333	14	46529	52.94	0.02	0.24
+SequinoG_2024_a__SRR26596557__bin.7	SequinoG_2024_a	SRR26596557	Unassigned											3467364	279	21024	94.45	3.88	0.38
+SequinoG_2024_a__SRR26596557__bin.9	SequinoG_2024_a	SRR26596557	Unassigned											3085445	1123	2722	60.8	3.56	0.33
+SequinoG_2024_a__SRR26596558__bin.14	SequinoG_2024_a	SRR26596558	SGB_assigned	0.0431591	SGB39270	Other	Bacteria	Fusobacteria	CFGB9139	OFGB9139	FGB9139	GGB27062	GGB27062_SGB39270	1906103	180	17139	76.65	0.75	0.28
+SequinoG_2024_a__SRR26596558__bin.18	SequinoG_2024_a	SRR26596558	SGB_assigned	0.019650882051282	SGB7902	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	Carnobacterium_maltaromaticum	3083909	234	18869	91.02	4.84	0.35
+SequinoG_2024_a__SRR26596558__bin.20	SequinoG_2024_a	SRR26596558	Unassigned											1803810	79	45656	74.76	1.93	0.3
+SequinoG_2024_a__SRR26596558__bin.25	SequinoG_2024_a	SRR26596558	SGB_assigned	0.0209511594594594	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	2791773	232	18497	76.91	1.25	0.4
+SequinoG_2024_a__SRR26596558__bin.4	SequinoG_2024_a	SRR26596558	SGB_assigned	0.0325917541666666	SGB31329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_harbinensis	1240953	183	8796	50.93	0.52	0.43
+SequinoG_2024_a__SRR26596558__bin.40	SequinoG_2024_a	SRR26596558	Unassigned											3065208	275	17909	98.95	3.61	0.39
+SequinoG_2024_a__SRR26596558__bin.41	SequinoG_2024_a	SRR26596558	SGB_assigned	0.0124810784496124	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2318481	135	28179	85.63	0.11	0.36
+SequinoG_2024_a__SRR26596558__bin.45	SequinoG_2024_a	SRR26596558	SGB_assigned	0.0297447111111111	SGB29863	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_salmoninarum	1801182	457	4392	69.06	0.13	0.38
+SequinoG_2024_a__SRR26596558__bin.5	SequinoG_2024_a	SRR26596558	Unassigned											2785843	148	33832	90.56	0.65	0.36
+SequinoG_2024_a__SRR26596559__bin.13	SequinoG_2024_a	SRR26596559	Unassigned											761105	62	21486	93.46	0.78	0.25
+SequinoG_2024_a__SRR26596559__bin.14	SequinoG_2024_a	SRR26596559	SGB_assigned	0.03860702	SGB9910	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio_kanaloae	2247204	448	5320	53.4	1.39	0.44
+SequinoG_2024_a__SRR26596559__bin.15	SequinoG_2024_a	SRR26596559	Unassigned											2892366	181	25320	90.15	3.25	0.36
+SequinoG_2024_a__SRR26596559__bin.18	SequinoG_2024_a	SRR26596559	Unassigned											2131525	500	5046	60.38	1.51	0.37
+SequinoG_2024_a__SRR26596559__bin.20	SequinoG_2024_a	SRR26596559	Unassigned											3292802	257	23679	90.82	4.76	0.38
+SequinoG_2024_a__SRR26596559__bin.22	SequinoG_2024_a	SRR26596559	Unassigned											3029607	341	12989	58.84	3.2	0.38
+SequinoG_2024_a__SRR26596559__bin.24	SequinoG_2024_a	SRR26596559	Unassigned											1307317	185	7632	66.83	0.08	0.45
+SequinoG_2024_a__SRR26596559__bin.6	SequinoG_2024_a	SRR26596559	SGB_assigned	0.0222577743243243	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	2436621	489	5846	68.4	1.01	0.4
+SequinoG_2024_a__SRR26596560__bin.4	SequinoG_2024_a	SRR26596560	Unassigned											918440	227	5472	90.9	2.84	0.25
+SequinoG_2024_a__SRR26596560__bin.7	SequinoG_2024_a	SRR26596560	SGB_assigned	0.0029869566666666	SGB12757	Genus	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax_SGB12757	7620290	241	51885	100.0	2.42	0.67
+SequinoG_2024_a__SRR26596561__bin.20	SequinoG_2024_a	SRR26596561	Unassigned											2276594	188	35347	62.25	4.62	0.32
+SequinoG_2024_a__SRR26596561__bin.21	SequinoG_2024_a	SRR26596561	Unassigned											2822774	151	31686	88.41	0.38	0.36
+SequinoG_2024_a__SRR26596561__bin.23	SequinoG_2024_a	SRR26596561	SGB_assigned	0.0320441	SGB9837	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_sanguinicancri	3051298	338	11236	53.1	3.0	0.43
+SequinoG_2024_a__SRR26596561__bin.24	SequinoG_2024_a	SRR26596561	SGB_assigned	0.0465055517241379	SGB9996	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	Proteus_terrae	1967933	48	66837	51.33	0.1	0.38
+SequinoG_2024_a__SRR26596561__bin.31	SequinoG_2024_a	SRR26596561	SGB_assigned	0.01754494	SGB9959	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_molluscorum	3551837	303	16900	90.99	3.48	0.6
+SequinoG_2024_a__SRR26596561__bin.34	SequinoG_2024_a	SRR26596561	SGB_assigned	0.0272924	SGB745	Species	Bacteria	Firmicutes	Clostridia	Eubacteriales	Peptostreptococcaceae	Peptostreptococcus	Peptostreptococcus_russellii	1081061	23	95517	56.85	0.24	0.3
+SequinoG_2024_a__SRR26596561__bin.48	SequinoG_2024_a	SRR26596561	SGB_assigned	0.04042645	SGB49085	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_silagei	1806900	135	25456	71.99	2.7	0.35
+SequinoG_2024_a__SRR26596561__bin.52	SequinoG_2024_a	SRR26596561	Unassigned											1164762	92	55069	51.05	0.01	0.27
+SequinoG_2024_a__SRR26596561__bin.60	SequinoG_2024_a	SRR26596561	SGB_assigned	0.0117403523255813	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2278537	114	30238	85.78	0.12	0.36
+SequinoG_2024_a__SRR26596561__bin.62	SequinoG_2024_a	SRR26596561	SGB_assigned	0.0255655	SGB9828	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_toruni	2378324	163	19588	53.69	3.24	0.37
+SequinoG_2024_a__SRR26596561__bin.66	SequinoG_2024_a	SRR26596561	SGB_assigned	0.0222230555555555	SGB29863	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_salmoninarum	2391551	223	15662	83.32	0.23	0.38
+SequinoG_2024_a__SRR26596562__bin.21	SequinoG_2024_a	SRR26596562	Unassigned											2702414	144	31632	82.49	1.53	0.36
+SequinoG_2024_a__SRR26596562__bin.31	SequinoG_2024_a	SRR26596562	SGB_assigned	0.0438551333333333	SGB39270	Other	Bacteria	Fusobacteria	CFGB9139	OFGB9139	FGB9139	GGB27062	GGB27062_SGB39270	2102715	232	13461	78.17	1.33	0.28
+SequinoG_2024_a__SRR26596562__bin.36	SequinoG_2024_a	SRR26596562	Unassigned											2893718	200	20592	79.23	3.06	0.38
+SequinoG_2024_a__SRR26596562__bin.43	SequinoG_2024_a	SRR26596562	Unassigned											2050570	424	5630	55.66	0.79	0.37
+SequinoG_2024_a__SRR26596563__bin.19	SequinoG_2024_a	SRR26596563	SGB_assigned	0.0275551229166666	SGB31329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_harbinensis	1496194	123	17169	56.42	0.06	0.43
+SequinoG_2024_a__SRR26596563__bin.21	SequinoG_2024_a	SRR26596563	SGB_assigned	0.0164524097297297	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3444722	277	23194	91.44	0.95	0.4
+SequinoG_2024_a__SRR26596563__bin.23	SequinoG_2024_a	SRR26596563	SGB_assigned	0.0122844037984496	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2284524	124	31698	93.85	0.11	0.37
+SequinoG_2024_a__SRR26596563__bin.3	SequinoG_2024_a	SRR26596563	SGB_assigned	0.01754974	SGB9959	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_molluscorum	3643453	310	17536	92.33	0.37	0.6
+SequinoG_2024_a__SRR26596564__bin.10	SequinoG_2024_a	SRR26596564	Unassigned											2917395	159	33933	95.59	1.12	0.36
+SequinoG_2024_a__SRR26596564__bin.13	SequinoG_2024_a	SRR26596564	SGB_assigned	0.026781	SGB30961	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_algidipiscicola	2137212	132	28114	51.94	0.88	0.46
+SequinoG_2024_a__SRR26596564__bin.27	SequinoG_2024_a	SRR26596564	Unassigned											2469903	615	4650	59.86	2.72	0.37
+SequinoG_2024_a__SRR26596564__bin.9	SequinoG_2024_a	SRR26596564	Unassigned											3425298	258	20248	87.89	3.34	0.38
+SequinoG_2024_a__SRR26596565__bin.10	SequinoG_2024_a	SRR26596565	Unassigned											927319	382	2391	50.43	0.84	0.29
+SequinoG_2024_a__SRR26596565__bin.11	SequinoG_2024_a	SRR26596565	SGB_assigned	0.0156699171621621	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3406576	266	23297	93.01	0.33	0.4
+SequinoG_2024_a__SRR26596565__bin.15	SequinoG_2024_a	SRR26596565	Unassigned											325292	139	2331	53.8	0.21	0.25
+SequinoG_2024_a__SRR26596565__bin.5	SequinoG_2024_a	SRR26596565	SGB_assigned	0.031161494117647	SGB10329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_frigidimarina	2986213	556	6404	62.12	2.31	0.41
+SequinoG_2024_a__SRR26596565__bin.9	SequinoG_2024_a	SRR26596565	Unassigned											3112842	765	4638	58.5	4.36	0.44
+SequinoG_2024_a__SRR26596566__bin.27	SequinoG_2024_a	SRR26596566	Unassigned											6977784	3052	2226	51.12	2.12	0.24
+SequinoG_2024_a__SRR26596566__bin.30	SequinoG_2024_a	SRR26596566	Unassigned											1771747	110	23690	52.4	0.42	0.39
+SequinoG_2024_a__SRR26596566__bin.31	SequinoG_2024_a	SRR26596566	Unassigned											560038	73	10246	76.52	1.36	0.25
+SequinoG_2024_a__SRR26596568__bin.9	SequinoG_2024_a	SRR26596568	Unassigned											3565266	82	65682	100.0	0.47	0.67
+SequinoG_2024_a__SRR26596570__bin.14	SequinoG_2024_a	SRR26596570	SGB_assigned	0.0231485145833333	SGB31329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_harbinensis	1941129	379	6435	70.2	2.38	0.42
+SequinoG_2024_a__SRR26596570__bin.18	SequinoG_2024_a	SRR26596570	SGB_assigned	0.015528859054054	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3445773	265	22727	98.71	0.55	0.4
+SequinoG_2024_a__SRR26596570__bin.23	SequinoG_2024_a	SRR26596570	SGB_assigned	0.0315374294117647	SGB10329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_frigidimarina	2886289	540	6415	61.73	2.89	0.41
+SequinoG_2024_a__SRR26596571__bin.10	SequinoG_2024_a	SRR26596571	SGB_assigned	0.0143312276744186	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2661951	186	32302	93.83	2.58	0.36
+SequinoG_2024_a__SRR26596571__bin.18	SequinoG_2024_a	SRR26596571	SGB_assigned	0.0172054322972973	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3382404	259	19727	91.01	1.02	0.4
+SequinoG_2024_a__SRR26596571__bin.2	SequinoG_2024_a	SRR26596571	Unassigned											10201536	4078	2489	70.63	4.29	0.25
+SequinoG_2024_a__SRR26596572__bin.18	SequinoG_2024_a	SRR26596572	SGB_assigned	0.0234469270833333	SGB31329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_harbinensis	1917684	402	5670	72.39	1.55	0.42
+SequinoG_2024_a__SRR26596572__bin.22	SequinoG_2024_a	SRR26596572	SGB_assigned	0.0158772031007751	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	1823259	93	35635	70.01	0.17	0.36
+SequinoG_2024_a__SRR26596572__bin.23	SequinoG_2024_a	SRR26596572	Unassigned											3124016	788	4393	53.85	4.45	0.43
+SequinoG_2024_a__SRR26596572__bin.7	SequinoG_2024_a	SRR26596572	SGB_assigned	0.0245017294117647	SGB10329	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella_frigidimarina	3481410	639	6282	77.13	1.62	0.41
+SequinoG_2024_a__SRR26596573__bin.3	SequinoG_2024_a	SRR26596573	SGB_assigned	0.021685527027027	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	2493719	181	17355	69.53	0.53	0.4
+SequinoG_2024_a__SRR26596574__bin.6	SequinoG_2024_a	SRR26596574	SGB_assigned	0.0158157513513513	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3378447	395	12922	95.94	2.67	0.4
+SequinoG_2024_a__SRR26596575__bin.10	SequinoG_2024_a	SRR26596575	Unassigned											4937285	65	118758	97.77	0.95	0.69
+SequinoG_2024_a__SRR26596575__bin.14	SequinoG_2024_a	SRR26596575	Unassigned											5287620	65	126659	99.81	0.22	0.67
+SequinoG_2024_a__SRR26596575__bin.15	SequinoG_2024_a	SRR26596575	SGB_assigned	0.0196514666666666	SGB7595	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Planococcus	Planococcus_sp_MB_3u_03	2832378	572	6396	89.68	2.62	0.49
+SequinoG_2024_a__SRR26596575__bin.5	SequinoG_2024_a	SRR26596575	SGB_assigned	0.0497029	SGB10945	Species	Bacteria	Proteobacteria	Alphaproteobacteria	Hyphomicrobiales	Hyphomicrobiaceae	Hyphomicrobium	Hyphomicrobium_denitrificans	2381901	664	4181	72.27	1.79	0.61
+SequinoG_2024_a__SRR26596575__bin.7	SequinoG_2024_a	SRR26596575	SGB_assigned	0.00270462	SGB12757	Genus	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax_SGB12757	7626185	79	175138	100.0	3.17	0.67
+SequinoG_2024_a__SRR26596575__bin.8	SequinoG_2024_a	SRR26596575	Unassigned											654495	114	7275	58.23	0.53	0.43
+SequinoG_2024_a__SRR26596575__bin.9	SequinoG_2024_a	SRR26596575	Unassigned											4251681	736	7440	86.24	3.88	0.59
+SequinoG_2024_a__SRR26596577__bin.20	SequinoG_2024_a	SRR26596577	SGB_assigned	0.0446962714285714	SGB9842	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Aliivibrio	Aliivibrio_logei	2892429	267	20196	51.46	3.52	0.39
+SequinoG_2024_a__SRR26596577__bin.7	SequinoG_2024_a	SRR26596577	SGB_assigned	0.0164996052702702	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3391069	223	24719	95.29	0.1	0.4
+SequinoG_2024_a__SRR26596579__bin.13	SequinoG_2024_a	SRR26596579	Unassigned											2775345	139	34030	90.52	0.18	0.36
+SequinoG_2024_a__SRR26596579__bin.16	SequinoG_2024_a	SRR26596579	SGB_assigned	0.0188115	SGB96947	Other	Bacteria	Firmicutes	CFGB70169	OFGB70169	FGB70169	GGB71208	GGB71208_SGB96947	1939193	123	25645	82.47	1.19	0.37
+SequinoG_2024_a__SRR26596579__bin.2	SequinoG_2024_a	SRR26596579	SGB_assigned	0.0187570317948717	SGB7902	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	Carnobacterium_maltaromaticum	3192715	157	32067	99.97	0.12	0.35
+SequinoG_2024_a__SRR26596579__bin.5	SequinoG_2024_a	SRR26596579	SGB_assigned	0.0139171578294573	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2108763	164	18737	81.46	0.19	0.37
+SequinoG_2024_a__SRR26596579__bin.8	SequinoG_2024_a	SRR26596579	SGB_assigned	0.0224084222222222	SGB29863	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_salmoninarum	2471613	255	14796	85.8	1.62	0.38
+SequinoG_2024_a__SRR26596579__bin.9	SequinoG_2024_a	SRR26596579	Unassigned											4175740	470	17190	100.0	4.23	0.38
+SequinoG_2024_a__SRR26596580__bin.11	SequinoG_2024_a	SRR26596580	SGB_assigned	0.0428507	SGB29898	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_carniphilus	2057425	363	7059	67.49	3.69	0.33
+SequinoG_2024_a__SRR26596580__bin.15	SequinoG_2024_a	SRR26596580	SGB_assigned	0.0433598	SGB9828	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_toruni	2507694	350	9087	50.53	4.51	0.37
+SequinoG_2024_a__SRR26596580__bin.22	SequinoG_2024_a	SRR26596580	SGB_assigned	0.0369657517241379	SGB9996	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Proteus	Proteus_terrae	2600278	72	53121	70.95	0.56	0.38
+SequinoG_2024_a__SRR26596580__bin.29	SequinoG_2024_a	SRR26596580	SGB_assigned	0.0118486660465116	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2245364	89	34208	84.0	1.89	0.37
+SequinoG_2024_a__SRR26596580__bin.30	SequinoG_2024_a	SRR26596580	Unassigned											3228231	218	26753	94.0	3.12	0.35
+SequinoG_2024_a__SRR26596580__bin.31	SequinoG_2024_a	SRR26596580	SGB_assigned	0.0279618999999999	SGB70941	Other	Bacteria	Fusobacteria	CFGB4377	OFGB4377	FGB4377	GGB50774	GGB50774_SGB70941	2305347	312	10596	86.16	4.22	0.27
+SequinoG_2024_a__SRR26596580__bin.32	SequinoG_2024_a	SRR26596580	SGB_assigned	0.0331359625	SGB7918	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_fluvialis	2370100	513	5654	71.27	4.56	0.32
+SequinoG_2024_a__SRR26596580__bin.4	SequinoG_2024_a	SRR26596580	Unassigned											3100513	182	25449	83.09	2.58	0.38
+SequinoG_2024_a__SRR26596581__bin.10	SequinoG_2024_a	SRR26596581	Unassigned											2011501	363	6622	68.5	3.31	0.37
+SequinoG_2024_a__SRR26596581__bin.29	SequinoG_2024_a	SRR26596581	Unassigned											2099041	147	29903	58.71	1.0	0.38
+SequinoG_2024_a__SRR26596581__bin.5	SequinoG_2024_a	SRR26596581	SGB_assigned	0.0319435666666666	SGB39270	Other	Bacteria	Fusobacteria	CFGB9139	OFGB9139	FGB9139	GGB27062	GGB27062_SGB39270	2562393	431	8376	96.19	2.77	0.28
+SequinoG_2024_a__SRR26596582__bin.10	SequinoG_2024_a	SRR26596582	Unassigned											2499883	153	23803	71.39	4.13	0.39
+SequinoG_2024_a__SRR26596582__bin.15	SequinoG_2024_a	SRR26596582	Unassigned											2355160	458	6107	51.92	2.15	0.36
+SequinoG_2024_a__SRR26596585__bin.13	SequinoG_2024_a	SRR26596585	SGB_assigned	0.0348265666666666	SGB39270	Other	Bacteria	Fusobacteria	CFGB9139	OFGB9139	FGB9139	GGB27062	GGB27062_SGB39270	2708164	197	23033	98.06	0.65	0.28
+SequinoG_2024_a__SRR26596585__bin.15	SequinoG_2024_a	SRR26596585	SGB_assigned	0.0156718162790697	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	1980554	174	14648	73.31	0.71	0.36
+SequinoG_2024_a__SRR26596585__bin.16	SequinoG_2024_a	SRR26596585	SGB_assigned	0.0395379777777777	SGB29863	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus	Vagococcus_salmoninarum	1311311	414	3372	56.75	1.02	0.38
+SequinoG_2024_a__SRR26596585__bin.3	SequinoG_2024_a	SRR26596585	SGB_assigned	0.0268961	SGB9828	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_toruni	2526694	389	9424	57.91	1.3	0.37
+SequinoG_2024_a__SRR26596585__bin.8	SequinoG_2024_a	SRR26596585	SGB_assigned	0.03464755	SGB9827	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_piscicola	2095349	157	20226	53.55	1.19	0.37
+SequinoG_2024_a__SRR26596586__bin.16	SequinoG_2024_a	SRR26596586	Unassigned											786835	47	32432	95.96	1.58	0.25
+SequinoG_2024_a__SRR26596586__bin.18	SequinoG_2024_a	SRR26596586	SGB_assigned	0.0173835372093023	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	1974774	288	8335	73.11	0.46	0.36
+SequinoG_2024_a__SRR26596586__bin.20	SequinoG_2024_a	SRR26596586	SGB_assigned	0.0356029666666666	SGB39270	Other	Bacteria	Fusobacteria	CFGB9139	OFGB9139	FGB9139	GGB27062	GGB27062_SGB39270	2851686	138	29753	99.45	0.55	0.28
+SequinoG_2024_a__SRR26596587__bin.4	SequinoG_2024_a	SRR26596587	SGB_assigned	0.013871496124031	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2040804	117	23888	77.95	0.18	0.37
+SequinoG_2024_a__SRR26596588__bin.10	SequinoG_2024_a	SRR26596588	SGB_assigned	0.0434327285714285	SGB10467	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	Psychrobacter_cryohalolentis	1747681	374	5098	55.75	3.55	0.42
+SequinoG_2024_a__SRR26596588__bin.19	SequinoG_2024_a	SRR26596588	SGB_assigned	0.048264348076923	SGB10459	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	Psychrobacter_immobilis	1722390	426	4578	55.27	4.12	0.43
+SequinoG_2024_a__SRR26596588__bin.2	SequinoG_2024_a	SRR26596588	SGB_assigned	0.0124509196899224	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2356001	132	30949	84.72	0.43	0.36
+SequinoG_2024_a__SRR26596588__bin.23	SequinoG_2024_a	SRR26596588	SGB_assigned	0.02246782	SGB9959	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_molluscorum	2296551	183	19001	54.4	0.28	0.6
+SequinoG_2024_a__SRR26596589__bin.1	SequinoG_2024_a	SRR26596589	Unassigned											834801	97	13249	96.16	0.72	0.25
+SequinoG_2024_a__SRR26596589__bin.10	SequinoG_2024_a	SRR26596589	Unassigned											3454292	230	23704	94.61	1.95	0.38
+SequinoG_2024_a__SRR26596589__bin.21	SequinoG_2024_a	SRR26596589	Unassigned											2660605	237	17064	93.17	0.55	0.36
+SequinoG_2024_a__SRR26596589__bin.22	SequinoG_2024_a	SRR26596589	SGB_assigned	0.0364616	SGB39270	Other	Bacteria	Fusobacteria	CFGB9139	OFGB9139	FGB9139	GGB27062	GGB27062_SGB39270	2123528	493	5199	96.95	1.15	0.28
+SequinoG_2024_a__SRR26596590__bin.10	SequinoG_2024_a	SRR26596590	SGB_assigned	0.0335812333333333	SGB39270	Other	Bacteria	Fusobacteria	CFGB9139	OFGB9139	FGB9139	GGB27062	GGB27062_SGB39270	2607675	299	17559	97.16	4.57	0.28
+SequinoG_2024_a__SRR26596590__bin.28	SequinoG_2024_a	SRR26596590	SGB_assigned	0.0254287372093023	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	1242029	93	17864	50.16	0.21	0.37
+SequinoG_2024_a__SRR26596590__bin.4	SequinoG_2024_a	SRR26596590	SGB_assigned	0.0292124461538461	SGB7902	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	Carnobacterium_maltaromaticum	2775371	717	4475	79.81	4.45	0.35
+SequinoG_2024_a__SRR26596591__bin.6	SequinoG_2024_a	SRR26596591	Unassigned											1645895	429	4093	50.19	1.58	0.36
+SequinoG_2024_a__SRR26596592__bin.17	SequinoG_2024_a	SRR26596592	SGB_assigned	0.0350920666666666	SGB9841	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Aliivibrio	Aliivibrio_sp_1S128	2684426	61	132435	64.23	2.67	0.39
+SequinoG_2024_a__SRR26596592__bin.21	SequinoG_2024_a	SRR26596592	SGB_assigned	0.02250008	SGB9959	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas_molluscorum	2588682	438	7460	63.08	0.21	0.6
+SequinoG_2024_a__SRR26596594__bin.12	SequinoG_2024_a	SRR26596594	Unassigned											2915450	187	25060	84.75	3.46	0.39
+SequinoG_2024_a__SRR26596595__bin.1	SequinoG_2024_a	SRR26596595	Unassigned											2587809	596	5320	73.76	1.97	0.3
+SequinoG_2024_a__SRR26596595__bin.6	SequinoG_2024_a	SRR26596595	SGB_assigned	0.0076681766666666	SGB12757	Genus	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax_SGB12757	6244704	1458	5160	87.86	4.65	0.68
+SequinoG_2024_a__SRR26596595__bin.9	SequinoG_2024_a	SRR26596595	Unassigned											1113656	71	20597	59.93	3.9	0.42
+SequinoG_2024_a__SRR26596596__bin.3	SequinoG_2024_a	SRR26596596	SGB_assigned	0.0428312666666666	SGB9830	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_aquimaris	2252396	562	4900	51.3	1.7	0.39
+SequinoG_2024_a__SRR26596597__bin.1	SequinoG_2024_a	SRR26596597	Unassigned											1908945	750	2634	53.34	1.42	0.67
+SequinoG_2024_a__SRR26596597__bin.10	SequinoG_2024_a	SRR26596597	SGB_assigned	0.0324968833333333	SGB9830	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_aquimaris	3005630	715	4874	64.26	4.83	0.39
+SequinoG_2024_a__SRR26596598__bin.20	SequinoG_2024_a	SRR26596598	SGB_assigned	0.0135378389147286	SGB7517	Species	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	Brochothrix_thermosphacta	2354202	144	32062	84.32	0.49	0.36
+SequinoG_2024_a__SRR26596598__bin.3	SequinoG_2024_a	SRR26596598	SGB_assigned	0.0194571108108108	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3058928	253	21531	79.63	0.92	0.4
+SequinoG_2024_a__SRR26596598__bin.34	SequinoG_2024_a	SRR26596598	SGB_assigned	0.028568325	SGB7908	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	Carnobacterium_jeotgali	1525646	275	6861	54.02	3.51	0.35
+SequinoG_2024_a__SRR26596599__bin.11	SequinoG_2024_a	SRR26596599	Unassigned											2751919	921	3186	57.63	1.26	0.67
+SequinoG_2024_a__SRR26596599__bin.14	SequinoG_2024_a	SRR26596599	Unassigned											5284069	68	117095	97.29	0.53	0.67
+SequinoG_2024_a__SRR26596599__bin.15	SequinoG_2024_a	SRR26596599	Unassigned											3951218	284	23292	93.17	0.54	0.56
+SequinoG_2024_a__SRR26596599__bin.16	SequinoG_2024_a	SRR26596599	SGB_assigned	0.02827225	SGB9827	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Photobacterium	Photobacterium_piscicola	2661614	211	22015	60.86	0.15	0.38
+SequinoG_2024_a__SRR26596599__bin.3	SequinoG_2024_a	SRR26596599	SGB_assigned	0.03170325	SGB32537	Species	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Curvibacter	Curvibacter_delicatus	3475392	717	5945	85.34	2.04	0.63
+SequinoG_2024_a__SRR26596599__bin.7	SequinoG_2024_a	SRR26596599	Unassigned											2929685	1126	2636	56.01	0.32	0.69
+SequinoG_2024_a__SRR26596600__bin.19	SequinoG_2024_a	SRR26596600	SGB_assigned	0.0330455567567567	SGB13904	Species	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	1677252	534	3260	50.81	0.1	0.4
+SequinoG_2024_a__SRR26596602__bin.10	SequinoG_2024_a	SRR26596602	Unassigned											3551859	12	458871	100.0	0.14	0.67

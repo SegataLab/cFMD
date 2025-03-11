@@ -1,0 +1,11 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+DuR_2020__DRS139333__bin.13	DuR_2020	DRS139333	EUK10000034	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Wickerhamomyces	Wickerhamomyces_anomalus	12288747	3628	3744	71.0	0.6	0.3456
+DuR_2020__DRS139333__bin.16	DuR_2020	DRS139333	EUK4909	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia_kudriavzevii	9626647	1239	10738	84.8	0.4	0.3821
+DuR_2020__DRS139334__bin.15	DuR_2020	DRS139334	EUK4909	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia_kudriavzevii	9843424	1422	9398	85.4	0.2	0.3823
+DuR_2020__DRS139334__bin.19	DuR_2020	DRS139334	EUK36015	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia_kluyveri	11449582	3007	4320	76.7	0.0	0.2869
+DuR_2020__DRS139334__bin.3	DuR_2020	DRS139334	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	10912046	350	50820	95.0	1.7	0.3827
+DuR_2020__DRS139335__bin.6	DuR_2020	DRS139335	EUK5068	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus_tubingensis	29107315	3474	10755	70.7	0.1	0.5024
+DuR_2020__DRS139335__bin.10	DuR_2020	DRS139335	EUK4909	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia_kudriavzevii	9135737	1345	9006	81.4	0.2	0.381
+DuR_2020__DRS139335__bin.17	DuR_2020	DRS139335	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	11319193	632	29977	94.6	2.1	0.3824
+DuR_2020__DRS139335__bin.20	DuR_2020	DRS139335	EUK36015	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia_kluyveri	10701576	2787	4421	75.9	0.5	0.2822
+DuR_2020__DRS139335__bin.25	DuR_2020	DRS139335	EUK10000021	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Phaffomycetaceae	Cyberlindnera	Cyberlindnera_fabianii	9194986	2059	5042	65.0	0.0	0.4449

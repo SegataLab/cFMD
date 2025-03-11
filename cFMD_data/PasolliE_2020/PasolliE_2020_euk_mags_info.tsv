@@ -1,0 +1,2 @@
+MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+PasolliE_2020__SRS6525471__bin.2	PasolliE_2020	SRS6525471	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	10846341	1562	9406	90.6	1.7	0.3815
