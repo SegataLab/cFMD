@@ -1,6 +1,6 @@
 # cFMD
 
-curatedFoodMetagenomicData (cFMD) is a resource that comprehends curated metadata, microbiome profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. The current version of cFMD (v1.2.1) comprises additional 835 food metagenomes from 26 datasets of recent publicly available studies, along with the 2,533 publicly available and [EU 2020 MASTER project](https://www.master-h2020.eu/index.html) food metagenomes from the initial cFMD release. Overall, cFMD v1.2.1 comprehends 3,368 food metagenomes from 85 food metagenomic datasets. 
+curatedFoodMetagenomicData (cFMD) is a resource that comprehends curated metadata, microbiome profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. The current version of cFMD (v1.2.1), developed within the [DOMINO EU project](https://www.domino-euproject.eu/), comprises additional 835 food metagenomes from 26 datasets of recent publicly available studies, along with the 2,533 publicly available (including [EU 2020 MASTER project](https://www.master-h2020.eu/index.html)) food metagenomes from the initial cFMD release. Overall, cFMD v1.2.1 comprehends 3,368 food metagenomes from 85 food metagenomic datasets. 
 
 <!---**Note: The profiling of the new metaegenomes is done using previous cFMD release databases to remain consistent with the outcomes of old and new metagenomes**---> <!---TO ADD TO THE CHANGE LOG AND ANNOUNCEMENTS, NOT HERE--->
 
