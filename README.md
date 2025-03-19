@@ -24,7 +24,7 @@ The unique key for querying the database is represented by the dataset_name and 
 
 - [**cFMD_mags_list**](https://github.com/SegataLab/cFMD/blob/main/cFMD_mags_list.tsv): the list of the reconstructed MAGs with information in terms of: <!--TO ADD THE LINK WHEN WE HAVE IT-->
   - sample origin,
-  - assigned taxonomy at species-level genome bin (SGB) level,
+  - assigned taxonomy at species-level genome bin (SGB) level (MAGs remain unassigned if they belong to SGBs not present in the vMar22 MetaRefSGB database),
   - known/unknown status of the SGB,
   - assigned taxonomy according to BUSCO in the case of recently included (v1.2.1) eukaryotic MAGs,
   - basic statistics (number of contigs, N50, completeness, contamination, etc.).
