@@ -51,7 +51,7 @@ list_1_2_1=('ShangpliangH_2023_a' 'ShangpliangH_2023_b' 'KharnaiorP_2023' 'YouL_
 
 zen_1="14871720"
 
-zen_2="14906604"
+zen_2="15609377"
 
 for d in "$@"; do
     zen_doi=""
