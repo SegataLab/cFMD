@@ -1,10 +1,12 @@
 # cFMD
 
-curatedFoodMetagenomicData (cFMD) is a resource that comprehends curated metadata, microbiome profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. The current version of cFMD (v1.2.1), developed within the [DOMINO EU project](https://www.domino-euproject.eu/), comprises additional 777 food metagenomes from 26 datasets of recent publicly available studies, along with the 2,533 publicly available (including [EU 2020 MASTER project](https://www.master-h2020.eu/index.html)) food metagenomes from the initial cFMD release. Overall, cFMD v1.2.1 comprehends 3,310 food metagenomes from 85 food metagenomic datasets. 
+curatedFoodMetagenomicData (cFMD) is the largest public food microbiome resource, comprehending curated metadata, microbiome profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. The current version of cFMD (v1.2.1), developed within the [DOMINO EU project](https://www.domino-euproject.eu/), comprises additional 777 food metagenomes from 26 datasets of recent publicly available studies, along with the 2,533 publicly available (including [EU 2020 MASTER project](https://www.master-h2020.eu/index.html)) food metagenomes from the initial cFMD release. Overall, cFMD v1.2.1 comprehends 3,310 food metagenomes from 85 food metagenomic datasets. 
 
 <!---**Note: The profiling of the new metaegenomes is done using previous cFMD release databases to remain consistent with the outcomes of old and new metagenomes**---> <!---TO ADD TO THE CHANGE LOG AND ANNOUNCEMENTS, NOT HERE--->
 
 <!---Current release: [![DOI](https://zenodo.org/badge/579006339.svg)](https://zenodo.org/doi/10.5281/zenodo.10567318)---> <!---I DON'T THINK THIS MIRRORING IN ZENODO IS NEEDED ANYMORE, BUT TO DISCUSS--->
+
+To contribute to the further expansion of cFMD with your own food-associated metagenomic data, get in touch with one of the contacts listed at the bottom of this page.
 
 Go to [cFMD v1.1.0](https://github.com/SegataLab/cFMD/releases/tag/v1.1.0) for the version associated with Carlino _et al._, "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", _Cell_, 2024, DOI: [10.1016/j.cell.2024.07.039](https://doi.org/10.1016/j.cell.2024.07.039).
 
