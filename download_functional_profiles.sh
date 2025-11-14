@@ -49,7 +49,7 @@ list_1_2_1=('ShangpliangH_2023_a' 'ShangpliangH_2023_b' 'KharnaiorP_2023' 'YouL_
 
 zen_1="14871851"
 
-zen_2="14905540"
+zen_2="15609141"
 
 for d in "$@"; do
     zen_doi=""
