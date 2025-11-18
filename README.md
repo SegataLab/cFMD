@@ -29,8 +29,9 @@ The unique key for querying the database is represented by the dataset_name and 
   - sample origin,
   - assigned taxonomy at species-level genome bin (SGB) level (MAGs remain unassigned if they belong to SGBs not present in the MetaRefSGB database),
   - known/unknown status of the SGB,
-  - assigned taxonomy according to BUSCO in the case of recently included (v1.2.1) eukaryotic MAGs,
-  - basic statistics (number of contigs, N50, completeness, contamination, etc.).
+  -  basic statistics (number of contigs, N50, completeness, contamination, etc.).
+  <!--- assigned taxonomy according to BUSCO in the case of recently included (v1.2.1) eukaryotic MAGs---!>
+ 
  
 <!---- [**cFMD_sgbs_prokaryotic**](https://github.com/SegataLab/cFMD/blob/main/cFMD_sgbs_prokaryotic.tsv): for each prokaryotic food SGB (i.e., having at least one MAG reconstructed from food) information in terms of:
   - taxonomy, known/unknown status of the SGB,
