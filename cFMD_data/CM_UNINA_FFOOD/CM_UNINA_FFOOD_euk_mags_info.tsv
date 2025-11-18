@@ -1,4 +1,4 @@
-MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
-CM_UNINA_FFOOD__FFOOD_229__bin.8	CM_UNINA_FFOOD	FFOOD_229	saccharomycetes_odb10	82.89999999999999	0.120627261761158	10945277	1658	8717	0.36
-CM_UNINA_FFOOD__FFOOD_259__bin.12	CM_UNINA_FFOOD	FFOOD_259	saccharomycetes_odb10	64.7	0.0	8083745	1909	5029	0.4
-CM_UNINA_FFOOD__FFOOD_400__bin.3	CM_UNINA_FFOOD	FFOOD_400	eurotiales_odb10	78.7	0.3811944091486658	22936946	3124	9601	0.52
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+CM_UNINA_FFOOD__FFOOD_229__bin.8	CM_UNINA_FFOOD	FFOOD_229	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	10945277.0	1658.0	8717.0	82.9	0.1206272618	0.36
+CM_UNINA_FFOOD__FFOOD_259__bin.12	CM_UNINA_FFOOD	FFOOD_259	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	8083745.0	1909.0	5029.0	64.7	0.0	0.4
+CM_UNINA_FFOOD__FFOOD_400__bin.3	CM_UNINA_FFOOD	FFOOD_400	assigned	EUK10000063	uSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	unknown	unknown	22936946.0	3124.0	9601.0	78.7	0.3811944091	0.52

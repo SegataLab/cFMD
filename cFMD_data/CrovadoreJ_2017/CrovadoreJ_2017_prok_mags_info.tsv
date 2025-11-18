@@ -1,3 +1,3 @@
-MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
-CrovadoreJ_2017__SRS1919172__bin.12	CrovadoreJ_2017	SRS1919172	SGB94702	ufSGB	Other	Bacteria	Firmicutes	CFGB34622	OFGB34622	FGB34622	GGB70286	GGB70286_SGB94702	847629	183	5774	53.76175549	2.586206897	0.342961366
-CrovadoreJ_2017__SRS1929208__bin.2	CrovadoreJ_2017	SRS1929208	SGB7157	kSGB	Species	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Apilactobacillus	Apilactobacillus_kunkeei	869840	337	2687	70.3578869	2.80078125	0.362867884
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+CrovadoreJ_2017__SRS1919172__bin.12	CrovadoreJ_2017	SRS1919172	assigned	SGB94702	uSGB	Genus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Apilactobacillus	Apilactobacillus_SGB94702	847629.0	183.0	5774.0	53.76175549	2.586206897	0.342961366
+CrovadoreJ_2017__SRS1929208__bin.2	CrovadoreJ_2017	SRS1929208	assigned	SGB205806	kSGB	Species	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Apilactobacillus	Apilactobacillus_kunkeei	869840.0	337.0	2687.0	70.3578869	2.80078125	0.362867884

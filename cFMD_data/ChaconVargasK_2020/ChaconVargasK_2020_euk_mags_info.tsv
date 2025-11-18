@@ -1,2 +1,2 @@
-MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
-ChaconVargasK_2020__SRS6087094__bin.8	ChaconVargasK_2020	SRS6087094	EUK27291	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_paradoxus	5403179	614	13999	50.0	1.0	0.3827
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+ChaconVargasK_2020__SRS6087094__bin.8	ChaconVargasK_2020	SRS6087094	assigned	EUK27291	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_paradoxus	5403179	614	13999	50.0	1.0	0.3827
