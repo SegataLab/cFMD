@@ -1,166 +1,190 @@
-sample	MASTER_WP4_MATIS_1__S6-42	MASTER_WP4_MATIS_1__S4-19	MASTER_WP4_MATIS_1__S4-18	MASTER_WP4_MATIS_1__S3-19	MASTER_WP4_MATIS_1__S3-18	MASTER_WP4_MATIS_1__S2-19	MASTER_WP4_MATIS_1__S2-18	MASTER_WP4_MATIS_1__S1-19
-macrocategory	food	food	food	food	food	food	food	food
-category	fish	fish	fish	fish	fish	fish	fish	fish
-type	arctic_char	cod	cod	salmon	salmon	haddock	haddock	cod
-subtype								
-country	ISL	ISL	ISL	ISL	ISL	ISL	ISL	ISL
-source	master	master	master	master	master	master	master	master
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Corynebacteriales|f__Corynebacteriaceae|g__Corynebacterium|s__Corynebacterium_suicordis|t__SGB86791	0	0	0	0.08881	0	0	0	0
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Corynebacteriales|f__Corynebacteriaceae|g__Corynebacterium|s__Corynebacterium_testudinoris|t__SGB17089	0	4.7999	9.50957	0	0	0	0	2.86251
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Corynebacteriales|f__Mycobacteriaceae|g__Mycobacterium|s__Mycobacterium_hodleri|t__SGB15743	0.20434	1.84675	2.37605	0	0	0	0	0
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Corynebacteriales|f__Nocardiaceae|g__Rhodococcus|s__Rhodococcus_erythropolis|t__SGB15824	2.63981	8.95587	7.08689	0	0	3.10454	0	9.16879
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Corynebacteriales|f__Nocardiaceae|g__Rhodococcus|s__Rhodococcus_sp_EPR_157|t__SGB15808	0.17117	0	0	0	0	0	0	0
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Corynebacteriales|f__Nocardiaceae|g__Rhodococcus|s__Rhodococcus_sp_OK302|t__SGB15825	0.02436	0	0	0	0	0	0	0
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Corynebacteriales|f__Nocardiaceae|g__Rhodococcus|s__Rhodococcus_sp_SBT000017|t__SGB33969	0.0075	0	0	0	0	0	0	0
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Micrococcales|f__Microbacteriaceae|g__Leucobacter|s__Leucobacter_sp_7_1|t__SGB16941	0	0.14962	0.42645	0.0	0	0.0	0	0.0938
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Micrococcales|f__Microbacteriaceae|g__Microbacterium|s__Microbacterium_liquefaciens|t__SGB16874	0	3.18685	1.54263	0.0	0	0.0	0	0.0
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Micrococcales|f__Microbacteriaceae|g__Microbacterium|s__Microbacterium_sp_5K110|t__SGB55566	0	0.0	0.0	0.26377	0	0.0	0	0.0
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Micrococcales|f__Microbacteriaceae|g__Pseudoclavibacter|s__Pseudoclavibacter_helvolus|t__SGB34900	0	2.64739	4.27859	0.0	0	0.65399	0	32.33883
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Micrococcales|f__Micrococcaceae|g__Arthrobacter|s__Arthrobacter_SGB98507|t__SGB98507	0	3.49933	1.8886	0.0	0	0.0	0	0.0
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Micrococcales|f__Micrococcaceae|g__Arthrobacter|s__Arthrobacter_ulcerisalmonis|t__SGB35079	0	1.42223	1.03822	0.0	0	0.0	0	0.0
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Micrococcales|f__Micrococcaceae|g__Galactobacter|s__Galactobacter_SGB98770|t__SGB98770	0.0	6.56777	4.1979	0.0	0	0	0	17.10128
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Micrococcales|f__Micrococcaceae|g__Galactobacter|s__Galactobacter_caseinivorans|t__SGB35098	0.0	0.0	0.0	0.0	0	0	0	1.6205
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Micrococcales|f__Micrococcaceae|g__Kocuria|s__Kocuria_rhizophila|t__SGB16670	0.0	0.39233	0.0	0.59921	0	0	0	0.0
-k__Bacteria|p__Actinobacteria|c__Actinomycetia|o__Propionibacteriales|f__Propionibacteriaceae|g__Luteococcus|s__Luteococcus_japonicus|t__SGB15908	0.3633	0.0	0.0	0.0	0	0	0	0.0
-k__Bacteria|p__Actinobacteria|c__CFGB23051|o__OFGB23051|f__FGB23051|g__GGB71899|s__GGB71899_SGB98917|t__SGB98917	0.0	0.0	0.0	0.0	0	0	0	0.41635
-k__Bacteria|p__Actinobacteria|c__CFGB43985|o__OFGB43985|f__FGB43985|g__GGB71766|s__GGB71766_SGB98730|t__SGB98730	0.04372	0.0	0.0	0.0	0	0	0	0.0
-k__Bacteria|p__Actinobacteria|c__CFGB5342|o__OFGB5342|f__FGB5342|g__GGB15717|s__GGB15717_SGB23955|t__SGB23955	0.0	6.52676	13.30018	0.0	0	0	0	0.0
-k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Marinilabiliales|f__Marinifilaceae|g__Ancylomarina|s__Ancylomarina_sp_16SWW_S1_10_2|t__SGB84915	0.09002	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__CFGB32551|o__OFGB32551|f__FGB32551|g__GGB48752|s__GGB48752_SGB66918|t__SGB66918	0.0	0.0	0.0	2.50385	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__CFGB37580|o__OFGB37580|f__FGB37580|g__GGB46761|s__GGB46761_SGB64648|t__SGB64648	0.0	0.0	0.0	1.82804	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__CFGB784|o__OFGB784|f__FGB784|g__GGB1929|s__GGB1929_SGB64644|t__SGB64644	0.0	0.0	0.0	0.99959	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Bizionia|s__Bizionia_sp_APA_3|t__SGB2858	0.20861	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_antarcticum|t__SGB28151	0.07547	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_aquidurense|t__SGB2997	0.25224	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_bizetiae|t__SGB78964	0.16114	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_cerinum|t__SGB28085	0.05796	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_crassostreae|t__SGB2971	0.51812	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_flabelliforme|t__SGB78996	0.03785	0.0	0.0	0.0	0.0	4.43373	5.45536	0.20507
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_frigidarium|t__SGB28134	2.0165	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_gelidilacus|t__SGB28097	0.06514	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_sp_140616W15|t__SGB28128	0.37889	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_sp_14A|t__SGB78989	1.45488	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_sp_28A|t__SGB78988	0.19903	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_sp_AJR|t__SGB2973	0.10482	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_tegetincola|t__SGB28150	2.98782	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Myroides|s__Myroides_sp_N17_2|t__SGB28078	0.00526	0.0	0.0	0.0	0.0	0.0	0.0	2.04
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Tenacibaculum|s__Tenacibaculum_finnmarkense|t__SGB2818	0.0	0.0	0.0	45.67748	64.43393	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Chryseobacterium|s__Chryseobacterium_carnipullorum|t__SGB2594	0.0	0.33262	0.36407	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Chryseobacterium|s__Chryseobacterium_piscium|t__SGB21875	0.0	0.91662	0.81418	0.0	0.0	0.0	0.0	0.85086
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Chryseobacterium|s__Chryseobacterium_sp_c4a|t__SGB78840	0.0	0.22105	0.32217	0.0	0.0	0.0	0.0	0.05214
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Kaistella|s__Kaistella_carnis|t__SGB28219	0.0	6.54073	4.65471	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Kaistella|s__Kaistella_chaponensis|t__SGB2631	0.0	3.86761	3.37936	10.44667	14.52607	6.36368	14.26604	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Kaistella|s__Kaistella_gelatinilytica|t__SGB91913	0.11066	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Soonwooa|s__Soonwooa_buanensis|t__SGB2626	0.0	0.02816	0.03891	0.0	0.0	0.0	0.0	0.68354
-k__Bacteria|p__Bacteroidetes|c__Sphingobacteriia|o__Sphingobacteriales|f__Sphingobacteriaceae|g__Pedobacter|s__Pedobacter_antarcticus|t__SGB3090	0.00509	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Sphingobacteriia|o__Sphingobacteriales|f__Sphingobacteriaceae|g__Pedobacter|s__Pedobacter_caeni|t__SGB3095	0.18191	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Sphingobacteriia|o__Sphingobacteriales|f__Sphingobacteriaceae|g__Pedobacter|s__Pedobacter_cryoconitis|t__SGB78642	0.02843	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Bacteroidetes|c__Sphingobacteriia|o__Sphingobacteriales|f__Sphingobacteriaceae|g__Pedobacter|s__Pedobacter_sp_PACM_27299|t__SGB3097	0.06003	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Candidatus_Saccharibacteria|c__CFGB33537|o__OFGB33537|f__FGB33537|g__GGB70991|s__GGB70991_SGB96145|t__SGB96145	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.92952
-k__Bacteria|p__Cyanobacteria|c__Cyanobacteria_unclassified|o__Synechococcales|f__Prochlorococcaceae|g__Prochlorococcus|s__Prochlorococcus_SGB57701|t__SGB57701_group	0.0	0.0	0.0	0.04649	0.0	0.0	0.0	0.0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Bacillaceae|g__Bacillus|s__Bacillus_smithii|t__SGB8339	0.32368	0.01388	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Bacillaceae|g__Saccharococcus|s__Saccharococcus_thermophilus|t__SGB82686	0.12658	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Bacillaceae|g__Weizmannia|s__Weizmannia_coagulans|t__SGB7729	0.30421	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Sporolactobacillaceae|g__Caenibacillus|s__Caenibacillus_caldisaponilyticus|t__SGB29924	0.12629	0.0	0.0	0	0	0	0.0	0.0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae|g__Macrococcus|s__Macrococcus_bohemicus|t__SGB7867	0.15931	0.0	0.0	0	0	0	0.0	0.0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae|g__Macrococcus|s__Macrococcus_caseolyticus|t__SGB7869	0.0	0.06613	0.0	0	0	0	0.0	0.0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae|g__Carnobacterium|s__Carnobacterium_maltaromaticum|t__SGB7902	0.04705	0.0	0.0	0	0	0	0.87043	0.0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Vagococcus|s__Vagococcus_coleopterorum|t__SGB82616	0.0	0.0	0.0	0	0	0	0.0	1.08148
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Vagococcus|s__Vagococcus_hydrophili|t__SGB82617	0.0	0.50281	0.93596	0	0	0	0.0	1.50405
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Vagococcus|s__Vagococcus_salmoninarum|t__SGB29863	0.09123	0.0	0.0	0	0	0	0.0	0.0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_amylolyticus|t__SGB7053	0.0559	0	0	0	0	0.0	0.0	0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_delbrueckii|t__SGB7020_group	0.1561	0	0	0	0	0.0	0.0	0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Limosilactobacillus|s__Limosilactobacillus_mucosae|t__SGB7088_group	0.27713	0	0	0	0	0.0	0.0	0
-k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_piscium|t__SGB7987	0.0	0	0	0	0	20.95765	21.53782	0
-k__Bacteria|p__Firmicutes|c__CFGB27355|o__OFGB27355|f__FGB27355|g__GGB41684|s__GGB41684_SGB58768|t__SGB58768	0.0	0	0	1.40959	0	0	0	0
-k__Bacteria|p__Firmicutes|c__CFGB42474|o__OFGB42474|f__FGB42474|g__GGB46925|s__GGB46925_SGB64837|t__SGB64837	0.0	0	0	2.7598	0	0	0	0
-k__Bacteria|p__Firmicutes|c__CFGB42971|o__OFGB42971|f__FGB42971|g__GGB67428|s__GGB67428_SGB91201|t__SGB91201	0.0	0	0	0.27527	0	0	0	0
-k__Bacteria|p__Firmicutes|c__Clostridia|o__Eubacteriales|f__Clostridiaceae|g__Clostridium|s__Clostridium_algidicarnis|t__SGB24909	0.05226	0	0	0.0	0	0	0	0
-k__Bacteria|p__Firmicutes|c__Clostridia|o__Eubacteriales|f__Peptostreptococcaceae|g__Acetoanaerobium|s__Acetoanaerobium_noterae|t__SGB6090	0.01465	0	0	0	0	0	0	0.0
-k__Bacteria|p__Firmicutes|c__Clostridia|o__Eubacteriales|f__Peptostreptococcaceae|g__Proteocatella|s__Proteocatella_sphenisci|t__SGB28978	0.01983	0	0	0	0	0	0	0.0
-k__Bacteria|p__Fusobacteria|c__Fusobacteriia|o__Fusobacteriales|f__Fusobacteriaceae|g__Fusobacterium|s__Fusobacterium_sp_IOR10|t__SGB77489	0.04065	0	0	0	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Hyphomicrobiales_unclassified|g__Hyphomicrobiales_unclassified|s__Hyphomicrobiales_bacterium|t__SGB24136	0.0	0	0	0	0	0	0	0.22424
-k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Pelagibacterales|f__Pelagibacteraceae|g__Candidatus_Pelagibacter|s__Candidatus_Pelagibacter_giovannonii|t__SGB76397	0.0	0.0	0.0	0.41379	0	0	0	0
-k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Pelagibacterales|f__Pelagibacteraceae|g__Candidatus_Pelagibacter|s__Candidatus_Pelagibacter_ubique|t__SGB5338	0.0	0.0	0.0	0.25206	0	0	0	0
-k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Pelagibacterales|f__Pelagibacterales_unclassified|g__Pelagibacterales_unclassified|s__Pelagibacterales_bacterium_SAG_MED06|t__SGB76413	0.0	0.0	0.0	0.33867	0	0	0	0
-k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Pelagibacterales|f__Pelagibacterales_unclassified|g__Pelagibacterales_unclassified|s__Pelagibacterales_unclassified_SGB64940|t__SGB64940	0.0	0.0	0.0	0.20038	0	0	0	0
-k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Pelagibacterales|f__Pelagibacterales_unclassified|g__Pelagibacterales_unclassified|s__Pelagibacterales_unclassified_SGB64942|t__SGB64942	0.0	0.0	0.0	0.23244	0	0	0	0
-k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Rhodobacterales|f__Rhodobacteraceae|g__Paracoccus|s__Paracoccus_SGB99491|t__SGB99491	0.0	4.91509	0.08974	0.0	0	0	0	0
-k__Bacteria|p__Proteobacteria|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingobium|s__Sphingobium_sp_KCTC_72723|t__SGB90117	0.01414	0.0	0.0	0.0	0	0	0	0
-k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Comamonadaceae|g__Comamonas|s__Comamonas_SGB88312|t__SGB88312	0.0	0.0	0	0.0	0	0	0	2.60324
-k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Comamonadaceae|g__Comamonas|s__Comamonas_piscis|t__SGB88315	0.0	0.2245	0	0.0	0	0	0	0.17133
-k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Comamonadaceae|g__Variovorax|s__Variovorax_sp_UMC13|t__SGB88356	0.00876	0.01939	0	0.0	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Oxalobacteraceae|g__Herbaspirillum|s__Herbaspirillum_autotrophicum|t__SGB32861	0.11557	0.0	0	0.0	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Oxalobacteraceae|g__Janthinobacterium|s__Janthinobacterium_lividum|t__SGB12852	0.61341	0.0	0	0.0	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__Betaproteobacteria|o__Burkholderiales|f__Oxalobacteraceae|g__Janthinobacterium|s__Janthinobacterium_sp_61|t__SGB12855	0.29984	0.0	0	1.82965	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__CFGB19524|o__OFGB19524|f__FGB19524|g__GGB67546|s__GGB67546_SGB91348|t__SGB91348	0.0	0.0	0	1.64424	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__CFGB2754|o__OFGB2754|f__FGB2754|g__GGB67535|s__GGB67535_SGB91332|t__SGB91332	0.0	0.0	0	2.05823	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__CFGB35985|o__OFGB35985|f__FGB35985|g__GGB58981|s__GGB58981_SGB80710|t__SGB80710	0.0	0.0	0	0.21343	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__CFGB36039|o__OFGB36039|f__FGB36039|g__GGB48860|s__GGB48860_SGB91320|t__SGB91320	0.0	0.0	0	2.30943	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__CFGB7406|o__OFGB7406|f__FGB7406|g__GGB72292|s__GGB72292_SGB99449|t__SGB99449	0.06488	0.0	0	0.0	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Alteromonadales|f__Colwelliaceae|g__Colwellia|s__Colwellia_sp_Arc7_635|t__SGB30770	0.01326	0.0	0	0.0	0	0	0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Alteromonadales|f__Pseudoalteromonadaceae|g__Pseudoalteromonas|s__Pseudoalteromonas_nigrifaciens|t__SGB13904	18.20375	0	0	0.9026	1.85868	3.33874	0.32666	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Alteromonadales|f__Psychromonadaceae|g__Psychromonas|s__Psychromonas_arctica|t__SGB30563	0.20395	0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Alteromonadales|f__Shewanellaceae|g__Shewanella|s__Shewanella_baltica|t__SGB10320	0.35198	0	0	0.45305	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Alteromonadales|f__Shewanellaceae|g__Shewanella|s__Shewanella_frigidimarina|t__SGB10329	1.40534	0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Alteromonadales|f__Shewanellaceae|g__Shewanella|s__Shewanella_vesiculosa|t__SGB10328	0.36208	0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Cellvibrionales|f__Spongiibacteraceae|g__Zhongshania|s__Zhongshania_aliphaticivorans|t__SGB81415	0.00713	0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Chromatiales|f__Chromatiaceae|g__Rheinheimera|s__Rheinheimera_sp_D18|t__SGB30802	0.04835	0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Morganellaceae|g__Providencia|s__Providencia_heimbachae|t__SGB10009	0.00655	0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacterales|f__Yersiniaceae|g__Serratia|s__Serratia_fonticola|t__SGB10260	0.0	0	0	0.0	0.0	2.00045	1.73454	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Gammaproteobacteria_unclassified|f__Gammaproteobacteria_unclassified|g__Candidatus_Pseudothioglobus|s__Candidatus_Pseudothioglobus_singularis|t__SGB5522	0.0	0	0	2.90062	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Gammaproteobacteria_unclassified|f__Gammaproteobacteria_unclassified|g__Candidatus_Thioglobus|s__Candidatus_Thioglobus_sp_NP1|t__SGB28681	0.0	0	0	6.5268	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_albensis|t__SGB10396	0.03996	7.17365	6.37459	2.63752	1.85345	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_guillouiae|t__SGB10380	0.0	1.35752	1.73084	0.0	0.0	0.0	0.0	2.18539
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_halotolerans|t__SGB10354	0.00469	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_harbinensis|t__SGB31329	0.46026	12.4611	13.34057	2.8928	4.67343	2.95458	4.20337	7.49916
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_johnsonii|t__SGB10398	0.0	1.56639	3.78651	0.0	0.0	0.0	0.0	7.51049
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_pullicarnis|t__SGB81588	1.09594	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_rudis|t__SGB10416	0.0	0.0	0.0	0.25779	0.30744	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_sp_ANC_3832|t__SGB10381	0.0	1.45172	3.12723	0.0	0.0	4.6582	5.16572	0.78946
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_sp_WCHAc010034|t__SGB22964	0.0	0.00256	0.0	0.0	0.0	0.0	0.0	0.09939
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_arenosus|t__SGB81601	0.0774	9.10503	9.84605	0.14342	0.0	0.0	0.0	0.70669
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_cryohalolentis|t__SGB10467	1.69222	0.84219	0.0	0.29357	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_faecalis|t__SGB10464	0.0	0.23402	0.0	0.0	0.0	0.0	0.0	5.1428
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_fozii|t__SGB23001	0.43783	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_glaciei|t__SGB31382	1.44525	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB10451	0.61235	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB10459	24.02054	0.0	0.0	1.42815	1.75245	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB10460	3.46695	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB92574	1.16573	3.61357	2.43306	0.0	0.0	3.48456	9.17143	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB92575	0.16254	0.0	0.0	1.65324	0.46875	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB92579	0.79058	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_maritimus|t__SGB36487	0.22307	1.38392	0.95761	0.0	0.0	0.0	0.0	1.11909
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sanguinis|t__SGB10442	0.01959	1.55164	1.19531	0.31765	2.22955	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sanguinis|t__SGB10445	0.0	0.08936	0.43475	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sp_NG254|t__SGB81607	0.31675	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_urativorans|t__SGB92578	0.0	0.0	0.0	1.17726	3.23885	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Oceanospirillales|f__Oceanospirillaceae|g__Marinomonas|s__Marinomonas_polaris|t__SGB13567	0.04897	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Denitrificimonas|s__Denitrificimonas_caeni|t__SGB31389	4.34237	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_antarctica|t__SGB12161	0.17727	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_brenneri|t__SGB12164	0.0617	0.0	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_fluorescens|t__SGB12127	1.59881	0.96985	0.52928	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_fluorescens|t__SGB12163	9.36073	0.0	0.0	0.0	0.0	9.3597	12.12493	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_fluorescens|t__SGB12213	2.88499	0.0	0.0	0.09148	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_fluorescens|t__SGB12301	0.0	0.03061	0.0	0.0	0.0	0.0	0.0	0.0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_gessardii|t__SGB12162	0.1271	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_guineae|t__SGB22837	0.58232	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_haemolytica|t__SGB33220	0.35752	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_leptonychotis|t__SGB56835	0.15469	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_paraversuta|t__SGB12105	0.0	0.0	0	0.21216	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_prosekii|t__SGB12231	0.37743	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_proteolytica|t__SGB12165	1.31199	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_psychrophila|t__SGB12110	0.01536	0.0	0	0.56886	1.24165	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_sp_CF161|t__SGB12182	0.23384	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_sp_Irchel_3E20|t__SGB33248	0.28399	0.0	0	0.0	0.0	10.74365	11.79588	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_sp_TNT3|t__SGB89088	0.16327	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_sp_WS_5010|t__SGB89069	0.10382	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_trivialis|t__SGB12144	0.00497	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_viridiflava|t__SGB12132	3.04043	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_viridiflava|t__SGB12147	0.06	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_viridiflava|t__SGB12157	1.20148	0.52347	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_viridiflava|t__SGB12251	1.18154	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_weihenstephanensis|t__SGB12100	0.07214	0.0	0	0.0	0.0	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Vibrionales|f__Vibrionaceae|g__Aliivibrio|s__Aliivibrio_logei|t__SGB9842	0.25368	0.0	0	1.15216	3.41575	0.0	0.0	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Vibrionales|f__Vibrionaceae|g__Photobacterium|s__Photobacterium_carnosum|t__SGB9826	0.0	0.0	0	0.0	0.0	23.82523	11.86286	0
-k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Vibrionales|f__Vibrionaceae|g__Photobacterium|s__Photobacterium_iliopiscarium|t__SGB9825	0.0	0.0	0	0.0	0.0	4.1213	1.48496	0
+	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1
+sample	MASTER_WP4_MATIS_1__S1-19	MASTER_WP4_MATIS_1__S2-18	MASTER_WP4_MATIS_1__S2-19	MASTER_WP4_MATIS_1__S3-18	MASTER_WP4_MATIS_1__S3-19	MASTER_WP4_MATIS_1__S4-18	MASTER_WP4_MATIS_1__S4-19	MASTER_WP4_MATIS_1__S6-19	MASTER_WP4_MATIS_1__S6-42
+macrocategory	food	food	food	food	food	food	food	food	food
+category	fish	fish	fish	fish	fish	fish	fish	fish	fish
+type	cod	haddock	haddock	salmon	salmon	cod	cod	salmon	arctic_char
+subtype									
+country	ISL	ISL	ISL	ISL	ISL	ISL	ISL	ISL	ISL
+source	master	master	master	master	master	master	master	public	master
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Alteromonadales|f__Pseudoalteromonadaceae|g__Pseudoalteromonas|s__Pseudoalteromonas_nigrifaciens|t__SGB13904	0.0	1.44632	2.85885	2.43346	0.8471	0.0	0.0	0.0	17.37062
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Vagococcus|s__Vagococcus_salmoninarum|t__SGB29863	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.06937
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB10459	0.0	0.0	0.0	0.18754	1.42772	0.0	0.0	0.0	23.66956
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Oceanospirillales|f__Oceanospirillaceae|g__Marinomonas|s__Marinomonas_polaris|t__SGB13567	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.02098
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB10451	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.62185
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_faecalis|t__SGB10464	3.30149	0.0	0.0	0.0	0.0	0.0	0.23338	0.0	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae|g__Carnobacterium|s__Carnobacterium_maltaromaticum|t__SGB7902	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00782
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_delbrueckii|t__SGB7020	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.06098
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_proteolytica|t__SGB12165	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.1225
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Micrococcaceae|g__Rothia|s__Rothia_sp_P100|t__SGB23955	0.0	0.0	0.0	0.0	0.0	6.79977	4.68684	0.0	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_carnosus|t__SGB7987	0.0	20.96357	16.13729	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Chryseobacterium|s__Chryseobacterium_piscium|t__SGB21875	0.32676	0.0	0.0	0.0	0.0	0.30376	0.85139	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_guillouiae|t__SGB10380	1.50453	0.0	0.0	0.0	0.0	1.51024	1.41251	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Microbacteriaceae|g__Microbacterium|s__Microbacterium_maritypicum|t__SGB16874	0.0	0.0	0.0	0.0	0.0	1.23785	2.94617	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__CFGB23051|o__OFGB23051|f__FGB23051|g__GGB71899|s__GGB71899_SGB98917|t__SGB98917	0.21898	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Microbacteriaceae|g__Pseudoclavibacter|s__Pseudoclavibacter_helvolus|t__SGB34900	23.38741	0.0	1.00946	0.0	0.0	4.07919	2.61394	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_albensis|t__SGB10396	0.0	0.0	0.0	0.47968	2.29944	6.52627	6.7501	0.0	0.06885
+k__Bacteria|p__Pseudomonadota|c__Betaproteobacteria|o__Burkholderiales|f__Alcaligenaceae|g__Paenalcaligenes|s__Paenalcaligenes_faecalis|t__SGB99683	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.04658
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Denitrificimonas|s__Denitrificimonas_caeni|t__SGB31389	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	4.39087
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Nocardiaceae|g__Rhodococcus|s__Rhodococcus_qingshengii|t__SGB15824	5.20586	1.69948	1.20772	0.0	0.13803	6.58355	7.13543	0.0	1.82138
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_johnsonii|t__SGB10398	8.96727	0.0	0.0	0.0	0.0	3.86895	1.62674	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Luteococcus|s__Luteococcus_japonicus|t__SGB15908	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.2914
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_lactis|t__SGB66296	0.0	0.0	0.0	0.0	0.0	0.33143	1.47416	0.0	3.48313
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Corynebacteriaceae|g__Corynebacterium|s__Corynebacterium_suicordis|t__SGB86791	0.0	0.0	0.0	0.0	0.0643	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_paraversuta|t__SGB12105	0.0	0.0	0.0	0.0	0.06634	0.0	0.0	0.0	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae|g__Macrococcoides|s__Macrococcoides_caseolyticum|t__SGB7869	0.0	0.0	0.0	0.0	0.0	0.0	0.08011	0.0	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Bacillaceae|g__Heyndrickxia|s__Heyndrickxia_coagulans|t__SGB7729	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.24851
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Bacillaceae|g__Bacillus|s__Bacillus_smithii|t__SGB8339	0.0	0.0	0.0	0.0	0.0	0.0	0.00781	0.0	0.32222
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_amylolyticus|t__SGB7053	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.04145
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_carnis|t__SGB12127	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.18651
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Limosilactobacillus|s__Limosilactobacillus_mucosae|t__SGB7088	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.29677
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Micrococcaceae|g__Kocuria|s__Kocuria_rhizophila|t__SGB16670	0.0	0.0	0.0	0.0	0.71786	0.0	0.35139	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_fluorescens|t__SGB12301	0.0	0.0	0.0	0.0	0.0	0.0	0.07755	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Yersiniaceae|g__Serratia|s__Serratia_fonticola|t__SGB10260	0.0	1.03396	0.65702	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Micrococcaceae|g__Arthrobacter|s__Arthrobacter_ulcerisalmonis|t__SGB35079	0.0	0.0	0.0	0.0	0.0	0.92884	1.34444	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_tritici|t__SGB12144	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.03288
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_edaphica|t__SGB12157	0.0	0.0	0.0	0.0	0.0	0.0	0.7522	0.0	1.62737
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_sp_WS_5010|t__SGB89069	0.0	0.28565	1.79022	0.0	0.0	0.0	0.0	0.0	0.14056
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_shahriarae|t__SGB12163	0.0	9.69155	8.49331	0.0	0.0	0.0	0.0	0.0	8.94512
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_gessardii|t__SGB12162	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.13392
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Micrococcaceae|g__Galactobacter|s__Galactobacter_caseinivorans|t__SGB35098	0.99735	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_fluorescens|t__SGB12213	0.0	0.0	0.0	0.0	0.10092	0.0	0.0	0.0	3.29234
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_frigidarium|t__SGB145824	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.27587
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Chryseobacterium|s__Chryseobacterium_carnipullorum|t__SGB2594	0.0	0.0	0.0	0.0	0.0	0.0	0.4039	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_bizetiae|t__SGB78964	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.19207
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_harbinensis|t__SGB31329	5.30344	2.83639	2.83262	5.97621	2.76358	12.81348	11.34773	0.0	0.42372
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae|g__Macrococcoides|s__Macrococcoides_bohemicum|t__SGB7867	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.23025
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_weihenstephanensis|t__SGB12100	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.04745
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_sp_NKUCC02_KPG|t__SGB99153	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.03133
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_haemolytica|t__SGB33220	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.37136
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_maritimus|t__SGB36487	1.69449	0.0	0.0	0.0	0.0	0.83001	1.81184	0.0	0.17738
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB92575	0.0	0.0	0.0	0.47995	1.44088	0.0	0.0	0.0	0.08433
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_psychrophila|t__SGB12110	0.0	0.0	0.0	0.0	0.26628	0.0	0.0	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Micrococcaceae|g__Paeniglutamicibacter|s__Paeniglutamicibacter_SGB98500|t__SGB98500	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.03936
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Micrococcaceae|g__Arthrobacter|s__Arthrobacter_SGB98507|t__SGB98507	0.0	0.0	0.0	0.0	0.0	1.69414	3.30104	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sanguinis|t__SGB10442	0.0	0.0	0.0	2.7078	0.40089	1.10633	1.43412	0.0	0.01277
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_sivasensis|t__SGB12132	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.86667
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_brenneri|t__SGB12164	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.05691
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_urativorans|t__SGB92578	0.0	0.0	0.0	3.32982	1.12529	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_cryohalolentis|t__SGB10467	0.0	0.0	0.0	0.0	0.25681	0.0	0.68853	0.0	1.77341
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_prosekii|t__SGB12231	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.37
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_gregormendelii|t__SGB12251	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.67548
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_sp_ANC_3832|t__SGB10381	0.54349	4.35038	4.10917	0.0	0.0	2.95336	1.35991	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Kaistella|s__Kaistella_carnis|t__SGB28219	0.0	0.0	0.0	0.0	0.0	4.60918	6.11191	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Betaproteobacteria|o__Burkholderiales|f__Oxalobacteraceae|g__Janthinobacterium|s__Janthinobacterium_tructae|t__SGB12852	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.723
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Vibrionales|f__Vibrionaceae|g__Photobacterium|s__Photobacterium_carnosum|t__SGB9826	0.0	10.1992	20.83804	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB10460	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	3.3856
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Vibrionales|f__Vibrionaceae|g__Photobacterium|s__Photobacterium_iliopiscarium|t__SGB9825	0.0	2.36055	2.69492	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Alteromonadales|f__Shewanellaceae|g__Shewanella|s__Shewanella_baltica|t__SGB10320_group	0.0	0.0	0.0	0.0	0.07175	0.0	0.0	0.0	0.10708
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Intrasporangiaceae|g__Janibacter|s__Janibacter_SGB98986|t__SGB98986	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0203
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Micrococcaceae|g__Pseudarthrobacter|s__Pseudarthrobacter_sp_PS3_L1|t__SGB98496	0.0	0.0	0.0	0.0	0.28614	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_hygromyciniae|t__SGB206560	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.16609
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_arenosus|t__SGB81601	0.57438	0.0	0.0	0.0	0.13293	9.5106	8.4045	0.0	0.06979
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_ardleyense|t__SGB97778	0.0	0.0	0.0	0.0	0.0	0.03314	0.88676	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Corynebacteriaceae|g__Corynebacterium|s__Corynebacterium_testudinoris|t__SGB17089	1.58937	0.0	0.0	0.0	0.0	8.5991	4.43472	0.0	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Vagococcus|s__Vagococcus_SGB96945|t__SGB96945	0.0	5.27101	1.97843	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Carnobacteriaceae|g__Granulicatella|s__Granulicatella_seriolae|t__SGB109726	0.07939	0.0	0.0	0.0	0.0	0.15853	0.12482	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Micrococcaceae|g__Rothia|s__Rothia_endophytica|t__SGB98453	0.0	0.0	0.0	0.0	0.0	2.08108	1.14939	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_flabelliforme|t__SGB78996	0.16189	5.23967	4.0177	0.0	0.0	0.0	0.0	0.0	0.03741
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Mycobacteriaceae|g__GGB71766|s__GGB71766_SGB98730|t__SGB98730	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.02853
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Kaistella|s__Kaistella_sp_SH11_4b|t__SGB194946	1.18993	0.0	0.0	0.0	0.0	0.1905	0.38091	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_rudis|t__SGB10416	0.0	0.0	0.0	0.31205	0.15442	0.0	0.0	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_galactosidilyticum|t__SGB109344	0.04692	0.0	0.0	0.0	0.42348	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Oceanospirillales|f__Halomonadaceae|g__Vreelandella|s__Vreelandella_subglaciescola|t__SGB99204	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.19858
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_fozii|t__SGB23001	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.19014
+k__Bacteria|p__Candidatus_Saccharibacteria|c__CFGB94852|o__OFGB94852|f__FGB94852|g__GGB70991|s__GGB70991_SGB96145|t__SGB96145	1.16862	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Vagococcus|s__Vagococcus_coleopterorum|t__SGB82616	0.77961	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_aquidurense|t__SGB2997	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.32503
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Mycobacteriaceae|g__Mycolicibacterium|s__Mycolicibacterium_SGB98716|t__SGB98716	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.03414
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Alteromonadales|f__Shewanellaceae|g__Shewanella|s__Shewanella_vesiculosa|t__SGB10328	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.31551
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_putida|t__SGB100203	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1322
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sanguinis|t__SGB10445	0.0	0.0	0.0	0.0	0.0	0.0	0.07278	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Betaproteobacteria|o__Burkholderiales|f__Comamonadaceae|g__Comamonadaceae_unclassified|s__Comamonadaceae_bacterium_AAW|t__SGB99285	0.0	12.24501	13.48752	0.0	0.0	0.0	0.07172	0.0	0.00482
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_sp_NKUCC04_CG|t__SGB109321	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.2911
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Brucellaceae|g__GGB72042|s__GGB72042_SGB99109|t__SGB99109	0.0	0.10775	0.0	0.0	0.0	0.0	0.0	0.0	0.21684
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Brucellaceae|g__GGB72042|s__GGB72042_SGB99108|t__SGB99108	0.37499	0.24582	0.65139	0.0	0.0	0.0	0.2544	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_antarcticum|t__SGB28151	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.07504
+k__Bacteria|p__Pseudomonadota|c__Betaproteobacteria|o__Burkholderiales|f__Oxalobacteraceae|g__Janthinobacterium|s__Janthinobacterium_sp_67|t__SGB206696	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.05061
+k__Bacteria|p__Pseudomonadota|c__Betaproteobacteria|o__Burkholderiales|f__Oxalobacteraceae|g__Janthinobacterium|s__Janthinobacterium_sp_61|t__SGB12855	0.0	0.0	0.0	1.12469	1.96125	0.0	0.0	0.0	0.24963
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_pullicarnis|t__SGB81588	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.07946
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Microbacteriaceae|g__Leucobacter|s__Leucobacter_sp_7_1|t__SGB16941	0.04151	0.0	0.0	0.0	0.0	0.39398	0.14517	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_tegetincola|t__SGB28150	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.83587
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Myroides|s__Myroides_sp_N17_2|t__SGB28078	1.18444	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Betaproteobacteria|o__Burkholderiales|f__Comamonadaceae|g__Comamonas|s__Comamonas_SGB88312|t__SGB88312	0.9524	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Soonwooa|s__Soonwooa_buanensis|t__SGB2626	0.47402	0.0	0.0	0.0	0.0	0.02988	0.01899	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Rhodobacterales|f__Paracoccaceae|g__Paracoccus|s__Paracoccus_SGB99491|t__SGB99491	0.0	0.0	0.0	0.0	0.0	0.26309	4.692	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Alteromonadales|f__Psychromonadaceae|g__Psychromonas|s__Psychromonas_arctica|t__SGB30563	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.11611
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Acinetobacter|s__Acinetobacter_sp_WCHAc010034|t__SGB22964	0.0	0.0	0.0	0.0	0.0	0.0	0.00384	0.0	0.0
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Eubacteriales|f__Clostridiaceae|g__Clostridium|s__Clostridium_algidicarnis|t__SGB24909	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.08423
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_reactans|t__SGB108980	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.04448
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingobium|s__Sphingobium_sp_KCTC_72723|t__SGB90117	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.07906
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Kaistella|s__Kaistella_chaponensis|t__SGB2631	0.0	12.77809	7.96334	14.31406	10.19636	3.08806	3.5731	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Nocardiaceae|g__Rhodococcus|s__Rhodococcus_sp_EPR_157|t__SGB15808	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.17987
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_sp_14A|t__SGB78989	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.3292
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Sporolactobacillaceae|g__Caenibacillus|s__Caenibacillus_caldisaponilyticus|t__SGB29924	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.11194
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Bacillaceae|g__Saccharococcus|s__Saccharococcus_thermophilus|t__SGB82686	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.12434
+k__Bacteria|p__Pseudomonadota|c__Betaproteobacteria|o__Burkholderiales|f__Comamonadaceae|g__Comamonas|s__Comamonas_SGB99309|t__SGB99309	0.0	0.0	0.0	0.0	0.0	0.0	0.14688	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_branchiarum|t__SGB97785	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.06374
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_sp_MIL19|t__SGB89160	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.33614
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__GGB71323|s__GGB71323_SGB97692|t__SGB97692	16.33057	3.3071	1.1793	0.0	0.0	1.01787	0.6693	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Micrococcaceae|g__Galactobacter|s__Galactobacter_SGB98770|t__SGB98770	12.32992	0.0	0.0	0.0	0.0	4.12226	6.18298	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Chryseobacterium|s__Chryseobacterium_tructae|t__SGB97708	3.66683	0.56465	0.0	0.0	0.0	9.03966	5.08581	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Brucellaceae|g__Pseudochrobactrum|s__Pseudochrobactrum_kiredjianiae|t__SGB99107	2.90684	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Microbacteriaceae|g__GGB71979|s__GGB71979_SGB99030|t__SGB99030	1.89191	0.0	0.0	0.0	0.0	0.0	0.00588	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Brucellaceae|g__Pseudochrobactrum|s__Pseudochrobactrum_sp_sp1633|t__SGB125315	1.61648	0.0	0.0	0.0	0.0	0.0	0.01473	0.0	0.0
+k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Vagococcus|s__Vagococcus_hydrophili|t__SGB82617	1.06417	0.0	0.0	0.0	0.0	1.05984	0.44506	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Sphingobacteriia|o__Sphingobacteriales|f__Sphingobacteriaceae|g__GGB71439|s__GGB71439_SGB104451|t__SGB104451	0.12474	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Betaproteobacteria|o__Burkholderiales|f__Comamonadaceae|g__GGB72178|s__GGB72178_SGB99294|t__SGB99294	0.0	5.37386	8.09368	0.0	0.0	0.15256	0.76465	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Tenacibaculum|s__Tenacibaculum_finnmarkense|t__SGB2818	0.0	0.0	0.0	67.26933	48.95895	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Vibrionales|f__Vibrionaceae|g__Aliivibrio|s__Aliivibrio_logei|t__SGB9842	0.0	0.0	0.0	1.38541	0.58464	0.0	0.0	0.0	0.18829
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Gammaproteobacteria_unclassified|f__Gammaproteobacteria_unclassified|g__Candidatus_Thioglobus|s__Candidatus_Thioglobus_sp_NP1|t__SGB28681	0.0	0.0	0.0	0.0	5.92248	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__CFGB42474|o__OFGB42474|f__FGB42474|g__GGB46925|s__GGB46925_SGB64837|t__SGB64837	0.0	0.0	0.0	0.0	3.20888	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Gammaproteobacteria_unclassified|f__Gammaproteobacteria_unclassified|g__Candidatus_Pseudothioglobus|s__Candidatus_Pseudothioglobus_singularis|t__SGB5522	0.0	0.0	0.0	0.0	2.57525	0.0	0.0	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__CFGB10776|o__OFGB10776|f__FGB10776|g__GGB68324|s__GGB68324_SGB92255|t__SGB92255	0.0	0.0	0.0	0.0	2.30963	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__CFGB13514|o__OFGB13514|f__FGB13514|g__GGB48860|s__GGB48860_SGB91320|t__SGB91320	0.0	0.0	0.0	0.0	2.22979	0.0	0.0	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__CFGB40228|o__OFGB40228|f__FGB40228|g__GGB46761|s__GGB46761_SGB64648|t__SGB64648	0.0	0.0	0.0	0.0	1.68137	0.0	0.0	0.0	0.0
+k__Archaea|p__Thermoplasmatota|c__CFGB129|o__OFGB129|f__FGB129|g__GGB41684|s__GGB41684_SGB58768|t__SGB58768	0.0	0.0	0.0	0.0	1.1097	0.0	0.0	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__CFGB36181|o__OFGB36181|f__FGB36181|g__GGB1929|s__GGB1929_SGB64644|t__SGB64644	0.0	0.0	0.0	0.0	1.0577	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Candidatus_Pelagibacterales|f__Candidatus_Pelagibacterales_unclassified|g__Candidatus_Pelagibacterales_unclassified|s__Pelagibacterales_bacterium_SAG_MED48|t__SGB64942	0.0	0.0	0.0	0.0	1.02648	0.0	0.0	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__CFGB10776|o__OFGB10776|f__FGB10776|g__GGB32551|s__GGB32551_SGB79052|t__SGB79052	0.0	0.0	0.0	0.0	0.91081	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Candidatus_Pelagibacterales|f__Candidatus_Pelagibacterales_unclassified|g__Candidatus_Pelagibacterales_unclassified|s__Pelagibacterales_bacterium_SAG_MED06|t__SGB76413	0.0	0.0	0.0	0.0	0.43285	0.0	0.0	0.0	0.0
+k__Bacteria|p__Bacteroidota|c__CFGB38915|o__OFGB38915|f__FGB38915|g__GGB68132|s__GGB68132_SGB92022|t__SGB92022	0.0	0.0	0.0	0.0	0.43246	0.0	0.0	0.0	0.0
+k__Archaea|p__Nitrososphaerota|c__Nitrososphaeria|o__Nitrosopumilales|f__Nitrosopumilaceae|g__Nitrosopumilus|s__Nitrosopumilus_SGB90964|t__SGB90964	0.0	0.0	0.0	0.0	0.41306	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Candidatus_Pelagibacterales|f__Candidatus_Pelagibacterales_unclassified|g__Candidatus_Pelagibacterales_unclassified|s__Candidatus_Pelagibacterales_unclassified_SGB64940|t__SGB64940	0.0	0.0	0.0	0.0	0.39197	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__CFGB13514|o__OFGB13514|f__FGB13514|g__GGB58981|s__GGB58981_SGB80710|t__SGB80710	0.0	0.0	0.0	0.0	0.37792	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Candidatus_Pelagibacterales|f__Candidatus_Pelagibacteraceae|g__Candidatus_Pelagibacter|s__Candidatus_Pelagibacter_giovannonii|t__SGB76397	0.0	0.0	0.0	0.0	0.3008	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Gammaproteobacteria_unclassified|f__Gammaproteobacteria_unclassified|g__GGB67546|s__GGB67546_SGB139873|t__SGB139873_group	0.0	0.0	0.0	0.0	0.29281	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__CFGB35481|o__OFGB35481|f__FGB35481|g__GGB67535|s__GGB67535_SGB91332|t__SGB91332	0.0	0.0	0.0	0.0	0.284	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Candidatus_Pelagibacterales|f__Candidatus_Pelagibacteraceae|g__Candidatus_Pelagibacter|s__Candidatus_Pelagibacter_ubique|t__SGB5338	0.0	0.0	0.0	0.0	0.25526	0.0	0.0	0.0	0.0
+k__Bacteria|p__Pseudomonadota|c__CFGB40703|o__OFGB40703|f__FGB40703|g__GGB67428|s__GGB67428_SGB91201|t__SGB91201	0.0	0.0	0.0	0.0	0.10143	0.0	0.0	0.0	0.0
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Mycobacteriaceae|g__Mycolicibacterium|s__Mycolicibacterium_hodleri|t__SGB15743	0.0	0.0	0.0	0.0	0.0	2.40264	1.73463	0.0	0.31149
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__GGB72468|s__GGB72468_SGB99678|t__SGB99678	0.0	0.0	0.0	0.0	0.0	1.68086	1.92266	0.0	0.02335
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Caulobacterales|f__Caulobacteraceae|g__GGB74142|s__GGB74142_SGB89348|t__SGB89348	0.0	0.0	0.0	0.0	0.0	0.0	0.0112	0.0	0.0
+k__Bacteria|p__Mycoplasmatota|c__Mycoplasmatota_unclassified|o__Mycoplasmoidales|f__Mycoplasmoidaceae|g__GGB71253|s__GGB71253_SGB97320|t__SGB97320	0.0	0.0	0.0	0.0	0.0	0.0	0.0	100.0	0.0
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_glaciei|t__SGB31382	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.40102
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Alteromonadales|f__Shewanellaceae|g__Shewanella|s__Shewanella_frigidimarina|t__SGB10329	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.34297
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Eubacteriales|f__Clostridiaceae|g__Clostridiaceae_unclassified|s__Clostridiaceae_bacterium_HFYG_1003|t__SGB109643	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	1.00556
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sp_5A_1|t__SGB165560	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.83673
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sp_M13|t__SGB92579	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.74668
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_crassostreae|t__SGB2971	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.50807
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_guineae|t__SGB22837	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.44359
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_sp_140616W15|t__SGB28128	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.35018
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__GGB42929|s__GGB42929_SGB60152|t__SGB60152	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.24308
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_antarctica|t__SGB12161	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.19347
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Nocardiaceae|g__Rhodococcus|s__Rhodococcus_sp_BS_15|t__SGB33969	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1915
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_sp_28A|t__SGB78988	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.18276
+k__Bacteria|p__Bacteroidota|c__Sphingobacteriia|o__Sphingobacteriales|f__Sphingobacteriaceae|g__Pedobacter|s__Pedobacter_caeni|t__SGB3095	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.1649
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_leptonychotis|t__SGB56835	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.13124
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Weeksellaceae|g__Kaistella|s__Kaistella_gelatinilytica|t__SGB91913	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.12791
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Bizionia|s__Bizionia_sp_APA_3|t__SGB2858	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.11804
+k__Bacteria|p__Pseudomonadota|c__Betaproteobacteria|o__Burkholderiales|f__Oxalobacteraceae|g__Herbaspirillum|s__Herbaspirillum_autotrophicum|t__SGB32861	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.11155
+k__Bacteria|p__Bacteroidota|c__Bacteroidia|o__Marinilabiliales|f__Marinifilaceae|g__Ancylomarina|s__Ancylomarina_sp_16SWW_S1_10_2|t__SGB84915	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.08523
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Rhodobacterales|f__Paracoccaceae|g__GGB72292|s__GGB72292_SGB99449|t__SGB99449	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.05703
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Chromatiales|f__Chromatiaceae|g__Rheinheimera|s__Rheinheimera_sp_D18|t__SGB30802	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0529
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Salinisphaerales|f__Salinisphaeraceae|g__GGB65211|s__GGB65211_SGB88174|t__SGB88174	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0489
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_gelidilacus|t__SGB28097	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.04495
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_sp_AJR|t__SGB2973	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.04366
+k__Bacteria|p__Pseudomonadota|c__Betaproteobacteria|o__Burkholderiales|f__Comamonadaceae|g__Simplicispira|s__Simplicispira_SGB99289|t__SGB99289	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.03199
+k__Bacteria|p__Bacteroidota|c__Sphingobacteriia|o__Sphingobacteriales|f__Sphingobacteriaceae|g__Pedobacter|s__Pedobacter_cryoconitis|t__SGB78642	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.03167
+k__Bacteria|p__Firmicutes|c__Clostridia|o__Peptostreptococcales|f__Filifactoraceae|g__Proteocatella|s__Proteocatella_sphenisci|t__SGB28978	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.01671
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Alteromonadales|f__Colwelliaceae|g__Colwellia|s__Colwellia_sp_Arc7_635|t__SGB30770	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00985
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_cerinum|t__SGB28085	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00692
