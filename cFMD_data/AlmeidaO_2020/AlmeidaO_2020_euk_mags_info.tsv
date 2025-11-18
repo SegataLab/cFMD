@@ -1,5 +1,5 @@
-MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
-AlmeidaO_2020__SRR8742576__bin.4	AlmeidaO_2020	SRR8742576	saccharomycetes_odb10	76.8	0.390625	8422690	825	15851	0.35
-AlmeidaO_2020__SRR8742577__bin.3	AlmeidaO_2020	SRR8742577	saccharomycetes_odb10	77.19999999999999	0.1295336787564767	8243429	933	12145	0.35
-AlmeidaO_2020__SRR8742578__bin.2	AlmeidaO_2020	SRR8742578	saccharomycetes_odb10	73.6	0.4076086956521739	7944767	1288	8441	0.35
-AlmeidaO_2020__SRR8742582__bin.4	AlmeidaO_2020	SRR8742582	saccharomycetes_odb10	71.5	0.1398601398601398	7764835	1577	6245	0.36
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+AlmeidaO_2020__SRR8742576__bin.4	AlmeidaO_2020	SRR8742576	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8422690.0	825.0	15851.0	76.8	0.390625	0.35
+AlmeidaO_2020__SRR8742577__bin.3	AlmeidaO_2020	SRR8742577	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8243429.0	933.0	12145.0	77.2	0.1295336788	0.35
+AlmeidaO_2020__SRR8742578__bin.2	AlmeidaO_2020	SRR8742578	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	7944767.0	1288.0	8441.0	73.6	0.4076086957	0.35
+AlmeidaO_2020__SRR8742582__bin.4	AlmeidaO_2020	SRR8742582	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	7764835.0	1577.0	6245.0	71.5	0.1398601399	0.36
