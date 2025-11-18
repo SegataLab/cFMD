@@ -1,6 +1,7 @@
 # cFMD
+curatedFoodMetagenomicData (cFMD) is the largest public food microbiome resource, comprehending curated metadata, microbiome profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. The current version, cFMDv1.3.0 includes profiling all the current cFMD metagenomes with the latest marker database, vJan25, increasing the total SGB count and improving the taxonomic profiling of the metagenomes and taxonomic assignment of the MAGs. cFMD currently hosts 13,296 MAGs spanning 1,153 prokaryotic SGBs and 108 eukaryotic SGBs. cFMD initially developed within the [EU 2020 MASTER project](https://www.master-h2020.eu/index.html) and is now maintained within the [DOMINO EU project](https://www.domino-euproject.eu/). Overall, cFMDv1.3.0 comprehends 3,310 food metagenomes from 85 food metagenomic datasets.
 
-curatedFoodMetagenomicData (cFMD) is the largest public food microbiome resource, comprehending curated metadata, microbiome profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. The current version of cFMD (v1.2.1), developed within the [DOMINO EU project](https://www.domino-euproject.eu/), comprises additional 777 food metagenomes from 26 datasets of recent publicly available studies, along with the 2,533 publicly available (including [EU 2020 MASTER project](https://www.master-h2020.eu/index.html)) food metagenomes from the initial cFMD release. Overall, cFMD v1.2.1 comprehends 3,310 food metagenomes from 85 food metagenomic datasets. 
+<!---**curatedFoodMetagenomicData (cFMD) is the largest public food microbiome resource, comprehending curated metadata, microbiome profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. The current version of cFMD (v1.2.1), developed within the [DOMINO EU project](https://www.domino-euproject.eu/), comprises additional 777 food metagenomes from 26 datasets of recent publicly available studies, along with the 2,533 publicly available (including [EU 2020 MASTER project](https://www.master-h2020.eu/index.html)) food metagenomes from the initial cFMD release. Overall, cFMD v1.2.1 comprehends 3,310 food metagenomes from 85 food metagenomic datasets---> 
 
 <!---**Note: The profiling of the new metaegenomes is done using previous cFMD release databases to remain consistent with the outcomes of old and new metagenomes**---> <!---TO ADD TO THE CHANGE LOG AND ANNOUNCEMENTS, NOT HERE--->
 
@@ -13,7 +14,7 @@ Go to [cFMD v1.1.0](https://github.com/SegataLab/cFMD/releases/tag/v1.1.0) for t
 ## Data
 
 From this GitHub repository you can access to these cFMD-level files (more details are provided in the section "Detailed description of data" below):
-- [**cFMD_datasets**](https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv): summary of the datasets included in the current release, with reference to the publication (if available) <!--TO ADD THE LINK WHEN WE HAVE IT-->
+- [**cFMD_datasets**](https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv): summary of the datasets included in the current release, version when the datasets were added to cFMD database and MetaRefSGB system with reference to the publication (if available)<!--TO ADD THE LINK WHEN WE HAVE IT-->
 
 - [**cFMD_metadata**](https://github.com/SegataLab/cFMD/blob/main/cFMD_metadata.tsv): metadata information, in addition to statistics about reconstructed MAGs at sample level. The table has samples as row indices and type of information as column headers. This includes: <!--TO ADD THE LINK WHEN WE HAVE IT-->
   - categorization of the samples,
@@ -109,6 +110,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
   - MAG_id: name of the MAG formed by “${dataset_name}__${sample_id}__bin.${bin_number}”
   - dataset_id: name of the dataset from which the MAG has been reconstructed
   - sample_id: name of the sample from which the MAG has been reconstructed
+  - SGB_assignment: Taxonomic assignment of the MAGs, if avg. dist is < 0.05.
   - SGB_id:  identification number of the SGB in MetaRefSGB to which the MAG has been assigned
   - unknown: can have three values, kSGB (short for knownSGB, i.e. a cluster containing at least one isolate genome) uSGB (unknownSGB, cluster containing only reconstructed genomes),  or ufSGB (unknownfoodSGB, cluster 
     containing only reconstructed genomes from food samples and hence newly introduced)
@@ -125,7 +127,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
   - completeness: percentage value of the estimated completeness of the  genome as determined from the presence/absence of marker genes and the expected colocalization of these genes (CheckM)
   - contamination: percentage value of the estimated contamination of genome as determined by the presence of multi-copy marker genes and the expected colocalization of these genes  (CheckM)
   - GC_content: percentage of G+C nucleotides with respect to genome length
-  - BUSCO_taxonomy: assinged taxonomy according to BUSCO
+  <!---- BUSCO_taxonomy: assinged taxonomy according to BUSCO---!>
  
 <!---- **cFMD_sgbs_prokaryotic** and **cFMD_sgbs_eukaryotic** (unique key= sgb_id)
   - sgb_id: identification number of the SGB in MetaRefSGB
