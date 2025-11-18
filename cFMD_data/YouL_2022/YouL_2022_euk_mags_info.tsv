@@ -1,37 +1,37 @@
-MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
-YouL_2022__SRR13308520__bin.9	YouL_2022	SRR13308520	saccharomycetes_odb10	98.0	1.2244897959183674	12310488	467	53525	0.32
-YouL_2022__SRR13308521__bin.23	YouL_2022	SRR13308521	saccharomycetes_odb10	91.9	0.0	11491750	473	37649	0.4
-YouL_2022__SRR13308521__bin.7	YouL_2022	SRR13308521	saccharomycetes_odb10	96.3	0.0	10311494	240	65858	0.4
-YouL_2022__SRR13308522__bin.10	YouL_2022	SRR13308522	saccharomycetes_odb10	92.9	0.1076426264800861	11674088	667	29064	0.4
-YouL_2022__SRR13308522__bin.1	YouL_2022	SRR13308522	saccharomycetes_odb10	98.1	0.0	10439676	206	75394	0.4
-YouL_2022__SRR13308524__bin.21	YouL_2022	SRR13308524	saccharomycetes_odb10	98.6	0.202839756592292	10476304	210	78379	0.4
-YouL_2022__SRR13308524__bin.2	YouL_2022	SRR13308524	saccharomycetes_odb10	85.0	1.0588235294117647	11367077	1993	7870	0.32
-YouL_2022__SRR13308524__bin.50	YouL_2022	SRR13308524	saccharomycetes_odb10	89.4	0.2237136465324384	11500783	854	19987	0.4
-YouL_2022__SRR13308525__bin.4	YouL_2022	SRR13308525	saccharomycetes_odb10	84.1	0.1189060642092746	10793367	1215	12116	0.4
-YouL_2022__SRR13308525__bin.8	YouL_2022	SRR13308525	saccharomycetes_odb10	98.1	0.3058103975535168	10464856	179	96314	0.4
-YouL_2022__SRR13308526__bin.42	YouL_2022	SRR13308526	saccharomycetes_odb10	98.5	0.0	10512737	153	105966	0.4
-YouL_2022__SRR13308527__bin.17	YouL_2022	SRR13308527	saccharomycetes_odb10	90.8	0.0	11318150	478	38437	0.4
-YouL_2022__SRR13308527__bin.6	YouL_2022	SRR13308527	saccharomycetes_odb10	96.6	0.0	10379448	325	48976	0.4
-YouL_2022__SRR13308528__bin.10	YouL_2022	SRR13308528	saccharomycetes_odb10	97.5	1.2307692307692308	12116122	533	43052	0.32
-YouL_2022__SRR13308528__bin.24	YouL_2022	SRR13308528	saccharomycetes_odb10	98.2	0.2036659877800407	10460500	186	83721	0.4
-YouL_2022__SRR13308528__bin.26	YouL_2022	SRR13308528	saccharomycetes_odb10	92.7	0.2157497303128371	12046015	840	22185	0.4
-YouL_2022__SRR13308529__bin.5	YouL_2022	SRR13308529	saccharomycetes_odb10	89.19999999999999	0.1121076233183856	11136658	472	36676	0.4
-YouL_2022__SRR13308529__bin.7	YouL_2022	SRR13308529	saccharomycetes_odb10	98.1	1.2232415902140672	11857217	370	56577	0.32
-YouL_2022__SRR13308529__bin.9	YouL_2022	SRR13308529	saccharomycetes_odb10	98.4	0.1016260162601626	10456510	169	99098	0.4
-YouL_2022__SRR13308530__bin.2	YouL_2022	SRR13308530	saccharomycetes_odb10	73.5	0.272108843537415	10217307	1551	8492	0.39
-YouL_2022__SRR13308530__bin.7	YouL_2022	SRR13308530	saccharomycetes_odb10	98.5	0.0	10484494	186	90267	0.4
-YouL_2022__SRR13308531__bin.2	YouL_2022	SRR13308531	saccharomycetes_odb10	98.7	0.1013171225937183	10453073	192	83569	0.4
-YouL_2022__SRR13308531__bin.6	YouL_2022	SRR13308531	saccharomycetes_odb10	83.6	0.1196172248803827	10738105	1308	11419	0.4
-YouL_2022__SRR13308534__bin.22	YouL_2022	SRR13308534	saccharomycetes_odb10	89.5	0.4469273743016759	9746794	540	27788	0.38
-YouL_2022__SRR13308534__bin.27	YouL_2022	SRR13308534	saccharomycetes_odb10	91.8	2.61437908496732	12118737	896	19495	0.4
-YouL_2022__SRR13308535__bin.14	YouL_2022	SRR13308535	saccharomycetes_odb10	91.9	1.1969532100108815	11272416	1306	12624	0.32
-YouL_2022__SRR13308535__bin.2	YouL_2022	SRR13308535	saccharomycetes_odb10	89.7	0.0	11207002	476	36419	0.4
-YouL_2022__SRR13308538__bin.1	YouL_2022	SRR13308538	saccharomycetes_odb10	85.9	0.0	11309546	1477	10679	0.4
-YouL_2022__SRR13308538__bin.7	YouL_2022	SRR13308538	saccharomycetes_odb10	98.7	0.1013171225937183	10558707	222	71812	0.4
-YouL_2022__SRR13308539__bin.13	YouL_2022	SRR13308539	saccharomycetes_odb10	96.0	0.0	10183997	178	87172	0.4
-YouL_2022__SRR13308540__bin.31	YouL_2022	SRR13308540	saccharomycetes_odb10	89.0	0.1123595505617977	10937169	447	37436	0.4
-YouL_2022__SRR13308540__bin.4	YouL_2022	SRR13308540	saccharomycetes_odb10	94.3	0.0	10155660	279	58560	0.4
-YouL_2022__SRR13308541__bin.10	YouL_2022	SRR13308541	saccharomycetes_odb10	96.5	0.0	10487470	397	38973	0.4
-YouL_2022__SRR13308541__bin.15	YouL_2022	SRR13308541	saccharomycetes_odb10	91.4	0.2188183807439825	11455573	473	37394	0.4
-YouL_2022__SRR13308542__bin.13	YouL_2022	SRR13308542	saccharomycetes_odb10	91.0	0.5494505494505495	11665807	639	29798	0.4
-YouL_2022__SRR13308542__bin.2	YouL_2022	SRR13308542	saccharomycetes_odb10	95.5	0.1047120418848167	10121970	238	68125	0.4
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+YouL_2022__SRR13308520__bin.9	YouL_2022	SRR13308520	assigned	EUK10000038	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	Kazachstania_unispora	12310488.0	467.0	53525.0	98.0	1.224489796	0.32
+YouL_2022__SRR13308521__bin.23	YouL_2022	SRR13308521	unassigned			 	 	 	 	 	 	 	 	11491750.0	473.0	37649.0	91.9	0.0	0.4
+YouL_2022__SRR13308521__bin.7	YouL_2022	SRR13308521	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10311494.0	240.0	65858.0	96.3	0.0	0.4
+YouL_2022__SRR13308522__bin.1	YouL_2022	SRR13308522	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10439676.0	206.0	75394.0	98.1	0.0	0.4
+YouL_2022__SRR13308522__bin.10	YouL_2022	SRR13308522	unassigned			 	 	 	 	 	 	 	 	11674088.0	667.0	29064.0	92.9	0.1076426265	0.4
+YouL_2022__SRR13308524__bin.2	YouL_2022	SRR13308524	assigned	EUK10000038	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	Kazachstania_unispora	11367077.0	1993.0	7870.0	85.0	1.058823529	0.32
+YouL_2022__SRR13308524__bin.21	YouL_2022	SRR13308524	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10476304.0	210.0	78379.0	98.6	0.2028397566	0.4
+YouL_2022__SRR13308524__bin.50	YouL_2022	SRR13308524	unassigned			 	 	 	 	 	 	 	 	11500783.0	854.0	19987.0	89.4	0.2237136465	0.4
+YouL_2022__SRR13308525__bin.4	YouL_2022	SRR13308525	unassigned			 	 	 	 	 	 	 	 	10793367.0	1215.0	12116.0	84.1	0.1189060642	0.4
+YouL_2022__SRR13308525__bin.8	YouL_2022	SRR13308525	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10464856.0	179.0	96314.0	98.1	0.3058103976	0.4
+YouL_2022__SRR13308526__bin.42	YouL_2022	SRR13308526	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10512737.0	153.0	105966.0	98.5	0.0	0.4
+YouL_2022__SRR13308527__bin.17	YouL_2022	SRR13308527	unassigned			 	 	 	 	 	 	 	 	11318150.0	478.0	38437.0	90.8	0.0	0.4
+YouL_2022__SRR13308527__bin.6	YouL_2022	SRR13308527	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10379448.0	325.0	48976.0	96.6	0.0	0.4
+YouL_2022__SRR13308528__bin.10	YouL_2022	SRR13308528	assigned	EUK10000038	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	Kazachstania_unispora	12116122.0	533.0	43052.0	97.5	1.230769231	0.32
+YouL_2022__SRR13308528__bin.24	YouL_2022	SRR13308528	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10460500.0	186.0	83721.0	98.2	0.2036659878	0.4
+YouL_2022__SRR13308528__bin.26	YouL_2022	SRR13308528	unassigned			 	 	 	 	 	 	 	 	12046015.0	840.0	22185.0	92.7	0.2157497303	0.4
+YouL_2022__SRR13308529__bin.5	YouL_2022	SRR13308529	unassigned			 	 	 	 	 	 	 	 	11136658.0	472.0	36676.0	89.2	0.1121076233	0.4
+YouL_2022__SRR13308529__bin.7	YouL_2022	SRR13308529	assigned	EUK10000038	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	Kazachstania_unispora	11857217.0	370.0	56577.0	98.1	1.22324159	0.32
+YouL_2022__SRR13308529__bin.9	YouL_2022	SRR13308529	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10456510.0	169.0	99098.0	98.4	0.1016260163	0.4
+YouL_2022__SRR13308530__bin.2	YouL_2022	SRR13308530	unassigned			 	 	 	 	 	 	 	 	10217307.0	1551.0	8492.0	73.5	0.2721088435	0.39
+YouL_2022__SRR13308530__bin.7	YouL_2022	SRR13308530	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10484494.0	186.0	90267.0	98.5	0.0	0.4
+YouL_2022__SRR13308531__bin.2	YouL_2022	SRR13308531	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10453073.0	192.0	83569.0	98.7	0.1013171226	0.4
+YouL_2022__SRR13308531__bin.6	YouL_2022	SRR13308531	unassigned			 	 	 	 	 	 	 	 	10738105.0	1308.0	11419.0	83.6	0.1196172249	0.4
+YouL_2022__SRR13308534__bin.22	YouL_2022	SRR13308534	assigned	EUK4909	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia_kudriavzevii	9746794.0	540.0	27788.0	89.5	0.4469273743	0.38
+YouL_2022__SRR13308534__bin.27	YouL_2022	SRR13308534	unassigned			 	 	 	 	 	 	 	 	12118737.0	896.0	19495.0	91.8	2.614379085	0.4
+YouL_2022__SRR13308535__bin.14	YouL_2022	SRR13308535	assigned	EUK10000038	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	Kazachstania_unispora	11272416.0	1306.0	12624.0	91.9	1.19695321	0.32
+YouL_2022__SRR13308535__bin.2	YouL_2022	SRR13308535	unassigned			 	 	 	 	 	 	 	 	11207002.0	476.0	36419.0	89.7	0.0	0.4
+YouL_2022__SRR13308538__bin.1	YouL_2022	SRR13308538	unassigned			 	 	 	 	 	 	 	 	11309546.0	1477.0	10679.0	85.9	0.0	0.4
+YouL_2022__SRR13308538__bin.7	YouL_2022	SRR13308538	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10558707.0	222.0	71812.0	98.7	0.1013171226	0.4
+YouL_2022__SRR13308539__bin.13	YouL_2022	SRR13308539	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10183997.0	178.0	87172.0	96.0	0.0	0.4
+YouL_2022__SRR13308540__bin.31	YouL_2022	SRR13308540	unassigned			 	 	 	 	 	 	 	 	10937169.0	447.0	37436.0	89.0	0.1123595506	0.4
+YouL_2022__SRR13308540__bin.4	YouL_2022	SRR13308540	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10155660.0	279.0	58560.0	94.3	0.0	0.4
+YouL_2022__SRR13308541__bin.10	YouL_2022	SRR13308541	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10487470.0	397.0	38973.0	96.5	0.0	0.4
+YouL_2022__SRR13308541__bin.15	YouL_2022	SRR13308541	unassigned			 	 	 	 	 	 	 	 	11455573.0	473.0	37394.0	91.4	0.2188183807	0.4
+YouL_2022__SRR13308542__bin.13	YouL_2022	SRR13308542	unassigned			 	 	 	 	 	 	 	 	11665807.0	639.0	29798.0	91.0	0.5494505495	0.4
+YouL_2022__SRR13308542__bin.2	YouL_2022	SRR13308542	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	10121970.0	238.0	68125.0	95.5	0.1047120419	0.4
