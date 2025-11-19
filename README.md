@@ -1,15 +1,11 @@
 # cFMD
-curatedFoodMetagenomicData (cFMD) is the largest public food microbiome resource, comprehending curated metadata, microbiome profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. The current version, cFMDv1.3.0 includes profiling all the current cFMD metagenomes with the latest marker database, vJan25, increasing the total SGB count and improving the taxonomic profiling of the metagenomes and taxonomic assignment of the MAGs. cFMD currently hosts 13,296 MAGs spanning 1,153 prokaryotic SGBs and 110 eukaryotic SGBs. cFMD initially developed within the [EU 2020 MASTER project](https://www.master-h2020.eu/index.html) is now maintained within the [DOMINO EU project](https://www.domino-euproject.eu/). Overall, cFMDv1.3.0 comprehends 3,310 food metagenomes from 85 food metagenomic datasets.
+curatedFoodMetagenomicData (cFMD) is the largest public food microbiome resource, comprehending curated metadata, microbiome profiles (taxonomic and functional), as well as reconstructed genomes from **food (shotgun) metagenomes**. cFMD currently hosts 14,065 MAGs spanning 1,153 prokaryotic SGBs and 110 eukaryotic SGBs, comprehending 3,310 food metagenomes from 85 food metagenomic datasets.
 
-<!---**curatedFoodMetagenomicData (cFMD) is the largest public food microbiome resource, comprehending curated metadata, microbiome profiles, as well as reconstructed genomes from **food (shotgun) metagenomes**. The current version of cFMD (v1.2.1), developed within the [DOMINO EU project](https://www.domino-euproject.eu/), comprises additional 777 food metagenomes from 26 datasets of recent publicly available studies, along with the 2,533 publicly available (including [EU 2020 MASTER project](https://www.master-h2020.eu/index.html)) food metagenomes from the initial cFMD release. Overall, cFMD v1.2.1 comprehends 3,310 food metagenomes from 85 food metagenomic datasets---> 
+cFMD, initially developed within the [EU 2020 MASTER project](https://www.master-h2020.eu/index.html), is currently maintained within the [DOMINO EU project](https://www.domino-euproject.eu/). To contribute to the further expansion of cFMD with your own food-associated metagenomic data, get in touch with one of the contacts listed at the bottom of this page.
 
-<!---**Note: The profiling of the new metaegenomes is done using previous cFMD release databases to remain consistent with the outcomes of old and new metagenomes**---> <!---TO ADD TO THE CHANGE LOG AND ANNOUNCEMENTS, NOT HERE--->
+Go to [cFMD v1.1.0](https://github.com/SegataLab/cFMD/releases/tag/v1.1.0) for the version associated with Carlino _et al._, "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", _Cell_, 2024, DOI: [10.1016/j.cell.2024.07.039](https://doi.org/10.1016/j.cell.2024.07.039). 
 
-<!---Current release: [![DOI](https://zenodo.org/badge/579006339.svg)](https://zenodo.org/doi/10.5281/zenodo.10567318)---> <!---I DON'T THINK THIS MIRRORING IN ZENODO IS NEEDED ANYMORE, BUT TO DISCUSS--->
-
-To contribute to the further expansion of cFMD with your own food-associated metagenomic data, get in touch with one of the contacts listed at the bottom of this page.
-
-Go to [cFMD v1.1.0](https://github.com/SegataLab/cFMD/releases/tag/v1.1.0) for the version associated with Carlino _et al._, "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", _Cell_, 2024, DOI: [10.1016/j.cell.2024.07.039](https://doi.org/10.1016/j.cell.2024.07.039).
+**Main update of the current version (v1.3.0)**: MetaPhlAn 4 taxonomic profiles generated with the latest MetaPhlAn 4 marker genes database (vJan25), which leverages on the newly reconstructed food MAGs added in the past version (v1.2.1).
 
 ## Data
 
@@ -29,7 +25,7 @@ The unique key for querying the database is represented by the dataset_name and 
   - sample origin,
   - assigned taxonomy at species-level genome bin (SGB) level (MAGs remain unassigned if they belong to SGBs not present in the MetaRefSGB database),
   - known/unknown status of the SGB,
-  -  basic statistics (number of contigs, N50, completeness, contamination, etc.).
+  - basic statistics (number of contigs, N50, completeness, contamination, etc.).
   <!--- assigned taxonomy according to BUSCO in the case of recently included (v1.2.1) eukaryotic MAGs---!>
  
  
@@ -111,7 +107,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
   - MAG_id: name of the MAG formed by “${dataset_name}__${sample_id}__bin.${bin_number}”
   - dataset_id: name of the dataset from which the MAG has been reconstructed
   - sample_id: name of the sample from which the MAG has been reconstructed
-  - SGB_assignment: Taxonomic assignment of the MAGs, if avg. dist is < 0.05.
+  - SGB_assignment: wheter we could assign (genomic distance < 5%) a MAG at SGB-level
   - SGB_id:  identification number of the SGB in MetaRefSGB to which the MAG has been assigned
   - unknown: can have three values, kSGB (short for knownSGB, i.e. a cluster containing at least one isolate genome) uSGB (unknownSGB, cluster containing only reconstructed genomes),  or ufSGB (unknownfoodSGB, cluster 
     containing only reconstructed genomes from food samples and hence newly introduced)
@@ -131,7 +127,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
   <!---- BUSCO_taxonomy: assinged taxonomy according to BUSCO---!>
  
 <!---- **cFMD_sgbs_prokaryotic** and **cFMD_sgbs_eukaryotic** (unique key= sgb_id)
-  - sgb_id: identification number of the SGB in MetaRefSGB
+  - sgb_id: identification number of the SGB in fSGB
   - Unknown: can have three values, kSGB (short for knownSGB, i.e. a cluster containing at least one isolate genome) uSGB (unknownSGB, cluster containing only reconstructed genomes),  or ufSGB (unknownfoodSGB, cluster 
    containing only reconstructed genomes from food samples and hence newly introduced)
   - Level of assigned taxonomy: species if containing at least one reference genome, otherwise lowest taxonomic rank assignable
@@ -144,7 +140,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
   - species: species of the assigned taxonomy
   - MAGs: #of reconstructed genomes that are contained in the SGB
   - isolates: #of reference genomes in the bin
-  - MAGs_filtered: number of reconstructed genomes discarded by MetaRefSGB (for being too similar to another included MAG) that would be assigned to the SGB
+  - MAGs_filtered: number of reconstructed genomes discarded by fSGB (for being too similar to another included MAG) that would be assigned to the SGB
   - Food: # of MAGs in the bin retrieved from food samples
   - Human: # of MAGs in the bin retrieved from human samples
   - Animal: # of MAGs in the bin retrieved from animal samples
@@ -158,7 +154,7 @@ The data here provided were mainly generated through the following tools:
   - Pre-processing of raw-reads: validated pipeline available [here](https://github.com/SegataLab/preprocessing)
   - Reconstruction and taxonomic assignment of MAGs: assembly-based pipeline available [here](https://github.com/SegataLab/MASTER-WP5-pipelines/tree/master/05-Assembly_pipeline)
   - Taxonomic profiling: MetaPhlAn4-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/metaphlan4)
-  - Strain-level profiling: StrainPhlAn-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/strainphlan4)
+  - Strain-level profiling: StrainPhlAn4-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/strainphlan4)
   - Functional profiling: HUMAnN3-based pipeline, with full tutorial available [here](https://github.com/biobakery/biobakery/wiki/humann3)
 
 Further information and requests should be directed to Niccolò Carlino (niccolo.carlino@unitn.it), Hrituraj Dey (hrituraj.dey@unitn.it), Vitor Heidrich (vitor.heidrich@unitn.it), Nicola Segata (nicola.segata@unitn.it), Edoardo Pasolli (edoardo.pasolli@unina.it)
@@ -169,4 +165,4 @@ Carlino _et al._, "Unexplored microbial diversity from 2,500 food metagenomes an
 
 ### Acknowledgements
 
-The MASTER EU Consortium was funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No 818368. This resource was also partially supported by the European Union’s Horizon Europe programme (project DOMINO-101060218).
+The MASTER EU Consortium was funded by the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 818368. This resource is also supported by the European Union’s Horizon Europe programme (project DOMINO-101060218).
