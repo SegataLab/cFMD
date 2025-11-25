@@ -1,4 +1,4 @@
 MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
-WolfeBE_2014__491_Bayley__bin.10	WolfeBE_2014	491_Bayley	assigned	EUK10000015	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	unknown	Diutina	Diutina_catenulata	7345251	1018	8843	51.9	0.0	0.562
-WolfeBE_2014__581_Moses_Sleeper__bin.4	WolfeBE_2014	581_Moses_Sleeper	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32893362	788	78518	95.8	0.2	0.4843
-WolfeBE_2014__623_Maggies_Round__bin.3	WolfeBE_2014	623_Maggies_Round	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	33442081	1436	43772	93.8	0.2	0.484
+WolfeBE_2014__491_Bayley__bin.10	WolfeBE_2014	491_Bayley	assigned	EUK10000015	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	unknown	Diutina	Diutina_catenulata	7345251.0	1018.0	8843.0	51.9	0.0	0.562
+WolfeBE_2014__581_Moses_Sleeper__bin.4	WolfeBE_2014	581_Moses_Sleeper	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32893362.0	788.0	78518.0	95.8	0.2	0.4843
+WolfeBE_2014__623_Maggies_Round__bin.3	WolfeBE_2014	623_Maggies_Round	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	33442081.0	1436.0	43772.0	93.8	0.2	0.484
