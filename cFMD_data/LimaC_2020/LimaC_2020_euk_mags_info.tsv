@@ -1,16 +1,16 @@
 MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
-LimaC_2020__SRR9640343__bin.16	LimaC_2020	SRR9640343	unassigned			 	 	 	 	 	 	 	 	9986191.0	415.0	42145.0	90.8	0.4405286344	0.38
+LimaC_2020__SRR9640343__bin.16	LimaC_2020	SRR9640343	unassigned_eukaryote			 	 	 	 	 	 	 	 	9986191.0	415.0	42145.0	90.8	0.4405286344	0.38
 LimaC_2020__SRR9640343__bin.29	LimaC_2020	SRR9640343	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8235371.0	666.0	20020.0	74.9	0.2670226969	0.35
 LimaC_2020__SRR9640344__bin.16	LimaC_2020	SRR9640344	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8592358.0	978.0	13760.0	75.5	0.1324503311	0.35
-LimaC_2020__SRR9640346__bin.1	LimaC_2020	SRR9640346	unassigned			 	 	 	 	 	 	 	 	10411253.0	129.0	154969.0	97.9	0.6128702758	0.38
-LimaC_2020__SRR9640346__bin.22	LimaC_2020	SRR9640346	unassigned			 	 	 	 	 	 	 	 	24881669.0	6659.0	4361.0	72.3	4.011065007	0.36
-LimaC_2020__SRR9640346__bin.29	LimaC_2020	SRR9640346	unassigned			 	 	 	 	 	 	 	 	10455823.0	177.0	105380.0	98.1	0.0	0.34
+LimaC_2020__SRR9640346__bin.1	LimaC_2020	SRR9640346	unassigned_eukaryote			 	 	 	 	 	 	 	 	10411253.0	129.0	154969.0	97.9	0.6128702758	0.38
+LimaC_2020__SRR9640346__bin.22	LimaC_2020	SRR9640346	unassigned_eukaryote			 	 	 	 	 	 	 	 	24881669.0	6659.0	4361.0	72.3	4.011065007	0.36
+LimaC_2020__SRR9640346__bin.29	LimaC_2020	SRR9640346	unassigned_eukaryote			 	 	 	 	 	 	 	 	10455823.0	177.0	105380.0	98.1	0.0	0.34
 LimaC_2020__SRR9640346__bin.34	LimaC_2020	SRR9640346	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8181721.0	686.0	19418.0	75.3	0.2656042497	0.35
 LimaC_2020__SRR9640347__bin.9	LimaC_2020	SRR9640347	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8659432.0	851.0	15421.0	76.2	0.1312335958	0.35
 LimaC_2020__SRR9640348__bin.15	LimaC_2020	SRR9640348	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8534066.0	1046.0	12145.0	72.7	0.1375515818	0.35
 LimaC_2020__SRR9640353__bin.14	LimaC_2020	SRR9640353	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8290684.0	709.0	19647.0	75.9	0.2635046113	0.35
-LimaC_2020__SRR9640353__bin.27	LimaC_2020	SRR9640353	unassigned			 	 	 	 	 	 	 	 	8288841.0	2287.0	4169.0	55.0	1.090909091	0.38
+LimaC_2020__SRR9640353__bin.27	LimaC_2020	SRR9640353	unassigned_eukaryote			 	 	 	 	 	 	 	 	8288841.0	2287.0	4169.0	55.0	1.090909091	0.38
 LimaC_2020__SRR9640354__bin.24	LimaC_2020	SRR9640354	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8936502.0	940.0	16848.0	75.6	0.1322751323	0.35
 LimaC_2020__SRR9640356__bin.25	LimaC_2020	SRR9640356	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8262178.0	577.0	24146.0	76.0	0.1315789474	0.35
-LimaC_2020__SRR9640356__bin.9	LimaC_2020	SRR9640356	unassigned			 	 	 	 	 	 	 	 	10411072.0	427.0	38971.0	95.0	0.1052631579	0.38
+LimaC_2020__SRR9640356__bin.9	LimaC_2020	SRR9640356	unassigned_eukaryote			 	 	 	 	 	 	 	 	10411072.0	427.0	38971.0	95.0	0.1052631579	0.38
 LimaC_2020__SRR9646966__bin.9	LimaC_2020	SRR9646966	assigned	EUK10000035	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycodaceae	Hanseniaspora	Hanseniaspora_opuntiae	8541011.0	1085.0	11659.0	71.9	0.1390820584	0.35
