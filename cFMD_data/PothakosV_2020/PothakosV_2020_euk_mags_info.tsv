@@ -1,2 +1,2 @@
-MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
-PothakosV_2020__ERS2068299__bin.22	PothakosV_2020	ERS2068299	EUK10000055	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	unknown	Starmerella	Starmerella_bacillaris	8652526	1399	8249	59.6	0.5	0.3927
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+PothakosV_2020__ERS2068299__bin.22	PothakosV_2020	ERS2068299	assigned	EUK10000055	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	unknown	Starmerella	Starmerella_bacillaris	8652526.0	1399.0	8249.0	59.6	0.5	0.3927

@@ -1,3 +1,3 @@
-MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
-SequinoG_2024_b__SRR27278126__bin.8	SequinoG_2024_b	SRR27278126	saccharomycetes_odb10	74.69999999999999	0.1338688085676037	12362183	1924	7943	0.39
-SequinoG_2024_b__SRR27278155__bin.14	SequinoG_2024_b	SRR27278155	saccharomycetes_odb10	57.4	0.1742160278745644	8528571	2478	3835	0.36
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+SequinoG_2024_b__SRR27278126__bin.8	SequinoG_2024_b	SRR27278126	unassigned_eukaryote			 	 	 	 	 	 	 	 	12362183.0	1924.0	7943.0	74.7	0.1338688086	0.39
+SequinoG_2024_b__SRR27278155__bin.14	SequinoG_2024_b	SRR27278155	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	8528571.0	2478.0	3835.0	57.4	0.1742160279	0.36

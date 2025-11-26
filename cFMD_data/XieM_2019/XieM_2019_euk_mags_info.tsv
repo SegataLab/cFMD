@@ -1,2 +1,2 @@
-MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
-XieM_2019__SAMC044639__bin.29	XieM_2019	SAMC044639	EUK60169	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_polonicum	29984996	2071	20615	91.4	0.3	0.488
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+XieM_2019__SAMC044639__bin.29	XieM_2019	SAMC044639	assigned	EUK60169	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_polonicum	29984996.0	2071.0	20615.0	91.4	0.3	0.488

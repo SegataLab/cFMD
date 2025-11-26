@@ -1,2 +1,2 @@
-MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
-LiZ_2019__SRS3379159__bin.2	LiZ_2019	SRS3379159	EUK10000054	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Wickerhamiella	Wickerhamiella_versatilis	7937094	1752	5380	57.8	0.9	0.4496
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+LiZ_2019__SRS3379159__bin.2	LiZ_2019	SRS3379159	assigned	EUK10000054	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Wickerhamiella	Wickerhamiella_versatilis	7937094.0	1752.0	5380.0	57.8	0.9	0.4496

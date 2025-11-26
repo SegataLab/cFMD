@@ -1,13 +1,13 @@
-MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
-YangC_2021__SRR13259372__bin.3	YangC_2021	SRR13259372	saccharomycetes_odb10	96.0	0.1041666666666666	11434139	229	112518	0.36
-YangC_2021__SRR13259373__bin.10	YangC_2021	SRR13259373	saccharomycetes_odb10	50.8	1.5748031496062993	5649999	67	136114	0.59
-YangC_2021__SRR13259373__bin.11	YangC_2021	SRR13259373	saccharomycetes_odb10	80.3	0.12453300124533	8659500	559	22560	0.39
-YangC_2021__SRR13259375__bin.15	YangC_2021	SRR13259375	eurotiales_odb10	90.8	0.2202643171806167	24676859	1162	27177	0.49
-YangC_2021__SRR13259375__bin.6	YangC_2021	SRR13259375	saccharomycetes_odb10	57.5	0.5217391304347826	7957785	779	12112	0.36
-YangC_2021__SRR13259376__bin.17	YangC_2021	SRR13259376	eurotiales_odb10	95.4	0.1048218029350104	26718523	388	122845	0.49
-YangC_2021__SRR13259377__bin.11	YangC_2021	SRR13259377	eurotiales_odb10	55.3	0.5424954792043399	26410277	2277	15218	0.48
-YangC_2021__SRR13259377__bin.7	YangC_2021	SRR13259377	saccharomycetes_odb10	98.4	0.1016260162601626	11658253	220	108023	0.36
-YangC_2021__SRR13259377__bin.8	YangC_2021	SRR13259377	eurotiales_odb10	87.3	1.9473081328751431	30228569	1412	30559	0.48
-YangC_2021__SRR13259378__bin.17	YangC_2021	SRR13259378	arachnida_odb10	80.0	2.7500000000000004	62492823	8742	10969	0.45
-YangC_2021__SRR13259379__bin.23	YangC_2021	SRR13259379	saccharomycetes_odb10	97.5	0.4102564102564102	11616343	227	108358	0.36
-YangC_2021__SRR13259379__bin.44	YangC_2021	SRR13259379	saccharomycetes_odb10	77.4	0.0	10323736	1926	6441	0.39
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+YangC_2021__SRR13259372__bin.3	YangC_2021	SRR13259372	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11434139.0	229.0	112518.0	96.0	0.1041666667	0.36
+YangC_2021__SRR13259373__bin.10	YangC_2021	SRR13259373	assigned	EUK10000071	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Kurtzmaniella	Candida_zeylanoides	5649999.0	67.0	136114.0	50.8	1.57480315	0.59
+YangC_2021__SRR13259373__bin.11	YangC_2021	SRR13259373	assigned	EUK10000031	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kluyveromyces	Kluyveromyces_marxianus	8659500.0	559.0	22560.0	80.3	0.1245330012	0.39
+YangC_2021__SRR13259375__bin.15	YangC_2021	SRR13259375	assigned	EUK229535	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_nordicum	24676859.0	1162.0	27177.0	90.8	0.2202643172	0.49
+YangC_2021__SRR13259375__bin.6	YangC_2021	SRR13259375	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	7957785.0	779.0	12112.0	57.5	0.5217391304	0.36
+YangC_2021__SRR13259376__bin.17	YangC_2021	SRR13259376	assigned	EUK5082	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_roqueforti	26718523.0	388.0	122845.0	95.4	0.1048218029	0.49
+YangC_2021__SRR13259377__bin.11	YangC_2021	SRR13259377	assigned	EUK2488753	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_sp_SPG_F1	26410277.0	2277.0	15218.0	55.3	0.5424954792	0.48
+YangC_2021__SRR13259377__bin.7	YangC_2021	SRR13259377	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11658253.0	220.0	108023.0	98.4	0.1016260163	0.36
+YangC_2021__SRR13259377__bin.8	YangC_2021	SRR13259377	assigned	EUK229535	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_nordicum	30228569.0	1412.0	30559.0	87.3	1.947308133	0.48
+YangC_2021__SRR13259378__bin.17	YangC_2021	SRR13259378	unassigned_eukaryote			 	 	 	 	 	 	 	 	62492823.0	8742.0	10969.0	80.0	2.75	0.45
+YangC_2021__SRR13259379__bin.23	YangC_2021	SRR13259379	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11616343.0	227.0	108358.0	97.5	0.4102564103	0.36
+YangC_2021__SRR13259379__bin.44	YangC_2021	SRR13259379	assigned	EUK5480	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida_parapsilosis	10323736.0	1926.0	6441.0	77.4	0.0	0.39

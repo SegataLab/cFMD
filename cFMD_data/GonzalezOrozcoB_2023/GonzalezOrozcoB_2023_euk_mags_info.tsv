@@ -1,2 +1,2 @@
-MAG_id	dataset_id	sample_id	BUSCO_taxonomy	completeness	contamination	genome_size	n_contigs	N50	GC_Content
-GonzalezOrozcoB_2023__SRR19505782__bin.8	GonzalezOrozcoB_2023	SRR19505782	saccharomycetes_odb10	94.6	1.2684989429175475	11403509	471	35427	0.32
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+GonzalezOrozcoB_2023__SRR19505782__bin.8	GonzalezOrozcoB_2023	SRR19505782	assigned	EUK10000038	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Kazachstania	Kazachstania_unispora	11403509.0	471.0	35427.0	94.6	1.268498943	0.32

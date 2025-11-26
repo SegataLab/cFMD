@@ -1,3 +1,3 @@
-MAG_id	dataset_id	sample_id	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
-MilaniC_2019__SRS3591582__bin.17	MilaniC_2019	SRS3591582	EUK10000057	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Wickerhamiella	Wickerhamiella_pararugosa	8808512	163	102881	83.2	0.5	0.5025
-MilaniC_2019__SRS3591582__bin.9	MilaniC_2019	SRS3591582	EUK4921	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia_norvegensis	7651286	1672	5658	64.0	0.3	0.3617
+MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+MilaniC_2019__SRS3591582__bin.17	MilaniC_2019	SRS3591582	assigned	EUK10000057	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Trichomonascaceae	Wickerhamiella	Wickerhamiella_pararugosa	8808512.0	163.0	102881.0	83.2	0.5	0.5025
+MilaniC_2019__SRS3591582__bin.9	MilaniC_2019	SRS3591582	assigned	EUK4921	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Pichia_norvegensis	7651286.0	1672.0	5658.0	64.0	0.3	0.3617
