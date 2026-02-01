@@ -115,6 +115,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
   - superkingdom: superkingdom of the assigned taxonomy
   - phylum: phylum of the assigned taxonomy
   - class: class of the assigned taxonomy
+  - order: order of the assigned taxonomy
   - family: family of the assigned taxonomy
   - genus: genus of the assigned taxonomy
   - species: species of the assigned taxonomy
