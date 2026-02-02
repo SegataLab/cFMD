@@ -1,11 +1,4 @@
-	YulandiA_2020	YulandiA_2020
 sample	YulandiA_2020__SRS6115052	YulandiA_2020__SRS6115053
-macrocategory	food	food
-category	fermented_legumes	fermented_legumes
-type	soybean	soybean
-subtype	tempeh	tempeh
-country	IDN	IDN
-source	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.28036	0.35574
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Enterobacter|s__Enterobacter_hormaechei|t__SGB10130	0.00205	1.29076
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Enterococcus|s__Enterococcus_italicus|t__SGB7973	0.04467	0.14812

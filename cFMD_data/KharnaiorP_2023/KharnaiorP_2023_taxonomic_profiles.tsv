@@ -1,11 +1,4 @@
-	KharnaiorP_2023	KharnaiorP_2023	KharnaiorP_2023	KharnaiorP_2023
 sample	KharnaiorP_2023__SRR22859377	KharnaiorP_2023__SRR22859378	KharnaiorP_2023__SRR22859379	KharnaiorP_2023__SRR22859380
-macrocategory	food	food	food	food
-category	fermented_legumes	fermented_legumes	fermented_legumes	fermented_legumes
-type	soybean	soybean	soybean	soybean
-subtype	peron_namsing	peron_namsing	peron_namsing	peron_namsing
-country	IND	IND	IND	IND
-source	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.18154	0.18999	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_falkenbergense|t__SGB7124	0.53348	0.44664	0.0	0.0
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	0.0	0.00398	0.0	0.0

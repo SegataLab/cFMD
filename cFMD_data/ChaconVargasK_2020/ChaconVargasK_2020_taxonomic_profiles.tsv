@@ -1,11 +1,4 @@
-	ChaconVargasK_2020	ChaconVargasK_2020	ChaconVargasK_2020	ChaconVargasK_2020	ChaconVargasK_2020
 sample	ChaconVargasK_2020__SRS6087088	ChaconVargasK_2020__SRS6087089	ChaconVargasK_2020__SRS6087090	ChaconVargasK_2020__SRS6087091	ChaconVargasK_2020__SRS6087094
-macrocategory	food	food	food	food	food
-category	fermented_beverages	fermented_beverages	fermented_beverages	fermented_beverages	fermented_beverages
-type	pulque	pulque	pulque	pulque	pulque
-subtype	aguamiel_pulque	aguamiel_pulque	aguamiel_pulque	aguamiel_pulque	aguamiel_pulque
-country	MEX	MEX	MEX	MEX	MEX
-source	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_cremoris|t__SGB7984	0.26687	0.10799	0.12712	0.13127	0.06391
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_mesenteroides|t__SGB7126	0.6217	0.20456	0.17627	0.16193	0.2243
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Hafniaceae|g__Hafnia|s__Hafnia_alvei|t__SGB10209	1.36642	0.20901	0.33446	0.25575	0.21723

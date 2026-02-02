@@ -1,11 +1,4 @@
-	YuY_2022	YuY_2022	YuY_2022	YuY_2022	YuY_2022	YuY_2022	YuY_2022	YuY_2022	YuY_2022
 sample	YuY_2022__SRR16950696	YuY_2022__SRR16950697	YuY_2022__SRR16950698	YuY_2022__SRR16950699	YuY_2022__SRR16950700	YuY_2022__SRR16950701	YuY_2022__SRR16950702	YuY_2022__SRR16950703	YuY_2022__SRR16950704
-macrocategory	food	food	food	food	food	food	food	food	food
-category	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds
-type	mustard	mustard	mustard	mustard	mustard	mustard	mustard	mustard	mustard
-subtype									
-country	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN
-source	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.70301	0.68173	0.8481	8.41246	9.44002	9.00307	0.0259	0.02644	0.01921
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_falkenbergense|t__SGB7124	1.42917	1.38604	1.5154	1.17765	1.42245	1.33682	0.00909	0.00844	0.01175
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	0.00056	0.0	0.0	0.0	0.0	0.0	0.00084	0.0	0.0

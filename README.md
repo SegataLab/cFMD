@@ -1,11 +1,11 @@
 # cFMD
-curatedFoodMetagenomicData (cFMD) is the largest public food microbiome resource, comprehending curated metadata, microbiome profiles (taxonomic and functional), as well as reconstructed genomes from **food (shotgun) metagenomes**. cFMD currently hosts 14,065 MAGs spanning 1,153 prokaryotic SGBs and 110 eukaryotic SGBs, comprehending 3,310 food metagenomes from 85 food metagenomic datasets.
+curatedFoodMetagenomicData (cFMD) is the largest public food microbiome resource, comprehending curated metadata, microbiome profiles, as well as reconstructed genomes from food (shotgun) metagenomes. cFMD currently hosts 14,904 MAGs spanning 1,153 prokaryotic SGBs and 110 eukaryotic SGBs, comprehending 3,444 food metagenomes from 87 food metagenomic datasets. 
 
-cFMD, initially developed within the [EU 2020 MASTER project](https://www.master-h2020.eu/index.html), is currently maintained within the [DOMINO EU project](https://www.domino-euproject.eu/). To contribute to the further expansion of cFMD with your own food-associated metagenomic data, get in touch with one of the contacts listed at the bottom of this page.
+cFMD, initially developed within the [EU 2020 MASTER project](https://www.master-h2020.eu/index.html), is currently maintained within the DOMINO EU project. To contribute to the further expansion of cFMD with your own food-associated metagenomic data, get in touch with one of the contacts listed at the bottom of this page.
 
-Go to [cFMD v1.1.0](https://github.com/SegataLab/cFMD/releases/tag/v1.1.0) for the version associated with Carlino _et al._, "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", _Cell_, 2024, DOI: [10.1016/j.cell.2024.07.039](https://doi.org/10.1016/j.cell.2024.07.039). 
+Go to [cFMD v1.1.0](https://github.com/SegataLab/cFMD/releases/tag/v1.1.0) for the version associated with Carlino et al., "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", Cell, 2024, DOI: [10.1016/j.cell.2024.07.039](https://doi.org/10.1016/j.cell.2024.07.039).
 
-**Main update of the current version (v1.3.0)**: MetaPhlAn 4 taxonomic profiles generated with the latest MetaPhlAn 4 marker genes database (vJan25), which leverages on the newly reconstructed food MAGs added in the past version (v1.2.1).
+**Main update of the current version (v1.3.1)**: Additional curated metadata for cheese metagenomes (see [MetaCheeseDB](https://magliulo.github.io/metacheesedb/)), along with the incorporation of two novel cheese metagenomic datasets.
 
 ## Data
 
@@ -42,7 +42,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
 
 - **${DATASET}_euk_mags_info**: metadata of the reconstructed eukaryotic MAGs.
 
-- **${DATASET}_metadata**: sample-level metadata information for the dataset.
+- **${DATASET}_metadata**: sample-level metadata information for the dataset. An additional more complete metadata file (`${DATASET}_additional_cheese_metadata`) is available for datasets included in [MetaCheeseDB](https://magliulo.github.io/metacheesedb/).
 
 - **${DATASET}_taxonomic_profiles**: taxonomic profiles with samples as column headers and taxa as row indices, with values expressed as taxa relative abundances (%).
 

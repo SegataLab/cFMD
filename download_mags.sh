@@ -44,14 +44,17 @@ list_1_0_0=('AlvarezOrdonezA_xxxx' 'ArikanM_2020' 'BertuzziAS_2018' 'ChaconVarga
 'SalvettiE_2016' 'SomervilleV_2019' 'SternesPR_2017' 'SulaimanJ_2014' 'VerceM_2019' 'WalshAM_2016' 'WalshAM_2017' 'WalshAM_2020' 'WalshL_xxxx' 'WolfeBE_2014' 'XieM_2019' 'YaoG_2017' 'YasirM_2020' 'YulandiA_2020' 'ZhaoCC_2020')
 
 
-
 list_1_2_1=('ShangpliangH_2023_a' 'ShangpliangH_2023_b' 'KharnaiorP_2023' 'YouL_2022' 'LimaC_2020' 'DecadtH_2024' 'YasirM_2022' 'FontanaF_2023' 'FranciosaI_2021'
 'MotaGutierrezJ_2021' 'SaakC_2023' 'YangC_2021' 'LopezSanchezR_2023' 'GonzalezOrozcoB_2023' 'SalgadoTS_2021' 'FalardeauJ_2023' 'SequinoG_2024_a' 'SequinoG_2024_b' 'MagliuloR_2024'
 'YapM_2020' 'OlgaP_2019' 'QuijadaN_2022' 'YuY_2022' 'TomarS_2023' 'AlmeidaO_2020' 'CM_UNINA_FFOOD' )
 
+list_1_3=('UNINA_SM_2025' 'YasirM_2023')
+
 zen_1="17710367"
 
 zen_2="17709831"
+
+zen_3="18456071"
 
 for d in "$@"; do
     zen_doi=""
@@ -69,6 +72,15 @@ for d in "$@"; do
         for item in "${list_1_2_1[@]}"; do
             if [[ "$d" == "$item" ]]; then
                 zen_doi="$zen_2"
+                break
+            fi
+        done
+    fi
+
+	if [[ -z "$zen_doi" ]]; then
+        for item in "${list_1_3[@]}"; do
+            if [[ "$d" == "$item" ]]; then
+                zen_doi="$zen_3"
                 break
             fi
         done

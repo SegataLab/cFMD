@@ -1,11 +1,4 @@
-	SalgadoTS_2021	SalgadoTS_2021
 sample	SalgadoTS_2021__SRR13801804	SalgadoTS_2021__SRR13801805
-macrocategory	food	food
-category	dairy	dairy
-type	kefir	kefir
-subtype	milk_kefir	milk_kefir
-country	MEX	MEX
-source	public	public
 k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Acetobacterales|f__Acetobacteraceae|g__Acetobacter|s__Acetobacter_fabarum|t__SGB1190	0.00701	0.0018
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_kefiranofaciens|t__SGB7046	93.96042	93.23012
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lentilactobacillus|s__Lentilactobacillus_kefiri|t__SGB7221	5.74633	6.54912

@@ -1,11 +1,4 @@
-	AlmeidaO_2020	AlmeidaO_2020	AlmeidaO_2020	AlmeidaO_2020	AlmeidaO_2020	AlmeidaO_2020	AlmeidaO_2020	AlmeidaO_2020	AlmeidaO_2020
 sample	AlmeidaO_2020__SRR8742576	AlmeidaO_2020__SRR8742577	AlmeidaO_2020__SRR8742578	AlmeidaO_2020__SRR8742579	AlmeidaO_2020__SRR8742580	AlmeidaO_2020__SRR8742581	AlmeidaO_2020__SRR8742582	AlmeidaO_2020__SRR8742584	AlmeidaO_2020__SRR8742585
-macrocategory	food	food	food	food	food	food	food	food	food
-category	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds	fermented_seeds
-type	cocoa_beans	cocoa_beans	cocoa_beans	cocoa_beans	cocoa_beans	cocoa_beans	cocoa_beans	cocoa_beans	cocoa_beans
-subtype									
-country	BRA	BRA	BRA	BRA	BRA	BRA	BRA	BRA	BRA
-source	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.14109	0.0	0.40403	0.0	0.0	0.0	0.0	0.0	0.0
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	0.0	0.0	0.0	0.62919	0.0	0.0	0.0	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactiplantibacillus|s__Lactiplantibacillus_plantarum|t__SGB7202	0.0	0.0	0.0	0.0	0.24468	0.00653	0.08219	0.0	0.00553

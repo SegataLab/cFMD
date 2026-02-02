@@ -1,11 +1,4 @@
-	DuruIC_2018	DuruIC_2018	DuruIC_2018	DuruIC_2018	DuruIC_2018	DuruIC_2018
 sample	DuruIC_2018__ERS2061097	DuruIC_2018__ERS2061098	DuruIC_2018__ERS2061099	DuruIC_2018__ERS2061100	DuruIC_2018__ERS2061101	DuruIC_2018__ERS2061102
-macrocategory	food	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy	dairy
-type	cheese	cheese	cheese	cheese	cheese	cheese
-subtype	maasdam	maasdam	maasdam	maasdam	maasdam	maasdam
-country	FIN	FIN	FIN	FIN	FIN	FIN
-source	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	94.31125	92.11435	92.35747	91.33583	95.6513	92.70766
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_helveticus|t__SGB7048	5.06104	4.49128	6.75486	5.48456	3.65428	4.43691
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Propionibacterium|s__Propionibacterium_freudenreichii|t__SGB15904	0.37256	3.14676	0.60922	2.96608	0.23072	2.59933

@@ -1,11 +1,4 @@
-	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016	KastmanEK_2016
 sample	KastmanEK_2016__CSB307	KastmanEK_2016__CSB341	KastmanEK_2016__CSB387	KastmanEK_2016__CSB409	KastmanEK_2016__CSB600	KastmanEK_2016__CSB619	KastmanEK_2016__CSB694	KastmanEK_2016__CSB720	KastmanEK_2016__CSB726	KastmanEK_2016__CSB729	KastmanEK_2016__CSB734	KastmanEK_2016__CSB737	KastmanEK_2016__CSB739	KastmanEK_2016__CSB870	KastmanEK_2016__CSB875	KastmanEK_2016__CSB888	KastmanEK_2016__CSB907	KastmanEK_2016__CSB962
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy
-type	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese
-subtype	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind
-country	FRA	ESP	GBR	FRA	USA	USA	FRA	USA	USA	USA	USA	USA	USA	ESP	FRA	ITA	FRA	USA
-source	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_cremoris|t__SGB7984	0.19602	0.0	0.0	1.14105	0.0	0.0	0.0	0.0	0.0	0.36413	0.03097	0.0	0.14607	0.0	0.20254	0.0	0.05491	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	1.57847	0.01881	0.10129	2.03215	0.0	0.0	0.0	1.24802	0.0	12.6219	1.91922	0.01205	1.96808	0.83397	0.56528	0.0	0.00549	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_mesenteroides|t__SGB7126	0.0	0.0	0.0	2.29587	0.0	0.0	0.0	0.11896	0.0	1.51616	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

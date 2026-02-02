@@ -1,11 +1,4 @@
-	QuigleyL_2016	QuigleyL_2016	QuigleyL_2016	QuigleyL_2016	QuigleyL_2016	QuigleyL_2016	QuigleyL_2016	QuigleyL_2016	QuigleyL_2016	QuigleyL_2016
 sample	QuigleyL_2016__ERS654081	QuigleyL_2016__ERS654082	QuigleyL_2016__ERS654083	QuigleyL_2016__ERS654084	QuigleyL_2016__ERS654085	QuigleyL_2016__ERS654086	QuigleyL_2016__ERS654087	QuigleyL_2016__ERS654088	QuigleyL_2016__ERS654089	QuigleyL_2016__ERS654090
-macrocategory	food	food	food	food	food	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy
-type	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese
-subtype	continental-type_cheese	continental-type_cheese	continental-type_cheese	continental-type_cheese	continental-type_cheese	continental-type_cheese	continental-type_cheese	continental-type_cheese	continental-type_cheese	continental-type_cheese
-country	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL
-source	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_cremoris|t__SGB7984	0.0	0.0	0.00579	0.0	0.0	0.00577	0.00722	0.0	0.0	0.00143
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.0	0.00659	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00713
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_laudensis|t__SGB7991	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0185	0.0	0.0

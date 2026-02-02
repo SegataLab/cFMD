@@ -1,11 +1,4 @@
-	LordanR_2019	LordanR_2019	LordanR_2019	LordanR_2019	LordanR_2019
 sample	LordanR_2019__ERS2955443	LordanR_2019__ERS2955444	LordanR_2019__ERS2955445	LordanR_2019__ERS2955446	LordanR_2019__ERS2955447
-macrocategory	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy
-type	yogurt	yogurt	yogurt	yogurt	yogurt
-subtype	ovine_pastorized-milk_yogurt	ovine_pastorized-milk_yogurt	ovine_pastorized-milk_yogurt	ovine_pastorized-milk_yogurt	ovine_pastorized-milk_yogurt
-country	IRL	IRL	IRL	IRL	IRL
-source	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lacticaseibacillus|s__Lacticaseibacillus_paracasei|t__SGB7142	0.0	0.0	0.0	0.0	0.16295
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Enterococcus|s__Enterococcus_durans|t__SGB7966	0.0	0.0	0.04688	0.0	0.86426
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_thermophilus|t__SGB8002	77.07653	89.00731	91.26927	96.35606	97.78642

@@ -1,11 +1,4 @@
-	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022	YouL_2022
 sample	YouL_2022__SRR13308520	YouL_2022__SRR13308521	YouL_2022__SRR13308522	YouL_2022__SRR13308523	YouL_2022__SRR13308524	YouL_2022__SRR13308525	YouL_2022__SRR13308526	YouL_2022__SRR13308527	YouL_2022__SRR13308528	YouL_2022__SRR13308529	YouL_2022__SRR13308530	YouL_2022__SRR13308531	YouL_2022__SRR13308532	YouL_2022__SRR13308533	YouL_2022__SRR13308534	YouL_2022__SRR13308535	YouL_2022__SRR13308537	YouL_2022__SRR13308538	YouL_2022__SRR13308539	YouL_2022__SRR13308540	YouL_2022__SRR13308541	YouL_2022__SRR13308542
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy
-type	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss	koumiss
-subtype																						
-country	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN
-source	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_cremoris|t__SGB7984	0.0	0.0	0.0	0.0025	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	5.26548	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.13282	0.64595	0.00027	4.04334	11.2781	0.5079	18.31566	0.00182	0.69186	0.00124	1.15579	0.07887	90.44398	0.00118	0.14819	0.00289	0.17239	0.00062	0.01984	1.71905	1.07898	0.58296
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_falkenbergense|t__SGB7124	0.0	0.0	0.0	0.10624	0.00199	0.0	0.00078	0.0099	0.0008	0.0	0.0	0.0	0.00076	0.0	0.0	0.0	0.03463	0.00042	0.0	0.0	0.00085	0.0142

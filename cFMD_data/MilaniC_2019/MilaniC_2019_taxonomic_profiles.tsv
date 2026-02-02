@@ -1,11 +1,4 @@
-	MilaniC_2019	MilaniC_2019	MilaniC_2019	MilaniC_2019
 sample	MilaniC_2019__SRS3591582	MilaniC_2019__SRS3591583	MilaniC_2019__SRS3591585	MilaniC_2019__SRS3591601
-macrocategory	food	food	food	food
-category	dairy	dairy	dairy	dairy
-type	cheese	milk	cheese	milk
-subtype	parmigiano_reggiano		parmigiano_reggiano	
-country	ITA	ITA	ITA	ITA
-source	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_cremoris|t__SGB7984	0.0	1.89722	0.0	1.66046
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.00289	5.14541	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_mesenteroides|t__SGB7126	0.0	0.0	0.00213	0.0

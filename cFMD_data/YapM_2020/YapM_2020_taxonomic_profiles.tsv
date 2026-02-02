@@ -1,11 +1,4 @@
-	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020	YapM_2020
 sample	YapM_2020__ERR4142707	YapM_2020__ERR4142708	YapM_2020__ERR4142709	YapM_2020__ERR4142710	YapM_2020__ERR4142711	YapM_2020__ERR4142712	YapM_2020__ERR4142713	YapM_2020__ERR4142714	YapM_2020__ERR4142715	YapM_2020__ERR4142716	YapM_2020__ERR4142717	YapM_2020__ERR4142718	YapM_2020__ERR4142719	YapM_2020__ERR4142720	YapM_2020__ERR4142721	YapM_2020__ERR4142722	YapM_2020__ERR4142723	YapM_2020__ERR4142724
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy
-type	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk	raw_milk
-subtype	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk	bovine_milk
-country	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL
-source	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_cremoris|t__SGB7984	2.7519	0.0	0.0	0.01271	0.03256	0.0	0.0	0.0	0.0	32.19358	17.42019	11.5517	0.07627	0.17912	0.0	0.0	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.89728	0.0	0.0	0.33211	0.84972	0.60292	0.0	0.0	0.0	48.24863	59.28818	63.31926	0.0	0.0	0.0	0.0	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_laudensis|t__SGB7991	2.4602	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

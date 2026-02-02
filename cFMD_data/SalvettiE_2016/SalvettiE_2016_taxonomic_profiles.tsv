@@ -1,11 +1,4 @@
-	SalvettiE_2016	SalvettiE_2016
 sample	SalvettiE_2016__SRS1050145	SalvettiE_2016__SRS1050146
-macrocategory	food	food
-category	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables
-type	grape	grape
-subtype	vitis_vinifera_l_cv_corvina_grape_withering	vitis_vinifera_l_cv_corvina_grape_withering
-country	ITA	ITA
-source	public	public
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	0.0005	0.0
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_proteolytica|t__SGB12165	0.0	0.0963
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Erwiniaceae|g__Pantoea|s__Pantoea_anthophila|t__SGB10185	0.0	0.02221

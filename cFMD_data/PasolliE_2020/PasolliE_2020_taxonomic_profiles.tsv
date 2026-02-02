@@ -1,11 +1,4 @@
-	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020	PasolliE_2020
 sample	PasolliE_2020__SRS6525470	PasolliE_2020__SRS6525471	PasolliE_2020__SRS6525472	PasolliE_2020__SRS6525473	PasolliE_2020__SRS6525474	PasolliE_2020__SRS6525475	PasolliE_2020__SRS6525476	PasolliE_2020__SRS6525477	PasolliE_2020__SRS6525478	PasolliE_2020__SRS6525479	PasolliE_2020__SRS6525480	PasolliE_2020__SRS6525481	PasolliE_2020__SRS6525482	PasolliE_2020__SRS6525483	PasolliE_2020__SRS6525484	PasolliE_2020__SRS6525485
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food
-category	probiotics	probiotics	dairy	dairy	dairy	dairy	dairy	dairy	probiotics	probiotics	dairy	dairy	dairy	dairy	dairy	dairy
-type	probiotics	probiotics	yogurt	yogurt	yogurt	yogurt	yogurt	yogurt	probiotics	probiotics	yogurt	yogurt	yogurt	yogurt	yogurt	yogurt
-subtype																
-country	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA
-source	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	2.80529	0.42027	0.06957	0.37859	0.07545	0.03137
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Enterobacter|s__Enterobacter_hormaechei|t__SGB10130	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0017	0.05496	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lacticaseibacillus|s__Lacticaseibacillus_paracasei|t__SGB7142	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	44.77948	0.0	0.00643	0.0	0.0	0.0	0.0

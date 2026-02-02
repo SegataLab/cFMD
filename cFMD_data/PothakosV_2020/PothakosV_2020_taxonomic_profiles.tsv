@@ -1,11 +1,4 @@
-	PothakosV_2020	PothakosV_2020	PothakosV_2020	PothakosV_2020	PothakosV_2020	PothakosV_2020
 sample	PothakosV_2020__ERS2068298	PothakosV_2020__ERS2068299	PothakosV_2020__ERS2068300	PothakosV_2020__ERS2068301	PothakosV_2020__ERS2068302	PothakosV_2020__ERS2068303
-macrocategory	food	food	food	food	food	food
-category	fermented_beverages	fermented_beverages	fermented_beverages	fermented_beverages	fermented_beverages	fermented_beverages
-type	coffee	coffee	coffee	coffee	coffee	coffee
-subtype	coffee_arabica	coffee_arabica	coffee_arabica	coffee_arabica	coffee_arabica	coffee_arabica
-country	ECU	ECU	ECU	ECU	ECU	ECU
-source	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.49082	2.68386	5.70458	3.05017	2.27528	1.04499
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_falkenbergense|t__SGB7124	0.0	0.0	0.0	0.0	0.00227	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_mesenteroides|t__SGB7126	0.0	0.0	0.0	0.0062	0.03364	0.05459

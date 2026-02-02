@@ -1,11 +1,4 @@
-	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020	McHughAJ_2020
 sample	McHughAJ_2020__ERS3128644	McHughAJ_2020__ERS3128645	McHughAJ_2020__ERS3128648	McHughAJ_2020__ERS3128649	McHughAJ_2020__ERS3128650	McHughAJ_2020__ERS3128651	McHughAJ_2020__ERS3128652	McHughAJ_2020__ERS3128653	McHughAJ_2020__ERS3128654	McHughAJ_2020__ERS3128655	McHughAJ_2020__ERS3128656	McHughAJ_2020__ERS3128657	McHughAJ_2020__ERS3128658
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy
-type	milk	milk	milk	milk	milk	milk	milk	milk	milk	milk	milk	milk	milk
-subtype	whole_milk	whole_milk	skimmed_milk_powder	skimmed_milk_powder	skimmed_milk_powder		whole_milk	whole_milk	skimmed_milk	skimmed_milk	skimmed_milk_powder	skimmed_milk_powder	skimmed_milk_powder
-country	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL	IRL
-source	public	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_lundensis|t__SGB12101	20.86821	24.38319	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_fragi|t__SGB12106	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	100.0	100.0	96.4001
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Pseudomonadales|f__Pseudomonadaceae|g__Pseudomonas|s__Pseudomonas_proteolytica|t__SGB12165	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	100.0	100.0	0.0	0.0	0.0
