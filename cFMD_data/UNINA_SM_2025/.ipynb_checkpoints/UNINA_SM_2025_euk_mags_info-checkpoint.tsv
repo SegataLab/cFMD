@@ -1,9 +1,0 @@
-MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
-UNINA_SM_2025__SRR34820969__bin.7	UNINA_SM_2025	SRR34820969	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	12016767	437	44079	100.0	76.19	0.36
-UNINA_SM_2025__SRR34820972__bin.15	UNINA_SM_2025	SRR34820972	assigned	EUK5082	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_roqueforti	25875437	2295	16158	0.0	29.56	0.49
-UNINA_SM_2025__SRR34820990__bin.5	UNINA_SM_2025	SRR34820990	assigned	EUK5082	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_roqueforti	25930963	1679	21449	0.0	37.2	0.49
-UNINA_SM_2025__SRR34821007__bin.2	UNINA_SM_2025	SRR34821007	assigned	EUK5082	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_roqueforti	26372145	297	144861	0.0	38.52	0.49
-UNINA_SM_2025__SRR34821009__bin.7	UNINA_SM_2025	SRR34821009	assigned	EUK5082	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_roqueforti	26633686	253	233126	0.0	38.76	0.49
-UNINA_SM_2025__SRR34821052__bin.11	UNINA_SM_2025	SRR34821052	unassigned_eukaryote		 	 								10411026	389	46486	100.0	91.57	0.39
-UNINA_SM_2025__SRR34821052__bin.5	UNINA_SM_2025	SRR34821052	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11548961	622	31220	100.0	69.86	0.36
-UNINA_SM_2025__SRR34821052__bin.7	UNINA_SM_2025	SRR34821052	assigned	EUK52247	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Pichia	Candida_inconspicua	10954633	1541	10439	100.0	79.23	0.35
