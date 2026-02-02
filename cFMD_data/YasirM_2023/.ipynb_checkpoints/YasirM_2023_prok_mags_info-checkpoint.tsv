@@ -1,3 +1,0 @@
-MAG_id	dataset_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
-YasirM_2023__ERR2216059__bin.4	YasirM_2023	ERR2216059	assigned	SGB7985	kSGB	Species	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus_lactis	2084569	96	36824	88.46	0.08	0.35
-YasirM_2023__ERR2216061__bin.2	YasirM_2023	ERR2216061	assigned	SGB13904	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas_nigrifaciens	3849164	156	45753	93.93	0.28	0.4
