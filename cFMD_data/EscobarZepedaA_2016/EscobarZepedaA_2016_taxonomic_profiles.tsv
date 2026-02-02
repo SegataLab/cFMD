@@ -1,11 +1,4 @@
-	EscobarZepedaA_2016
 sample	EscobarZepedaA_2016__SRS974112
-macrocategory	food
-category	dairy
-type	cheese
-subtype	cotija
-country	MEX
-source	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.32689
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_falkenbergense|t__SGB7124	0.00298
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	0.00059

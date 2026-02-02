@@ -1,11 +1,4 @@
-	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1	MASTER_WP4_MATIS_1
 sample	MASTER_WP4_MATIS_1__S1-19	MASTER_WP4_MATIS_1__S2-18	MASTER_WP4_MATIS_1__S2-19	MASTER_WP4_MATIS_1__S3-18	MASTER_WP4_MATIS_1__S3-19	MASTER_WP4_MATIS_1__S4-18	MASTER_WP4_MATIS_1__S4-19	MASTER_WP4_MATIS_1__S6-19	MASTER_WP4_MATIS_1__S6-42
-macrocategory	food	food	food	food	food	food	food	food	food
-category	fish	fish	fish	fish	fish	fish	fish	fish	fish
-type	cod	haddock	haddock	salmon	salmon	cod	cod	salmon	arctic_char
-subtype									
-country	ISL	ISL	ISL	ISL	ISL	ISL	ISL	ISL	ISL
-source	master	master	master	master	master	master	master	public	master
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Alteromonadales|f__Pseudoalteromonadaceae|g__Pseudoalteromonas|s__Pseudoalteromonas_nigrifaciens|t__SGB13904	0.0	1.44632	2.85885	2.43346	0.8471	0.0	0.0	0.0	17.37062
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Vagococcus|s__Vagococcus_salmoninarum|t__SGB29863	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.06937
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_immobilis|t__SGB10459	0.0	0.0	0.0	0.18754	1.42772	0.0	0.0	0.0	23.66956

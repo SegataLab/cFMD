@@ -1,11 +1,4 @@
-	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021	FranciosaI_2021
 sample	FranciosaI_2021__SRR12227952	FranciosaI_2021__SRR12227953	FranciosaI_2021__SRR12227954	FranciosaI_2021__SRR12227955	FranciosaI_2021__SRR12227956	FranciosaI_2021__SRR12227957	FranciosaI_2021__SRR12227958	FranciosaI_2021__SRR12227959	FranciosaI_2021__SRR12227960	FranciosaI_2021__SRR12227961	FranciosaI_2021__SRR12227962	FranciosaI_2021__SRR12227963	FranciosaI_2021__SRR12227964	FranciosaI_2021__SRR12227965	FranciosaI_2021__SRR12227966
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food
-category	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat
-type	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat
-subtype	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage	pig_sausage
-country	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA
-source	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.0	0.0	0.09189	0.0	0.0	0.03519	0.0	0.0	0.0	0.03217	0.0	0.0	0.02329	0.00887	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_mesenteroides|t__SGB7126	0.0	1.65949	0.0	0.0	3.84281	0.04572	0.0	3.0492	2.38716	0.01573	0.0	3.82713	0.01945	0.00979	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae|g__Staphylococcus|s__Staphylococcus_xylosus|t__SGB7847_group	0.12327	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0

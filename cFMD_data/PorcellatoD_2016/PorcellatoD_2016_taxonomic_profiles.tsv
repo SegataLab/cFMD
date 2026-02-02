@@ -1,11 +1,4 @@
-	PorcellatoD_2016	PorcellatoD_2016	PorcellatoD_2016	PorcellatoD_2016	PorcellatoD_2016	PorcellatoD_2016	PorcellatoD_2016	PorcellatoD_2016	PorcellatoD_2016	PorcellatoD_2016	PorcellatoD_2016	PorcellatoD_2016
 sample	PorcellatoD_2016__1m-1_S9	PorcellatoD_2016__1m-2_S10	PorcellatoD_2016__1m-3_S11	PorcellatoD_2016__1m-4_S12	PorcellatoD_2016__24h-1_S1	PorcellatoD_2016__24h-2_S3	PorcellatoD_2016__24h-3_S5	PorcellatoD_2016__24h-4_S7	PorcellatoD_2016__3m-1_S2	PorcellatoD_2016__3m-2_S4	PorcellatoD_2016__3m-3_S6	PorcellatoD_2016__3m-4_S8
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy
-type	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese
-subtype	dutch-type_cheese	dutch-type_cheese	dutch-type_cheese	dutch-type_cheese	dutch-type_cheese	dutch-type_cheese	dutch-type_cheese	dutch-type_cheese	dutch-type_cheese	dutch-type_cheese	dutch-type_cheese	dutch-type_cheese
-country	NOR	NOR	NOR	NOR	NOR	NOR	NOR	NOR	NOR	NOR	NOR	NOR
-source	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_cremoris|t__SGB7984	94.62202	94.34219	91.8214	92.58611	91.71495	92.61761	93.36546	92.938	91.97701	86.36104	85.81757	92.60654
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	3.80155	3.82148	5.44979	4.26412	8.08998	7.18108	6.03873	6.47803	5.97945	7.40945	5.94099	3.07294
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_falkenbergense|t__SGB7124	1.11016	1.17926	2.0931	2.18037	0.0187	0.16588	0.45129	0.43634	1.47211	4.15125	6.51191	2.93979

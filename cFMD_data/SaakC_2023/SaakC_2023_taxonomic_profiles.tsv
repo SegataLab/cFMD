@@ -1,11 +1,4 @@
-	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023	SaakC_2023
 sample	SaakC_2023__SRR17227786	SaakC_2023__SRR17227787	SaakC_2023__SRR17227788	SaakC_2023__SRR17227789	SaakC_2023__SRR17227790	SaakC_2023__SRR17227791	SaakC_2023__SRR17227792	SaakC_2023__SRR17227793	SaakC_2023__SRR17227794	SaakC_2023__SRR17227795	SaakC_2023__SRR17227796	SaakC_2023__SRR17227797	SaakC_2023__SRR17227798	SaakC_2023__SRR17227799	SaakC_2023__SRR17227800	SaakC_2023__SRR17227801	SaakC_2023__SRR17227802	SaakC_2023__SRR17227803
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy
-type	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese
-subtype	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind	cheese_rind
-country	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA
-source	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_cremoris|t__SGB7984	0.0	0.0	0.0	0.00618	0.0	0.0	0.0	0.00023	0.0	0.0	0.0	0.0	0.0	0.02652	0.0	0.0	0.0	0.45937
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.00219	0.01421	0.1603	1.91237	0.00619	0.02563	0.01614	0.02059	0.04754	0.05323	0.00548	0.01516	0.2931	12.02047	0.00555	0.00437	0.00862	6.33751
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_mesenteroides|t__SGB7126	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.47173

@@ -1,11 +1,4 @@
-	PatroJN_2016	PatroJN_2016	PatroJN_2016	PatroJN_2016	PatroJN_2016	PatroJN_2016	PatroJN_2016	PatroJN_2016	PatroJN_2016	PatroJN_2016
 sample	PatroJN_2016__SRS1044731	PatroJN_2016__SRS1044732	PatroJN_2016__SRS1044733	PatroJN_2016__SRS1044734	PatroJN_2016__SRS1044735	PatroJN_2016__SRS1044736	PatroJN_2016__SRS1044737	PatroJN_2016__SRS1044738	PatroJN_2016__SRS1044739	PatroJN_2016__SRS1044740
-macrocategory	food	food	food	food	food	food	food	food	food	food
-category	probiotics	probiotics	probiotics	probiotics	probiotics	probiotics	probiotics	probiotics	probiotics	probiotics
-type	probiotics	probiotics	probiotics	probiotics	probiotics	probiotics	probiotics	probiotics	probiotics	probiotics
-subtype										
-country	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA
-source	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_cremoris|t__SGB7984	0.0	0.0	0.0	0.0	8e-05	0.0	0.0	0.0	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.00139	0.0	0.0	0.0	8.27065	0.0	0.0	0.0	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lacticaseibacillus|s__Lacticaseibacillus_paracasei|t__SGB7142	0.0	0.0	0.0	0.0	2.23122	0.0	0.0	17.00951	7.38126	0.0

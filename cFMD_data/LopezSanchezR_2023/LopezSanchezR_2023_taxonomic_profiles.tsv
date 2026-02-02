@@ -1,11 +1,4 @@
-	LopezSanchezR_2023	LopezSanchezR_2023	LopezSanchezR_2023	LopezSanchezR_2023
 sample	LopezSanchezR_2023__SRR13708565	LopezSanchezR_2023__SRR13708566	LopezSanchezR_2023__SRR13708567	LopezSanchezR_2023__SRR13708568
-macrocategory	food	food	food	food
-category	fermented_beverages	fermented_beverages	fermented_beverages	fermented_beverages
-type	pozol	pozol	pozol	pozol
-subtype				
-country	MEX	MEX	MEX	MEX
-source	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.62527	0.24429	0.40667	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_falkenbergense|t__SGB7124	0.27896	0.31268	0.41486	0.0
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	0.00289	0.01394	0.00978	5.04823

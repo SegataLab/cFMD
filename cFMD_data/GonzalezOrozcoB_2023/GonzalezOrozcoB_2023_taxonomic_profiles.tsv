@@ -1,11 +1,4 @@
-	GonzalezOrozcoB_2023	GonzalezOrozcoB_2023
 sample	GonzalezOrozcoB_2023__SRR19505781	GonzalezOrozcoB_2023__SRR19505782
-macrocategory	food	food
-category	dairy	dairy
-type	kefir_grain	kefir
-subtype	milk_kefir	milk_kefir
-country	USA	USA
-source	public	public
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	0.0	0.00271
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Enterobacter|s__Enterobacter_hormaechei|t__SGB10130	0.05388	1.23219
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_helveticus|t__SGB7048	0.08248	74.7394

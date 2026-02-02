@@ -1,11 +1,4 @@
-	QuijadaN_2022	QuijadaN_2022
 sample	QuijadaN_2022__ERR7245779	QuijadaN_2022__ERR7245780
-macrocategory	food	food
-category	dairy	dairy
-type	cheese	cheese
-subtype	hard_cheese	hard_cheese
-country	AUT	AUT
-source	public	public
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Brevibacteriaceae|g__Brevibacterium|s__Brevibacterium_sp_239c|t__SGB16641	0.00136	0.0015
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae|g__Staphylococcus|s__Staphylococcus_equorum|t__SGB7843	12.71347	3.3569
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Micrococcales|f__Dermabacteraceae|g__Brachybacterium|s__Brachybacterium_alimentarium|t__SGB16653	0.34916	0.20336

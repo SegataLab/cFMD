@@ -1,11 +1,4 @@
-	YangC_2021	YangC_2021	YangC_2021	YangC_2021	YangC_2021	YangC_2021	YangC_2021	YangC_2021
 sample	YangC_2021__SRR13259372	YangC_2021__SRR13259373	YangC_2021__SRR13259374	YangC_2021__SRR13259375	YangC_2021__SRR13259376	YangC_2021__SRR13259377	YangC_2021__SRR13259378	YangC_2021__SRR13259379
-macrocategory	food	food	food	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy
-type	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese
-subtype	cheese	cheese	cheese	cheese	cheese	cheese	cheese	cheese
-country	CHN	ITA	GRC	CHN	CHN	GRC	ITA	CHN
-source	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_cremoris|t__SGB7984	0.0	1.42749	0.08556	0.99341	0.0	0.007	2.96574	6.78615
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.0	25.50196	0.03003	1.52252	4.02409	0.00165	2.46015	0.02896
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_falkenbergense|t__SGB7124	0.0	0.03733	0.0	0.0	0.0	0.0	0.0	0.0

@@ -1,11 +1,4 @@
-	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018	FerrocinoI_2018
 sample	FerrocinoI_2018__SRS1779539	FerrocinoI_2018__SRS1779541	FerrocinoI_2018__SRS1779542	FerrocinoI_2018__SRS1779543	FerrocinoI_2018__SRS1779544	FerrocinoI_2018__SRS1779545	FerrocinoI_2018__SRS1779546	FerrocinoI_2018__SRS1779547	FerrocinoI_2018__SRS1779548	FerrocinoI_2018__SRS1779549	FerrocinoI_2018__SRS1779550	FerrocinoI_2018__SRS1779551	FerrocinoI_2018__SRS1779552	FerrocinoI_2018__SRS1779553	FerrocinoI_2018__SRS1779554	FerrocinoI_2018__SRS1779555
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food
-category	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat	fermented_meat
-type	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat	meat
-subtype	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages	felino-type_sausages
-country	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA	ITA
-source	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	0.02592	0.0	0.0	0.0	0.51119	5.11016	0.0	0.0	0.0	0.0	7.57374	0.0	0.0	0.0	7.24441	0.68146
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	6.7447	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_mesenteroides|t__SGB7126	0.0	0.0	0.0	0.0	0.0	0.42354	0.0	0.0	0.0	0.0	1.31851	0.0	0.0	0.0	2.47954	0.0

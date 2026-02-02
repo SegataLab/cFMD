@@ -1,11 +1,4 @@
-	CM_INJERA	CM_INJERA
 sample	CM_INJERA__injera_E1	CM_INJERA__injera_E2
-macrocategory	food	food
-category	fermented_grains	fermented_grains
-type	injera	injera
-subtype	teff	teff
-country	ETH	ETH
-source	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lacticaseibacillus|s__Lacticaseibacillus_paracasei|t__SGB7142	38.20291	34.01902
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Pediococcus|s__Pediococcus_parvulus|t__SGB7180	0.03071	0.01428
 k__Eukaryota|p__Ascomycota|c__Eurotiomycetes|o__Eurotiales|f__Aspergillaceae|g__Penicillium|s__Penicillium_roqueforti|t__EUK5082	0.17021	0.22162

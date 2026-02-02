@@ -1,11 +1,4 @@
-	YasirM_2020	YasirM_2020
 sample	YasirM_2020__ERS4361128	YasirM_2020__ERS4361129
-macrocategory	food	food
-category	dairy	dairy
-type	laban	laban
-subtype	fermented_milk	fermented_milk
-country	SAU	SAU
-source	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Enterococcus|s__Enterococcus_faecium|t__SGB7967	0.23324	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_helveticus|t__SGB7048	0.49391	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Streptococcus|s__Streptococcus_thermophilus|t__SGB8002	71.0433	95.58923

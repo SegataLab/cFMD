@@ -1,11 +1,4 @@
-	TomarS_2023
 sample	TomarS_2023__SRR15925267
-macrocategory	food
-category	fermented_grains
-type	keem
-subtype	beverage_starter
-country	IND
-source	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactiplantibacillus|s__Lactiplantibacillus_plantarum|t__SGB7202	13.2721
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Thermoactinomycetaceae|g__Thermoactinomyces|s__Thermoactinomyces_vulgaris|t__SGB8263	0.05108
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Bacillaceae|g__Bacillus|s__Bacillus_licheniformis|t__SGB7780	30.31024

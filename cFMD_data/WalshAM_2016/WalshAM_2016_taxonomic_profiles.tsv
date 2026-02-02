@@ -1,11 +1,4 @@
-	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016	WalshAM_2016
 sample	WalshAM_2016__ERS1354635	WalshAM_2016__ERS1354636	WalshAM_2016__ERS1354637	WalshAM_2016__ERS1354638	WalshAM_2016__ERS1354641	WalshAM_2016__ERS1354642	WalshAM_2016__ERS1354643	WalshAM_2016__ERS1354644	WalshAM_2016__ERS1354645	WalshAM_2016__ERS1354646	WalshAM_2016__ERS1354647	WalshAM_2016__ERS1354648	WalshAM_2016__ERS1354649	WalshAM_2016__ERS1354651	WalshAM_2016__ERS1354652
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food	food	food	food
-category	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy	dairy
-type	kefir	kefir	kefir	kefir	kefir	kefir	kefir	kefir	kefir	kefir	kefir	kefir	kefir	kefir	kefir
-subtype	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir	milk_kefir
-country	GBR	FRA	IRL	GBR	FRA	IRL	GBR	FRA	IRL	GBR	FRA	IRL	GBR	FRA	IRL
-source	public	public	public	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_mesenteroides|t__SGB7126	40.54262	54.67128	26.74447	75.14718	42.56173	18.3178	36.37864	0.0	0.0	0.06788	35.05653	32.95777	67.79844	52.03556	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactobacillus|s__Lactobacillus_helveticus|t__SGB7048	0.90963	6.64842	0.0	2.72197	6.9605	0.0	7.6606	0.0	0.0	0.0	5.871	0.0	9.57136	0.0	0.0
 k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_mongoliense|t__SGB17228	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.32188	0.0	0.0	0.0	0.0	0.0

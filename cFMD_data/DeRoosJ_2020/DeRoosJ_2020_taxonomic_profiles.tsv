@@ -1,11 +1,4 @@
-	DeRoosJ_2020	DeRoosJ_2020	DeRoosJ_2020	DeRoosJ_2020	DeRoosJ_2020	DeRoosJ_2020
 sample	DeRoosJ_2020__B13M	DeRoosJ_2020__B24M	DeRoosJ_2020__B3D	DeRoosJ_2020__B3M	DeRoosJ_2020__B3W	DeRoosJ_2020__B9M
-macrocategory	food	food	food	food	food	food
-category	alcohol	alcohol	alcohol	alcohol	alcohol	alcohol
-type	beer	beer	beer	beer	beer	beer
-subtype	lambic_beer	lambic_beer	lambic_beer	lambic_beer	lambic_beer	lambic_beer
-country	BEL	BEL	BEL	BEL	BEL	BEL
-source	public	public	public	public	public	public
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_grimontii|t__SGB10120	0.0	0.0	0.04862	0.0	0.0	0.0
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Klebsiella|s__Klebsiella_variicola|t__SGB10114	0.0	0.0	1.48668	0.0	0.54035	0.0
 k__Eukaryota|p__Ascomycota|c__Saccharomycetes|o__Saccharomycetales|f__Saccharomycetaceae|g__Saccharomyces|s__Saccharomyces_cerevisiae|t__EUK4932	4.08836	0.0	98.4647	4.79926	99.45965	18.64424

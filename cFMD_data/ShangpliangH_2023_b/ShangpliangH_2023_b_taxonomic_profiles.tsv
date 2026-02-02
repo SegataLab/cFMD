@@ -1,11 +1,4 @@
-	ShangpliangH_2023_b	ShangpliangH_2023_b
 sample	ShangpliangH_2023_b__SRR22851057	ShangpliangH_2023_b__SRR22851058
-macrocategory	food	food
-category	fermented_grains	fermented_grains
-type	cereal_batter	cereal_batter
-subtype	batter	batter
-country	IND	IND
-source	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	23.45524	10.51972
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lacticaseibacillus|s__Lacticaseibacillus_paracasei|t__SGB7142	0.0	0.00619
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Enterococcus|s__Enterococcus_durans|t__SGB7966	0.00051	0.07521

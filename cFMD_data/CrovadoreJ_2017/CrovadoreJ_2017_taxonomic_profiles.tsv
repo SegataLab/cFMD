@@ -1,11 +1,4 @@
-	CrovadoreJ_2017	CrovadoreJ_2017	CrovadoreJ_2017	CrovadoreJ_2017	CrovadoreJ_2017
 sample	CrovadoreJ_2017__SRS1919134	CrovadoreJ_2017__SRS1919172	CrovadoreJ_2017__SRS1929189	CrovadoreJ_2017__SRS1929208	CrovadoreJ_2017__SRS1943747
-macrocategory	food	food	food	food	food
-category	other	other	other	other	other
-type	honey	honey	honey	honey	honey
-subtype	chestnut_honey	royal_jelly	lavender_honey	wild_lavender_honey	honeydew_honey
-country	FRA	FRA	FRA	FRA	FRA
-source	public	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Fructobacillus|s__Fructobacillus_tropaeoli|t__SGB208550	0.0	0.0047	0.0	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Fructobacillus|s__Fructobacillus_fructosus|t__SGB7132	0.28762	0.62928	0.03714	0.0	0.0
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Pectobacteriaceae|g__Lonsdalea|s__Lonsdalea_britannica|t__SGB10284	0.0	0.0	0.0	0.0	2.14742

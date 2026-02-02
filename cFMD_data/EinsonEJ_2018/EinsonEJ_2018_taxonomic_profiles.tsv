@@ -1,11 +1,4 @@
-	EinsonEJ_2018	EinsonEJ_2018	EinsonEJ_2018	EinsonEJ_2018
 sample	EinsonEJ_2018__SRS2706106	EinsonEJ_2018__SRS2706107	EinsonEJ_2018__SRS2706108	EinsonEJ_2018__SRS2706109
-macrocategory	food	food	food	food
-category	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables
-type	sauerkraut	sauerkraut	sauerkraut	sauerkraut
-subtype				
-country	USA	USA	USA	USA
-source	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Streptococcaceae|g__Lactococcus|s__Lactococcus_lactis|t__SGB7985	44.10483	40.8224	65.41793	49.00045
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Leuconostoc|s__Leuconostoc_mesenteroides|t__SGB7126	12.97804	12.14889	18.1644	14.86119
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactiplantibacillus|s__Lactiplantibacillus_plantarum|t__SGB7202	29.10636	22.50811	9.2032	19.44764

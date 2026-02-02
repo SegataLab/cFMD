@@ -1,11 +1,4 @@
-	LiZ_2019	LiZ_2019	LiZ_2019	LiZ_2019	LiZ_2019	LiZ_2019	LiZ_2019	LiZ_2019
 sample	LiZ_2019__SRS3379157	LiZ_2019__SRS3379159	LiZ_2019__SRS3379160	LiZ_2019__SRS3379161	LiZ_2019__SRS3379165	LiZ_2019__SRS3379166	LiZ_2019__SRS3379169	LiZ_2019__SRS3379170
-macrocategory	food	food	food	food	food	food	food	food
-category	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables	fermented_fruits_and_vegetables
-type	red_pepper_sauce	red_pepper_sauce	red_pepper_sauce	red_pepper_sauce	red_pepper_sauce	red_pepper_sauce	red_pepper_sauce	red_pepper_sauce
-subtype								
-country	CHN	CHN	CHN	CHN	CHN	CHN	CHN	CHN
-source	public	public	public	public	public	public	public	public
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Enterobacter|s__Enterobacter_hormaechei|t__SGB10130	0.02771	4.53374	0.163	0.00334	97.20504	68.994	0.0	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lacticaseibacillus|s__Lacticaseibacillus_paracasei|t__SGB7142	0.0	0.0	0.0	0.0	0.0	0.0	0.00236	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Lactobacillaceae|g__Lactiplantibacillus|s__Lactiplantibacillus_plantarum|t__SGB7202	0.0	0.0	0.0	0.0	0.0	0.0	0.12464	1.14624

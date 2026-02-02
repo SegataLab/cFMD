@@ -1,11 +1,4 @@
-	LeonardSR_2016	LeonardSR_2016	LeonardSR_2016	LeonardSR_2016	LeonardSR_2016	LeonardSR_2016	LeonardSR_2016	LeonardSR_2016	LeonardSR_2016	LeonardSR_2016	LeonardSR_2016	LeonardSR_2016
 sample	LeonardSR_2016__SRS1659769	LeonardSR_2016__SRS1659770	LeonardSR_2016__SRS1659771	LeonardSR_2016__SRS1659772	LeonardSR_2016__SRS1659773	LeonardSR_2016__SRS1659774	LeonardSR_2016__SRS1659775	LeonardSR_2016__SRS1659776	LeonardSR_2016__SRS1659777	LeonardSR_2016__SRS1659778	LeonardSR_2016__SRS1659779	LeonardSR_2016__SRS1659780
-macrocategory	food	food	food	food	food	food	food	food	food	food	food	food
-category	fruits_and_vegetables	fruits_and_vegetables	fruits_and_vegetables	fruits_and_vegetables	fruits_and_vegetables	fruits_and_vegetables	fruits_and_vegetables	fruits_and_vegetables	fruits_and_vegetables	fruits_and_vegetables	fruits_and_vegetables	fruits_and_vegetables
-type	spinach	spinach	spinach	spinach	spinach	spinach	spinach	spinach	spinach	spinach	spinach	spinach
-subtype	spinach_spiked_with_stec	spinach_spiked_with_stec	spinach_spiked_with_stec	spinach_spiked_with_stec	spinach_spiked_with_stec	spinach_spiked_with_stec	spinach_spiked_with_stec	spinach_spiked_with_stec	spinach_spiked_with_stec	spinach_spiked_with_stec	spinach_spiked_with_stec	spinach_spiked_with_stec
-country	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA	USA
-source	public	public	public	public	public	public	public	public	public	public	public	public
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Enterobacter|s__Enterobacter_hormaechei|t__SGB10130	1.46501	2.24067	5.09454	1.3038	2.92835	2.28544	0.82943	4.02245	0.61196	5.11197	9.87579	2.83513
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Enterobacteriaceae|g__Atlantibacter|s__Atlantibacter_hermannii|t__SGB10047	0.0	0.0	0.0	0.0	0.0	0.0	0.03842	0.0	0.0	0.0	0.0	0.0
 k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Enterobacterales|f__Hafniaceae|g__Hafnia|s__Hafnia_paralvei|t__SGB10207	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.00488	0.0	0.0

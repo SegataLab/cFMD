@@ -1,11 +1,4 @@
-	KumarJ_2019	KumarJ_2019	KumarJ_2019	KumarJ_2019
 sample	KumarJ_2019__SRS4562500	KumarJ_2019__SRS4562501	KumarJ_2019__SRS4562502	KumarJ_2019__SRS4562503
-macrocategory	food	food	food	food
-category	fermented_legumes	fermented_legumes	fermented_legumes	fermented_legumes
-type	soybean	soybean	soybean	soybean
-subtype	kinema	kinema	kinema	kinema
-country	IND	IND	IND	IND
-source	public	public	public	public
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae|g__Staphylococcus|s__Staphylococcus_equorum|t__SGB7843	0.0	0.0	0.36086	0.0
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Bacillales|f__Staphylococcaceae|g__Staphylococcus|s__Staphylococcus_xylosus|t__SGB7847_group	0.0	0.0272	0.0	0.44034
 k__Bacteria|p__Firmicutes|c__Bacilli|o__Lactobacillales|f__Enterococcaceae|g__Enterococcus|s__Enterococcus_durans|t__SGB7966	0.01085	0.0	0.0	0.0
