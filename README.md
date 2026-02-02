@@ -5,7 +5,7 @@ cFMD, initially developed within the EU 2020 MASTER project, is currently mainta
 
 Go to cFMD v1.1.0 for the version associated with Carlino et al., "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", Cell, 2024, DOI: 10.1016/j.cell.2024.07.039.
 
-**Main update of the current version (v1.3.0)**: Improved cheese metadata for the datasets currently in cFMD along with the addition of 2 new datasets.
+**Main update of the current version (v1.3.1)**: Improved cheese metadata for the datasets currently in cFMD along with the addition of 2 new datasets.
 
 ## Data
 
