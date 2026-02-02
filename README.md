@@ -1,9 +1,9 @@
 # cFMD
 curatedFoodMetagenomicData (cFMD) is the largest public food microbiome resource, comprehending curated metadata, microbiome profiles, as well as reconstructed genomes from food (shotgun) metagenomes. cFMD currently hosts 14,904 MAGs spanning 1,153 prokaryotic SGBs and 110 eukaryotic SGBs, comprehending 3,444 food metagenomes from 87 food metagenomic datasets. 
 
-cFMD, initially developed within the EU 2020 MASTER project, is currently maintained within the DOMINO EU project. To contribute to the further expansion of cFMD with your own food-associated metagenomic data, get in touch with one of the contacts listed at the bottom of this page.
+cFMD, initially developed within the [EU 2020 MASTER project](https://www.master-h2020.eu/index.html), is currently maintained within the DOMINO EU project. To contribute to the further expansion of cFMD with your own food-associated metagenomic data, get in touch with one of the contacts listed at the bottom of this page.
 
-Go to cFMD v1.1.0 for the version associated with Carlino et al., "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", Cell, 2024, DOI: 10.1016/j.cell.2024.07.039.
+Go to [cFMD v1.1.0](https://github.com/SegataLab/cFMD/releases/tag/v1.1.0) for the version associated with Carlino et al., "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", Cell, 2024, DOI: [10.1016/j.cell.2024.07.039](https://doi.org/10.1016/j.cell.2024.07.039).
 
 **Main update of the current version (v1.3.1)**: Improved cheese metadata for the datasets currently in cFMD along with the addition of 2 new datasets.
 
