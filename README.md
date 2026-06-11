@@ -5,7 +5,7 @@ cFMD, initially developed within the [EU 2020 MASTER project](https://www.master
 
 Go to [cFMD v1.1.0](https://github.com/SegataLab/cFMD/releases/tag/v1.1.0) for the version associated with Carlino et al., "Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome", Cell, 2024, DOI: [10.1016/j.cell.2024.07.039](https://doi.org/10.1016/j.cell.2024.07.039).
 
-**Main update of the current version (v1.3.2)**: Addition of 681 publicly food metagenomes from 22 datasets and 3,276 MAGs generated from them.
+**Main update of the current version (v1.3.2)**: Addition of 681 publicly available food metagenomes from 22 datasets and 3,276 MAGs generated from them.
 
 ## Data
 
