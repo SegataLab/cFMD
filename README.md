@@ -44,7 +44,7 @@ Alongside the cFMD-level files mentioned above, we also provide dataset-specific
 
 - **${DATASET}_metadata**: sample-level metadata information for the dataset. An additional more complete metadata file (`${DATASET}_additional_cheese_metadata`) is available for datasets included in [MetaCheeseDB](https://magliulo.github.io/metacheesedb/).
 
-- **${DATASET}_taxonomic_profiles**: taxonomic profiles with samples as column headers and taxa as row indices, with values expressed as taxa relative abundances (%).
+- **${DATASET}_taxonomic_profiles**: taxonomic profiles with samples as column headers and taxa as row indices, with values expressed as taxa relative abundances (%). This data is not provided for samples with 100% unclassified (e.g., RippF_2014/SRS811913).
 
 - **${DATASET}_mags**: the reconstructed MAGs in fasta format (hosted externally due to large size; a download script is provided).
 
