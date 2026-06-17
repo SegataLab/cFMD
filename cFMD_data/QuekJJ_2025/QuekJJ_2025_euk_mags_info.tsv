@@ -1,0 +1,4 @@
+dataset_id	MAG_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+QuekJJ_2025	QuekJJ_2025__SRR31860685__bin.49	SRR31860685	unassigned_eukaryote											8579923	1803	6131	0.0	34.89	0.34
+QuekJJ_2025	QuekJJ_2025__SRR31860685__bin.7	SRR31860685	unassigned_eukaryote											9064719	452	31962	100.0	66.19	0.31
+QuekJJ_2025	QuekJJ_2025__SRR31860686__bin.17	SRR31860686	assigned	EUK39397	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Teunomyces	Candida_sake	11072867	2480	5219	100.0	70.08	0.39

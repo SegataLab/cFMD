@@ -1,0 +1,124 @@
+dataset_id	MAG_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+GardonH_2025	GardonH_2025__ERR12057286__bin.1	ERR12057286	assigned	EUK5082	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_roqueforti	27083390	638	69371	0.0	39.14	0.49
+GardonH_2025	GardonH_2025__ERR12057294__bin.25	ERR12057294	assigned	EUK5082	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_roqueforti	26330949	475	92451	0.0	40.57	0.49
+GardonH_2025	GardonH_2025__ERR12057298__bin.6	ERR12057298	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	12121105	1168	16158	100.0	74.11	0.36
+GardonH_2025	GardonH_2025__ERR12057298__bin.9	ERR12057298	unassigned_eukaryote											7203323	964	9863	85.26	58.4	0.56
+GardonH_2025	GardonH_2025__ERR12057300__bin.18	ERR12057300	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11793852	318	69988	100.0	74.8	0.36
+GardonH_2025	GardonH_2025__ERR12057302__bin.13	ERR12057302	unassigned_eukaryote											7435298	1295	6847	95.26	66.54	0.55
+GardonH_2025	GardonH_2025__ERR12057302__bin.7	ERR12057302	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	9947815	2182	5484	100.0	62.9	0.36
+GardonH_2025	GardonH_2025__ERR12057303__bin.5	ERR12057303	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	10935500	151	140063	100.0	72.2	0.36
+GardonH_2025	GardonH_2025__ERR12057304__bin.11	ERR12057304	unassigned_eukaryote											9542231	1264	9753	98.63	76.98	0.55
+GardonH_2025	GardonH_2025__ERR12057305__bin.5	ERR12057305	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11728228	285	83075	100.0	77.12	0.36
+GardonH_2025	GardonH_2025__ERR12057306__bin.6	ERR12057306	unassigned_eukaryote											7501105	2269	3618	100.0	55.98	0.39
+GardonH_2025	GardonH_2025__ERR12057307__bin.10	ERR12057307	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32518437	576	107384	0.0	44.13	0.48
+GardonH_2025	GardonH_2025__ERR12057308__bin.8	ERR12057308	unassigned_eukaryote											10347821	631	24212	100.0	92.73	0.39
+GardonH_2025	GardonH_2025__ERR12057309__bin.8	ERR12057309	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	12420902	2673	5518	100.0	79.61	0.36
+GardonH_2025	GardonH_2025__ERR12057310__bin.6	ERR12057310	unassigned_eukaryote											7674585	1738	5016	98.1	57.6	0.39
+GardonH_2025	GardonH_2025__ERR12057310__bin.9	ERR12057310	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	8192076	905	11995	100.0	66.67	0.36
+GardonH_2025	GardonH_2025__ERR12057311__bin.6	ERR12057311	unassigned_eukaryote											8933892	1398	7580	100.0	68.52	0.39
+GardonH_2025	GardonH_2025__ERR12057312__bin.15	ERR12057312	unassigned_eukaryote											7937175	2222	4049	100.0	72.64	0.39
+GardonH_2025	GardonH_2025__ERR12057315__bin.9	ERR12057315	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	31527353	1620	29668	0.0	38.96	0.49
+GardonH_2025	GardonH_2025__ERR12057317__bin.6	ERR12057317	unassigned_eukaryote											10435226	303	53234	100.0	91.08	0.39
+GardonH_2025	GardonH_2025__ERR12057317__bin.8	ERR12057317	unassigned_eukaryote											8856604	363	36043	100.0	79.33	0.42
+GardonH_2025	GardonH_2025__ERR12057318__bin.12	ERR12057318	unassigned_eukaryote											13953402	4047	3730	90.06	40.89	0.42
+GardonH_2025	GardonH_2025__ERR12057318__bin.17	ERR12057318	unassigned_eukaryote											10424419	180	78466	100.0	84.96	0.55
+GardonH_2025	GardonH_2025__ERR12057318__bin.6	ERR12057318	unassigned_eukaryote											10439655	225	80401	100.0	92.47	0.39
+GardonH_2025	GardonH_2025__ERR12057319__bin.15	ERR12057319	unassigned_eukaryote											10463733	372	43706	100.0	91.98	0.39
+GardonH_2025	GardonH_2025__ERR12057319__bin.22	ERR12057319	unassigned_eukaryote											10592408	169	87813	100.0	76.93	0.55
+GardonH_2025	GardonH_2025__ERR12057319__bin.23	ERR12057319	assigned	EUK82509	kSGB	Species	Eukaryota	Basidiomycota	Tremellomycetes	Trichosporonales	Trichosporonaceae	Trichosporon	Trichosporon_coremiiforme	19025457	4667	4667	0.02	3.63	0.6
+GardonH_2025	GardonH_2025__ERR12057320__bin.16	ERR12057320	unassigned_eukaryote											9243678	147	88516	97.03	66.48	0.56
+GardonH_2025	GardonH_2025__ERR12057320__bin.19	ERR12057320	assigned	EUK5082	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_roqueforti	26139974	1323	28747	0.0	36.72	0.49
+GardonH_2025	GardonH_2025__ERR12057320__bin.20	ERR12057320	unassigned_eukaryote											10347265	346	43948	100.0	89.15	0.39
+GardonH_2025	GardonH_2025__ERR12057320__bin.7	ERR12057320	assigned	EUK27299	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_nepalensis	9912305	2016	6129	100.0	81.19	0.37
+GardonH_2025	GardonH_2025__ERR12057320__bin.8	ERR12057320	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	8587912	1096	9787	100.0	72.24	0.36
+GardonH_2025	GardonH_2025__ERR12057321__bin.15	ERR12057321	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	10036221	2503	4456	88.77	54.1	0.36
+GardonH_2025	GardonH_2025__ERR12057321__bin.19	ERR12057321	assigned	EUK58627	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_fabryi	11414865	367	46186	100.0	70.46	0.36
+GardonH_2025	GardonH_2025__ERR12057321__bin.24	ERR12057321	unassigned_eukaryote											7919621	124	81786	83.42	53.67	0.56
+GardonH_2025	GardonH_2025__ERR12057321__bin.8	ERR12057321	unassigned_eukaryote											10443706	280	54465	100.0	93.06	0.39
+GardonH_2025	GardonH_2025__ERR12057327__bin.12	ERR12057327	unassigned_eukaryote											10497870	278	65146	100.0	94.23	0.39
+GardonH_2025	GardonH_2025__ERR12057329__bin.12	ERR12057329	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32426321	1000	51722	0.0	38.54	0.48
+GardonH_2025	GardonH_2025__ERR12057330__bin.19	ERR12057330	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32174443	976	52992	0.0	47.55	0.48
+GardonH_2025	GardonH_2025__ERR12057331__bin.11	ERR12057331	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32155787	825	66988	0.0	48.27	0.48
+GardonH_2025	GardonH_2025__ERR12057332__bin.18	ERR12057332	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32101770	1159	44093	0.0	42.56	0.48
+GardonH_2025	GardonH_2025__ERR12057332__bin.19	ERR12057332	unassigned_eukaryote											10497916	464	35926	100.0	91.16	0.39
+GardonH_2025	GardonH_2025__ERR12057335__bin.13	ERR12057335	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11861863	2163	6698	100.0	67.13	0.36
+GardonH_2025	GardonH_2025__ERR12057335__bin.22	ERR12057335	unassigned_eukaryote											27083930	2655	12670	0.01	20.68	0.5
+GardonH_2025	GardonH_2025__ERR12057336__bin.20	ERR12057336	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	8159122	948	10654	100.0	61.99	0.36
+GardonH_2025	GardonH_2025__ERR12057337__bin.1	ERR12057337	unassigned_eukaryote											9657450	263	58116	95.53	71.78	0.56
+GardonH_2025	GardonH_2025__ERR12057337__bin.12	ERR12057337	unassigned_eukaryote											10342199	1043	13980	100.0	70.02	0.38
+GardonH_2025	GardonH_2025__ERR12057337__bin.13	ERR12057337	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	8274296	991	10956	100.0	74.49	0.36
+GardonH_2025	GardonH_2025__ERR12057337__bin.19	ERR12057337	unassigned_eukaryote											9742832	740	19801	100.0	88.64	0.39
+GardonH_2025	GardonH_2025__ERR12057337__bin.6	ERR12057337	assigned	EUK5082	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_roqueforti	26551596	1205	32593	0.0	39.74	0.49
+GardonH_2025	GardonH_2025__ERR12057338__bin.15	ERR12057338	unassigned_eukaryote											10059770	287	50954	100.0	83.23	0.55
+GardonH_2025	GardonH_2025__ERR12057338__bin.19	ERR12057338	unassigned_eukaryote											9831377	2419	4704	100.0	60.91	0.37
+GardonH_2025	GardonH_2025__ERR12057338__bin.6	ERR12057338	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	9527905	630	22839	100.0	66.07	0.36
+GardonH_2025	GardonH_2025__ERR12057339__bin.1	ERR12057339	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	31457131	1056	47834	0.0	44.21	0.49
+GardonH_2025	GardonH_2025__ERR12057339__bin.15	ERR12057339	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	12343796	1424	12133	100.0	63.81	0.36
+GardonH_2025	GardonH_2025__ERR12057339__bin.4	ERR12057339	unassigned_eukaryote											22750698	2704	11714	0.0	36.42	0.48
+GardonH_2025	GardonH_2025__ERR12057339__bin.6	ERR12057339	assigned	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	10206405	1179	11591	100.0	76.19	0.38
+GardonH_2025	GardonH_2025__ERR12057339__bin.7	ERR12057339	unassigned_eukaryote											30498917	2671	16258	100.0	19.33	0.4
+GardonH_2025	GardonH_2025__ERR12057339__bin.9	ERR12057339	assigned	EUK5480	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Candida	Candida_parapsilosis	12474451	765	26786	100.0	74.96	0.39
+GardonH_2025	GardonH_2025__ERR12057340__bin.1	ERR12057340	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11518838	707	27576	100.0	79.37	0.36
+GardonH_2025	GardonH_2025__ERR12057341__bin.16	ERR12057341	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11429771	565	45101	100.0	84.62	0.36
+GardonH_2025	GardonH_2025__ERR12057345__bin.17	ERR12057345	unassigned_eukaryote											12477112	347	52728	100.0	85.11	0.38
+GardonH_2025	GardonH_2025__ERR12057345__bin.20	ERR12057345	unassigned_eukaryote											11741585	2618	5689	100.0	77.43	0.32
+GardonH_2025	GardonH_2025__ERR12057349__bin.14	ERR12057349	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11387030	169	134414	100.0	71.15	0.36
+GardonH_2025	GardonH_2025__ERR12057350__bin.13	ERR12057350	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11558799	208	94235	100.0	75.16	0.36
+GardonH_2025	GardonH_2025__ERR12057351__bin.1	ERR12057351	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	10405121	2601	4631	100.0	76.98	0.36
+GardonH_2025	GardonH_2025__ERR12057352__bin.17	ERR12057352	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	16772358	3063	6921	100.0	527.75	0.36
+GardonH_2025	GardonH_2025__ERR12057354__bin.10	ERR12057354	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11231955	1729	8708	100.0	66.69	0.36
+GardonH_2025	GardonH_2025__ERR12057354__bin.24	ERR12057354	unassigned_eukaryote											10556306	237	74802	100.0	84.11	0.55
+GardonH_2025	GardonH_2025__ERR12057355__bin.8	ERR12057355	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11458690	227	89506	100.0	75.32	0.36
+GardonH_2025	GardonH_2025__ERR12057356__bin.24	ERR12057356	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11779291	271	77825	100.0	76.41	0.36
+GardonH_2025	GardonH_2025__ERR12057359__bin.16	ERR12057359	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	9181341	2399	4389	100.0	46.44	0.36
+GardonH_2025	GardonH_2025__ERR12057360__bin.17	ERR12057360	unassigned_eukaryote											24665302	858	39735	0.0	40.1	0.51
+GardonH_2025	GardonH_2025__ERR12057360__bin.8	ERR12057360	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11772591	276	74277	100.0	71.57	0.36
+GardonH_2025	GardonH_2025__ERR12057373__bin.2	ERR12057373	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11678467	199	127346	100.0	73.37	0.36
+GardonH_2025	GardonH_2025__ERR12057377__bin.23	ERR12057377	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11907776	398	54516	100.0	79.06	0.36
+GardonH_2025	GardonH_2025__ERR12057378__bin.4	ERR12057378	assigned	EUK5082	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_roqueforti	26648834	226	232978	0.0	39.78	0.49
+GardonH_2025	GardonH_2025__ERR12057378__bin.8	ERR12057378	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11185682	163	144553	100.0	68.08	0.36
+GardonH_2025	GardonH_2025__ERR12057381__bin.15	ERR12057381	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11838542	359	65269	100.0	73.13	0.36
+GardonH_2025	GardonH_2025__ERR12057387__bin.1	ERR12057387	unassigned_eukaryote											8595586	303	39241	86.9	66.25	0.56
+GardonH_2025	GardonH_2025__ERR12057388__bin.5	ERR12057388	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11516114	1442	10963	100.0	71.22	0.36
+GardonH_2025	GardonH_2025__ERR12057388__bin.7	ERR12057388	unassigned_eukaryote											8932041	230	55723	95.21	68.87	0.56
+GardonH_2025	GardonH_2025__ERR12057389__bin.10	ERR12057389	unassigned_eukaryote											7725946	354	32006	88.33	52.76	0.56
+GardonH_2025	GardonH_2025__ERR12057390__bin.30	ERR12057390	unassigned_eukaryote											10537772	516	32340	100.0	94.19	0.39
+GardonH_2025	GardonH_2025__ERR12057390__bin.6	ERR12057390	unassigned_eukaryote											8324022	1362	7859	100.0	78.54	0.42
+GardonH_2025	GardonH_2025__ERR12057390__bin.7	ERR12057390	unassigned_eukaryote											8993421	171	79045	100.0	99.97	0.5
+GardonH_2025	GardonH_2025__ERR12057391__bin.11	ERR12057391	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11437690	1895	7595	100.0	79.82	0.36
+GardonH_2025	GardonH_2025__ERR12057392__bin.20	ERR12057392	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	12033186	2909	4827	100.0	72.75	0.36
+GardonH_2025	GardonH_2025__ERR12057392__bin.6	ERR12057392	unassigned_eukaryote											8622605	314	42499	91.1	64.01	0.56
+GardonH_2025	GardonH_2025__ERR12057393__bin.10	ERR12057393	assigned	EUK45354	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Metschnikowiaceae	Clavispora	Candida_intermedia	10199002	2326	5007	100.0	64.15	0.43
+GardonH_2025	GardonH_2025__ERR12057393__bin.8	ERR12057393	unassigned_eukaryote											9767583	173	86314	100.0	81.69	0.55
+GardonH_2025	GardonH_2025__ERR12057394__bin.6	ERR12057394	unassigned_eukaryote											28386011	3534	9902	0.0	38.13	0.58
+GardonH_2025	GardonH_2025__ERR12057395__bin.15	ERR12057395	assigned	EUK39397	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Teunomyces	Candida_sake	13917791	247	109732	100.0	90.74	0.39
+GardonH_2025	GardonH_2025__ERR12057395__bin.24	ERR12057395	unassigned_eukaryote											36959176	11619	3530	100.0	32.08	0.35
+GardonH_2025	GardonH_2025__ERR12057395__bin.6	ERR12057395	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	8308280	1974	4840	100.0	52.53	0.36
+GardonH_2025	GardonH_2025__ERR12057396__bin.18	ERR12057396	assigned	EUK39397	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Teunomyces	Candida_sake	13849617	224	98389	100.0	90.37	0.39
+GardonH_2025	GardonH_2025__ERR12057396__bin.24	ERR12057396	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11728218	286	78277	100.0	74.58	0.36
+GardonH_2025	GardonH_2025__ERR12057396__bin.29	ERR12057396	unassigned_eukaryote											44375951	5405	11508	100.0	23.09	0.35
+GardonH_2025	GardonH_2025__ERR12057397__bin.11	ERR12057397	unassigned_eukaryote											42347778	5926	9776	100.0	20.87	0.35
+GardonH_2025	GardonH_2025__ERR12057397__bin.12	ERR12057397	assigned	EUK39397	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Teunomyces	Candida_sake	13786832	367	57601	100.0	94.23	0.39
+GardonH_2025	GardonH_2025__ERR12057397__bin.3	ERR12057397	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	9314796	1606	6962	100.0	55.63	0.36
+GardonH_2025	GardonH_2025__ERR12057398__bin.12	ERR12057398	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11170412	190	127350	100.0	75.08	0.36
+GardonH_2025	GardonH_2025__ERR12057398__bin.13	ERR12057398	assigned	EUK39397	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Teunomyces	Candida_sake	13481925	1216	15332	100.0	91.57	0.39
+GardonH_2025	GardonH_2025__ERR12057398__bin.30	ERR12057398	unassigned_eukaryote											10512223	184	96079	100.0	91.8	0.39
+GardonH_2025	GardonH_2025__ERR12057399__bin.21	ERR12057399	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11678317	274	82757	100.0	73.07	0.36
+GardonH_2025	GardonH_2025__ERR12057399__bin.3	ERR12057399	unassigned_eukaryote											8488664	1870	5372	100.0	65.65	0.47
+GardonH_2025	GardonH_2025__ERR12057400__bin.1	ERR12057400	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11703709	309	79661	100.0	71.14	0.36
+GardonH_2025	GardonH_2025__ERR12057400__bin.23	ERR12057400	assigned	EUK39397	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Teunomyces	Candida_sake	14042023	244	101143	100.0	88.35	0.39
+GardonH_2025	GardonH_2025__ERR12057401__bin.12	ERR12057401	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32400988	634	92777	0.0	45.25	0.48
+GardonH_2025	GardonH_2025__ERR12057402__bin.1	ERR12057402	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	8393238	971	10991	100.0	69.32	0.36
+GardonH_2025	GardonH_2025__ERR12057403__bin.14	ERR12057403	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	8017154	999	10447	100.0	60.88	0.36
+GardonH_2025	GardonH_2025__ERR12057404__bin.7	ERR12057404	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	7244389	145	73900	100.0	59.93	0.37
+GardonH_2025	GardonH_2025__ERR12057405__bin.15	ERR12057405	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11624363	219	93507	100.0	75.27	0.36
+GardonH_2025	GardonH_2025__ERR12057405__bin.5	ERR12057405	unassigned_eukaryote											9912705	890	14902	100.0	80.05	0.39
+GardonH_2025	GardonH_2025__ERR12057406__bin.7	ERR12057406	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11541789	345	61338	100.0	70.02	0.36
+GardonH_2025	GardonH_2025__ERR12057408__bin.24	ERR12057408	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11817936	341	65101	100.0	73.53	0.36
+GardonH_2025	GardonH_2025__ERR12057409__bin.1	ERR12057409	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	10187800	1569	7916	100.0	70.9	0.36
+GardonH_2025	GardonH_2025__ERR12057411__bin.16	ERR12057411	unassigned_eukaryote											11931227	445	38999	100.0	88.21	0.55
+GardonH_2025	GardonH_2025__ERR12057411__bin.19	ERR12057411	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	11959588	2520	5617	100.0	64.24	0.36
+GardonH_2025	GardonH_2025__ERR12057411__bin.2	ERR12057411	unassigned_eukaryote											7412919	1684	5238	100.0	53.44	0.42
+GardonH_2025	GardonH_2025__ERR12057411__bin.9	ERR12057411	unassigned_eukaryote											10448916	318	54339	100.0	90.01	0.39
+GardonH_2025	GardonH_2025__ERR12057412__bin.22	ERR12057412	assigned	EUK4959_1	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Debaryomyces	Debaryomyces_hansenii_group_1	8189715	2798	3097	100.0	48.38	0.36
+GardonH_2025	GardonH_2025__ERR12057412__bin.23	ERR12057412	unassigned_eukaryote											10448817	384	41146	100.0	91.15	0.39

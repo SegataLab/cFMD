@@ -1,0 +1,17 @@
+dataset_id	MAG_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+BuzzancaD_2024	BuzzancaD_2024__SRR30684823__bin.2	SRR30684823	unassigned_eukaryote											9518834	1285	9807	100.0	73.04	0.4
+BuzzancaD_2024	BuzzancaD_2024__SRR30684823__bin.6	SRR30684823	unassigned_eukaryote											7411515	1986	4250	99.65	50.4	0.41
+BuzzancaD_2024	BuzzancaD_2024__SRR30684824__bin.13	SRR30684824	unassigned_eukaryote											10274671	721	21493	100.0	88.14	0.39
+BuzzancaD_2024	BuzzancaD_2024__SRR30684825__bin.14	SRR30684825	unassigned_eukaryote											12445389	451	43436	100.0	87.28	0.38
+BuzzancaD_2024	BuzzancaD_2024__SRR30684825__bin.7	SRR30684825	unassigned_eukaryote											10501046	169	106141	100.0	92.09	0.39
+BuzzancaD_2024	BuzzancaD_2024__SRR30684827__bin.2	SRR30684827	unassigned_eukaryote											10440661	414	38725	100.0	89.35	0.39
+BuzzancaD_2024	BuzzancaD_2024__SRR30684831__bin.17	SRR30684831	unassigned_eukaryote											9320879	1788	6453	100.0	89.64	0.39
+BuzzancaD_2024	BuzzancaD_2024__SRR30684832__bin.1	SRR30684832	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32379845	1126	46471	0.0	46.28	0.48
+BuzzancaD_2024	BuzzancaD_2024__SRR30684833__bin.10	SRR30684833	unassigned_eukaryote											10274195	540	26922	100.0	90.65	0.39
+BuzzancaD_2024	BuzzancaD_2024__SRR30684834__bin.10	SRR30684834	unassigned_eukaryote											10430304	228	72920	100.0	92.35	0.39
+BuzzancaD_2024	BuzzancaD_2024__SRR30684841__bin.9	SRR30684841	unassigned_eukaryote											9802323	1151	11244	100.0	83.96	0.39
+BuzzancaD_2024	BuzzancaD_2024__SRR30684843__bin.7	SRR30684843	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	32866203	844	74865	0.0	59.3	0.48
+BuzzancaD_2024	BuzzancaD_2024__SRR30684844__bin.15	SRR30684844	unassigned_eukaryote											7597632	2049	4070	100.0	61.81	0.39
+BuzzancaD_2024	BuzzancaD_2024__SRR30684845__bin.5	SRR30684845	assigned	EUK5075	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium_camemberti	29262211	4159	9002	0.0	33.86	0.49
+BuzzancaD_2024	BuzzancaD_2024__SRR30684846__bin.6	SRR30684846	unassigned_eukaryote											8566961	1457	7445	100.0	76.57	0.39
+BuzzancaD_2024	BuzzancaD_2024__SRR30684851__bin.7	SRR30684851	unassigned_eukaryote											10455101	202	82081	100.0	92.29	0.39

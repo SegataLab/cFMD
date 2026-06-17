@@ -1,0 +1,14 @@
+dataset_id	MAG_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+SirenK_2019	SirenK_2019__ERR3094540__bin.4	ERR3094540	assigned	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	11290626	319	52611	100.0	87.38	0.38
+SirenK_2019	SirenK_2019__ERR3094540__bin.5	ERR3094540	unassigned_eukaryote											8616936	269	58410	100.0	65.28	0.32
+SirenK_2019	SirenK_2019__ERR3094541__bin.2	ERR3094541	assigned	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	11225300	270	61558	100.0	90.81	0.38
+SirenK_2019	SirenK_2019__ERR3094542__bin.3	ERR3094542	unassigned_eukaryote											8545879	231	68895	100.0	65.42	0.32
+SirenK_2019	SirenK_2019__ERR3094543__bin.4	ERR3094543	assigned	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	11097364	263	63459	100.0	88.76	0.38
+SirenK_2019	SirenK_2019__ERR3094544__bin.3	ERR3094544	assigned	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	11265643	303	61504	100.0	85.39	0.38
+SirenK_2019	SirenK_2019__ERR3094545__bin.3	ERR3094545	assigned	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	11332008	340	47853	100.0	92.93	0.38
+SirenK_2019	SirenK_2019__ERR3094546__bin.5	ERR3094546	unassigned_eukaryote											14061698	3449	4673	100.0	79.48	0.46
+SirenK_2019	SirenK_2019__ERR3094547__bin.2	ERR3094547	unassigned_eukaryote											8297962	1146	10163	100.0	66.69	0.32
+SirenK_2019	SirenK_2019__ERR3094547__bin.6	ERR3094547	unassigned_eukaryote											14774856	3408	5051	100.0	62.28	0.46
+SirenK_2019	SirenK_2019__ERR3094548__bin.2	ERR3094548	unassigned_eukaryote											8580665	229	73395	100.0	65.09	0.32
+SirenK_2019	SirenK_2019__ERR3094549__bin.2	ERR3094549	assigned	EUK4932	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces_cerevisiae	9926557	1877	6588	100.0	83.77	0.38
+SirenK_2019	SirenK_2019__ERR3094549__bin.3	ERR3094549	unassigned_eukaryote											7376901	2017	4099	100.0	42.45	0.32

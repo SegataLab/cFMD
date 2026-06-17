@@ -1,0 +1,7 @@
+dataset_id	MAG_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+IndioV_2024	IndioV_2024__SRR27183619__bin.19	SRR27183619	assigned	EUK39397	kSGB	Species	Eukaryota	Ascomycota	Saccharomycetes	Saccharomycetales	Debaryomycetaceae	Teunomyces	Candida_sake	13858314	346	68627	100.0	90.9	0.39
+IndioV_2024	IndioV_2024__SRR27183619__bin.2	SRR27183619	unassigned_eukaryote											13294372	3294	4450	100.0	43.89	0.47
+IndioV_2024	IndioV_2024__SRR27183620__bin.9	SRR27183620	unassigned_eukaryote											12031248	342	68139	100.0	77.81	0.36
+IndioV_2024	IndioV_2024__SRR27183621__bin.1	SRR27183621	unassigned_eukaryote											12078760	321	72932	100.0	77.82	0.36
+IndioV_2024	IndioV_2024__SRR27183629__bin.1	SRR27183629	assigned	EUK41067	kSGB	Species	Eukaryota	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus_candidus	20062797	2138	11120	0.0	11.49	0.52
+IndioV_2024	IndioV_2024__SRR27183629__bin.6	SRR27183629	unassigned_eukaryote											12024808	276	88933	100.0	77.91	0.36

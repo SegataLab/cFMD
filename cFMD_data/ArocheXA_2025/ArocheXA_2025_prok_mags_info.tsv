@@ -1,0 +1,45 @@
+dataset_id	MAG_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+ArocheXA_2025	ArocheXA_2025__SRR32671085__bin.24	SRR32671085	assigned	SGB5593	kSGB	Species	Bacteria	Mycoplasmatota	Mollicutes	Entomoplasmatales	Entomoplasmataceae	Mesoplasma	Mesoplasma_melaleucae	614110.0	204.0	3181.0	67.98	0.84	0.27
+ArocheXA_2025	ArocheXA_2025__SRR32671096__bin.32	SRR32671096	assigned	SGB5593	kSGB	Species	Bacteria	Mycoplasmatota	Mollicutes	Entomoplasmatales	Entomoplasmataceae	Mesoplasma	Mesoplasma_melaleucae	473639.0	139.0	3666.0	57.8	1.04	0.27
+ArocheXA_2025	ArocheXA_2025__SRR32671082__bin.47	SRR32671082	assigned	SGB5593	kSGB	Species	Bacteria	Mycoplasmatota	Mollicutes	Entomoplasmatales	Entomoplasmataceae	Mesoplasma	Mesoplasma_melaleucae	476820.0	192.0	2504.0	58.46	0.94	0.27
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.2	SRR32671090	assigned	SGB5593	kSGB	Species	Bacteria	Mycoplasmatota	Mollicutes	Entomoplasmatales	Entomoplasmataceae	Mesoplasma	Mesoplasma_melaleucae	761564.0	114.0	9037.0	87.9	2.27	0.27
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.5	SRR32671090	assigned	SGB10068	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia_coli	4514389.0	186.0	40716.0	97.34	0.12	0.51
+ArocheXA_2025	ArocheXA_2025__SRR32671091__bin.2	SRR32671091	assigned	SGB10172	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	Pantoea_dispersa	4104505.0	518.0	10990.0	92.41	1.18	0.59
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.36	SRR32671090	assigned	SGB10194	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Pantoea	Pantoea_ananatis	4289273.0	131.0	53436.0	94.97	1.87	0.54
+ArocheXA_2025	ArocheXA_2025__SRR32671085__bin.13	SRR32671085	assigned	SGB10206	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Erwinia	Erwinia_aphidicola	2642308.0	677.0	4454.0	55.52	4.81	0.58
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.40	SRR32671090	assigned	SGB10292	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Rosenbergiella	Rosenbergiella_epipactidis	2188650.0	196.0	15983.0	74.79	2.59	0.48
+ArocheXA_2025	ArocheXA_2025__SRR32671094__bin.7	SRR32671094	assigned	SGB10292	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	Rosenbergiella	Rosenbergiella_epipactidis	1911045.0	313.0	6883.0	71.19	1.25	0.47
+ArocheXA_2025	ArocheXA_2025__SRR32671083__bin.51	SRR32671083	assigned	SGB19418	kSGB	Species	Bacteria	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Arcobacteraceae	Aliarcobacter	Aliarcobacter_cryaerophilus	1386785.0	437.0	3563.0	68.58	1.45	0.28
+ArocheXA_2025	ArocheXA_2025__SRR32671094__bin.11	SRR32671094	assigned	SGB92556	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_pollinis	2314629.0	212.0	17129.0	93.89	0.25	0.36
+ArocheXA_2025	ArocheXA_2025__SRR32671093__bin.21	SRR32671093	assigned	SGB92556	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_pollinis	2261713.0	171.0	17714.0	93.52	3.16	0.37
+ArocheXA_2025	ArocheXA_2025__SRR32671092__bin.31	SRR32671092	assigned	SGB92556	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_pollinis	1673267.0	367.0	5214.0	69.49	1.5	0.36
+ArocheXA_2025	ArocheXA_2025__SRR32671091__bin.21	SRR32671091	assigned	SGB92556	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_pollinis	1519475.0	401.0	4113.0	60.62	0.69	0.36
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.25	SRR32671090	assigned	SGB92556	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_pollinis	1833926.0	495.0	4164.0	60.15	1.32	0.36
+ArocheXA_2025	ArocheXA_2025__SRR32671082__bin.1	SRR32671082	assigned	SGB92556	kSGB	Species	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter_pollinis	2014565.0	378.0	6183.0	80.27	0.67	0.36
+ArocheXA_2025	ArocheXA_2025__SRR32671082__bin.17	SRR32671082	unassigned_prokaryote			Others	Bacteria	Bacillota						1306967.0	121.0	16468.0	79.01	4.66	0.37
+ArocheXA_2025	ArocheXA_2025__SRR32671082__bin.37	SRR32671082	unassigned_prokaryote			Genus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillaceae_unclassified		1391484.0	6.0	767004.0	96.53	0.21	0.5
+ArocheXA_2025	ArocheXA_2025__SRR32671083__bin.11	SRR32671083	unassigned_prokaryote			Others	Bacteria	Bacillota						965304.0	71.0	35864.0	67.02	1.28	0.37
+ArocheXA_2025	ArocheXA_2025__SRR32671083__bin.22	SRR32671083	unassigned_prokaryote			Others	Bacteria	Pseudomonadota						1466268.0	14.0	150066.0	64.88	0.2	0.63
+ArocheXA_2025	ArocheXA_2025__SRR32671083__bin.35	SRR32671083	unassigned_prokaryote			Others	Bacteria	Pseudomonadota						1024829.0	194.0	6251.0	68.46	0.85	0.39
+ArocheXA_2025	ArocheXA_2025__SRR32671083__bin.43	SRR32671083	unassigned_prokaryote			Genus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillaceae_unclassified		1391784.0	7.0	767193.0	96.54	0.21	0.5
+ArocheXA_2025	ArocheXA_2025__SRR32671084__bin.20	SRR32671084	unassigned_prokaryote			Others	Bacteria	Bacillota						1371700.0	49.0	47276.0	76.13	2.61	0.37
+ArocheXA_2025	ArocheXA_2025__SRR32671085__bin.26	SRR32671085	unassigned_prokaryote			Others	Bacteria	Bacillota						1202504.0	117.0	21153.0	64.6	1.71	0.37
+ArocheXA_2025	ArocheXA_2025__SRR32671085__bin.30	SRR32671085	unassigned_prokaryote			Genus	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter		2397874.0	233.0	16010.0	95.89	2.7	0.36
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.11	SRR32671090	unassigned_prokaryote			Others	Bacteria	Bacillota						868230.0	49.0	30936.0	51.5	0.7	0.34
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.13	SRR32671090	unassigned_prokaryote			Genus	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter		2045987.0	183.0	14873.0	99.69	0.92	0.36
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.19	SRR32671090	unassigned_prokaryote			Others	Bacteria	Pseudomonadota						1237593.0	197.0	7612.0	67.87	1.25	0.45
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.26	SRR32671090	unassigned_prokaryote			Genus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Fructobacillus		1179226.0	77.0	23484.0	84.54	1.65	0.45
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.3	SRR32671090	unassigned_prokaryote			Others	Bacteria	Pseudomonadota						2140395.0	446.0	5730.0	68.84	2.02	0.42
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.7	SRR32671090	unassigned_prokaryote			Others	Bacteria	Bacillota						1002995.0	63.0	35756.0	77.66	0.21	0.29
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.8	SRR32671090	unassigned_prokaryote			Genus	Bacteria	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter		2279162.0	224.0	15459.0	91.05	1.65	0.36
+ArocheXA_2025	ArocheXA_2025__SRR32671090__bin.9	SRR32671090	unassigned_prokaryote			Others	Bacteria	Pseudomonadota						1684574.0	94.0	22411.0	88.66	1.64	0.45
+ArocheXA_2025	ArocheXA_2025__SRR32671091__bin.14	SRR32671091	unassigned_prokaryote			Genus	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Holzapfeliella		1162225.0	218.0	7654.0	89.45	4.88	0.33
+ArocheXA_2025	ArocheXA_2025__SRR32671091__bin.17	SRR32671091	unassigned_prokaryote			Others	Bacteria	Bacillota						627149.0	22.0	58905.0	50.63	0.77	0.34
+ArocheXA_2025	ArocheXA_2025__SRR32671092__bin.21	SRR32671092	unassigned_prokaryote			Others	Bacteria	Bacillota						865115.0	16.0	105583.0	61.78	2.73	0.28
+ArocheXA_2025	ArocheXA_2025__SRR32671093__bin.8	SRR32671093	unassigned_prokaryote			Others	Bacteria	Bacillota						1097330.0	34.0	65548.0	79.47	3.39	0.29
+ArocheXA_2025	ArocheXA_2025__SRR32671094__bin.20	SRR32671094	unassigned_prokaryote			Others	Bacteria	Bacillota						965525.0	35.0	48087.0	69.2	0.63	0.29
+ArocheXA_2025	ArocheXA_2025__SRR32671094__bin.8	SRR32671094	unassigned_prokaryote			Others	Bacteria	Bacillota						1225942.0	53.0	36519.0	80.79	1.53	0.33
+ArocheXA_2025	ArocheXA_2025__SRR32671096__bin.12	SRR32671096	unassigned_prokaryote			Others	Bacteria	Pseudomonadota						1973796.0	196.0	13098.0	96.29	0.34	0.5
+ArocheXA_2025	ArocheXA_2025__SRR32671096__bin.16	SRR32671096	unassigned_prokaryote			Others	Bacteria	Bacillota						903425.0	12.0	211981.0	63.28	0.01	0.41
+ArocheXA_2025	ArocheXA_2025__SRR32671096__bin.20	SRR32671096	unassigned_prokaryote			Others	Bacteria	Pseudomonadota						820418.0	257.0	3401.0	68.37	2.31	0.27
+ArocheXA_2025	ArocheXA_2025__SRR32671096__bin.3	SRR32671096	unassigned_prokaryote			Others	Bacteria	Bacillota						1388624.0	190.0	9636.0	81.09	4.13	0.37

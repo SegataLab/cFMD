@@ -1,0 +1,2 @@
+dataset_id	MAG_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+BandlaA_2020	BandlaA_2020__SRR10585543__bin.3	SRR10585543	unassigned_eukaryote											16763757	1899	11309	97.48	19.67	0.57
