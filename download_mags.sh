@@ -53,9 +53,9 @@ list_1_3=('UNINA_CM_2025' 'YasirM_2023' 'BloomfieldSJ_2023' 'GuronKPG_2019' 'Par
 list_skip=('HellmannSL_2020' 'KawaiT_2012' 'McHughAJ_2020' 'QiaoZ_2025' 'RippF_2014')
 
 
-zen_1="14871851"
+zen_1="17710367"
 
-zen_2="15609141"
+zen_2="17709831"
 
 zen_3="20610435"
 
