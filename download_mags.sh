@@ -3,10 +3,10 @@
 Help()
 {
    # Display usage
-   echo "Script to download functional profiles of cFMD dataset(s)."
+   echo "Script to download MAGs reconstructed from cFMD dataset(s)."
    echo "Available datasets are listed at https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv"
    echo
-   echo "Syntax: ./download_functional_profiles.sh {dataset_name_1} {dataset_name_2} ..."
+   echo "Syntax: ./download_mags.sh {dataset_name_1} {dataset_name_2} ..."
    echo
    echo "optional arguments:"
    echo "-h     Print help and exit."
