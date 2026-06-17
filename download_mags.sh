@@ -3,10 +3,10 @@
 Help()
 {
    # Display usage
-   echo "Script to download MAGs reconstructed from cFMD dataset(s)."
+   echo "Script to download functional profiles of cFMD dataset(s)."
    echo "Available datasets are listed at https://github.com/SegataLab/cFMD/blob/main/cFMD_datasets.tsv"
    echo
-   echo "Syntax: ./download_mags.sh {dataset_name_1} {dataset_name_2} ..."
+   echo "Syntax: ./download_functional_profiles.sh {dataset_name_1} {dataset_name_2} ..."
    echo
    echo "optional arguments:"
    echo "-h     Print help and exit."
@@ -34,32 +34,41 @@ then
     exit 1
 fi
 
-
 d=$1
 
 list_1_0_0=('AlvarezOrdonezA_xxxx' 'ArikanM_2020' 'BertuzziAS_2018' 'ChaconVargasK_2020' 'CM_INJERA' 'CrovadoreJ_2017' 'DeFilippisF_xxxx' 'DeRoosJ_2020'
-'DuR_2020' 'DuruIC_2018' 'EinsonEJ_2018' 'EscobarZepedaA_2016' 'FerrocinoI_2018' 'HeilCS_2018' 'HellmannSL_2020' 'KastmanEK_2016' 'KawaiT_2012' 'KumarJ_2019' 'LandisEA_2021' 'LeechJ_2020'
+'DuR_2020' 'DuruIC_2018' 'EinsonEJ_2018' 'EscobarZepedaA_2016' 'FerrocinoI_2018' 'HeilCS_2018' 'KastmanEK_2016' 'KumarJ_2019' 'LandisEA_2021' 'LeechJ_2020'
 'LeechJ_xxxx' 'LeonardSR_2016' 'LiZ_2018' 'LiZ_2019' 'LordanR_2019' 'MASTER_WP4_CSIC_1' 'MASTER_WP4_CSIC_2' 'MASTER_WP4_FFoQSI_1' 'MASTER_WP4_FFoQSI_2' 'MASTER_WP4_FFoQSI_3' 'MASTER_WP4_MATIS_1'
-'MASTER_WP4_TEAGASC_1' 'MASTER_WP4_UNINA_1' 'MASTER_WP4_UNINA_2' 'McHughAJ_2020' 'MilaniC_2019' 'MortensenS_xxxx' 'PasolliE_2020' 'PatroJN_2016' 'PfeferT_xxxx' 'PorcellatoD_2016' 'PothakosV_2020' 'QuigleyL_2016' 'RippF_2014'
-'SalvettiE_2016' 'SomervilleV_2019' 'SternesPR_2017' 'SulaimanJ_2014' 'VerceM_2019' 'WalshAM_2016' 'WalshAM_2017' 'WalshAM_2020' 'WalshL_xxxx' 'WolfeBE_2014' 'XieM_2019' 'YaoG_2017' 'YasirM_2020' 'YulandiA_2020' 'ZhaoCC_2020')
-
+'MASTER_WP4_TEAGASC_1' 'MASTER_WP4_UNINA_1' 'MASTER_WP4_UNINA_2' 'MilaniC_2019' 'MortensenS_xxxx' 'PasolliE_2020' 'PatroJN_2016' 'PfeferT_xxxx' 'PorcellatoD_2016' 'PothakosV_2020' 'QuigleyL_2016' 
+'SalvettiE_2016' 'SomervilleV_2019' 'SternesPR_2017' 'SulaimanJ_2014' 'VerceM_2019' 'WalshAM_2016' 'WalshAM_2017' 'WalshAM_2020' 
+'WalshL_xxxx' 'WolfeBE_2014' 'XieM_2019' 'YaoG_2017' 'YasirM_2020' 'YulandiA_2020' 'ZhaoCC_2020')
 
 list_1_2_1=('ShangpliangH_2023_a' 'ShangpliangH_2023_b' 'KharnaiorP_2023' 'YouL_2022' 'LimaC_2020' 'DecadtH_2024' 'YasirM_2022' 'FontanaF_2023' 'FranciosaI_2021'
 'MotaGutierrezJ_2021' 'SaakC_2023' 'YangC_2021' 'LopezSanchezR_2023' 'GonzalezOrozcoB_2023' 'SalgadoTS_2021' 'FalardeauJ_2023' 'SequinoG_2024_a' 'SequinoG_2024_b' 'MagliuloR_2024'
-'YapM_2020' 'OlgaP_2019' 'QuijadaN_2022' 'YuY_2022' 'TomarS_2023' 'AlmeidaO_2020' 'CM_UNINA_FFOOD' )
+'YapM_2020' 'OlgaP_2019' 'QuijadaN_2022' 'YuY_2022' 'TomarS_2023' 'AlmeidaO_2020' 'CM_UNINA_FFOOD')
 
 list_1_3=('UNINA_CM_2025' 'YasirM_2023' 'BloomfieldSJ_2023' 'GuronKPG_2019' 'ParkJW_2025' 'BuzzancaD_2024' 'SantAnnaMF_2025' 'QuekJJ_2025' 'BandlaA_2020' 'QuT_2024' 'VermoteL_2025' 
-'ZhangZ_2021' 'LiYM_2020' 'LeonardSR_2015' 'FlintA_2023' 'IndioV_2024' 'SirenK_2019' 'GianvitoDP_2025' 'DasM_2024' 'ZhangH_2020' 'MoonSH_2021' 'GardonH_2025' 'QiaoZ_2025' 'ArocheXA_2025')
+'ZhangZ_2021' 'LiYM_2020' 'LeonardSR_2015' 'FlintA_2023' 'IndioV_2024' 'SirenK_2019' 'GianvitoDP_2025' 'DasM_2024' 'ZhangH_2020' 'MoonSH_2021' 'GardonH_2025' 'ArocheXA_2025')
 
-zen_1="17710367"
+list_skip=('HellmannSL_2020' 'KawaiT_2012' 'McHughAJ_2020' 'QiaoZ_2025' 'RippF_2014')
 
-zen_2="17709831"
 
-zen_3="20610435"
+zen_1="14871851"
+
+zen_2="15609141"
+
+zen_3="20607375"
+
 
 for d in "$@"; do
     zen_doi=""
 
+    for item in "${list_skip[@]}"; do
+        if [[ "$d" == "$item" ]]; then
+            echo "No MAGs were generated for the dataset '$d'."
+            continue 2
+        fi
+    done
 
     for item in "${list_1_0_0[@]}"; do
         if [[ "$d" == "$item" ]]; then
@@ -67,7 +76,6 @@ for d in "$@"; do
             break
         fi
     done
-
 
     if [[ -z "$zen_doi" ]]; then
         for item in "${list_1_2_1[@]}"; do
@@ -94,10 +102,10 @@ for d in "$@"; do
         continue
     fi
 
-    file="${d}_mags.tar.gz"
-    wget "https://zenodo.org/records/$zen_doi/files/${d}_mags.tar.gz?download=1" -O "$file"
+    file="${d}_functional_profiles.tar.gz"
+    wget "https://zenodo.org/records/$zen_doi/files/${d}_functional_profiles.tar.gz?download=1" -O "$file"
 
-    mkdir -p "${d}_mags" && tar -xzf "$file" -C "${d}_mags"
+    mkdir -p "${d}_functional_profiles" && tar -xzf "$file" -C "${d}_functional_profiles"
     rm "$file"
 
 done
