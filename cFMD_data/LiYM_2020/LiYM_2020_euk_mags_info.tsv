@@ -1,0 +1,2 @@
+dataset_id	MAG_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+LiYM_2020	LiYM_2020__ERR3427620__bin.6	ERR3427620	unassigned_eukaryote											12549583	543	38702	100.0	84.25	0.34

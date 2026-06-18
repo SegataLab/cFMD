@@ -1,0 +1,2 @@
+dataset_id	MAG_id	sample_id	SGB_assignment	SGB_id	unknown	assigned_taxonomy_level	superkingdom	phylum	class	order	family	genus	species	genome_size	n_contigs	N50	completeness	contamination	GC_content
+ZhangH_2020	ZhangH_2020__SRR11406045__bin.1	SRR11406045	unassigned_eukaryote											38368895	1753	35902	0.13	36.05	0.43
